@@ -1,0 +1,1201 @@
+vehicle_id,customer_id,vehicle_make,vehicle_model,vehicle_year,vehicle_type,fuel_type,transmission_type,vehicle_value_estimate,annual_mileage,primary_use,ownership_status,garage_type,anti_theft_device_flag
+VEH00001,CUST00001,Nissan,Rogue,2021,suv,gasoline,automatic,28551.65,10786,commuting,owned,,0
+VEH00002,CUST00002,Kia,Forte,2013,sedan,electric,automatic,3895.43,17869,commercial_light,financed,street,0
+VEH00003,CUST00003,CHEVROLET,Bolt,2015,hatchback,gasoline,automatic,10185.3,2500,family,owned,street,1
+VEH00004,CUST00004,Honda,Accord,2022,sedan,gasoline,automatic,27746.85,10205,commuting,owned,street,0
+VEH00005,CUST00005,Hyundai,Elantra,2015,hatchback,gasoline,automatic,7384.33,11007,leisure,leased,street,1
+VEH00006,CUST00006,Kia,Rio,2012,sedan,gasoline,automatic,6058.28,14406,leisure,owned,garage,0
+VEH00007,CUST00007,Ford,Mustang,2023,coupe,gasoline,automatic,23310.75,8799,family,owned,garage,0
+VEH00008,CUST00008,Honda,Civic,2018,sedan,hybrid,automatic,17420.85,10053,mixed,owned,garage,0
+VEH00009,CUST00008,Chevrolet,Silverado,2012, pickup,gasoline,manual,7684.64,9652,family,owned,garage,0
+VEH00010,CUST00009,Subaru,Impreza,2022,coupe,gasoline,automatic,23920.25,4241,mixed,owned,street,1
+VEH00011,CUST00010,Kia,Sportage,2011,suv,gasoline,automatic,3500.0,11998,commercial_light,financed,street,1
+VEH00012,CUST00011,Ford ,Mustang,2024,coupe,electric,automatic,25732.27,8817,commuting,owned,street,1
+VEH00013,CUST00012,Toyota,Camry,2019,sedan,gasoline,automatic,14274.02,17692,commuting,financed,garage,1
+VEH00014,CUST00013,Chevrolet,Malibu,2017,sedan,gasoline,automatic,15051.43,9012,family,owned,driveway,0
+VEH00015,CUST00014,Subaru,Impreza,2011,hatchback,gasoline,automatic,11223.47,15853,commercial_light,owned,garage,0
+VEH00016,CUST00015,Hyundai,Sonata,2010,sedan,electric,automatic,3500.0,8257,commuting,owned,garage,0
+VEH00017,CUST00016,Ford,Focus,2018,hatchback,gasoline,automatic,14311.06,11041,family,financed,driveway,1
+VEH00018,CUST00017,Kia,Sportage,2022,pickup,hybrid,automatic,16211.14,12805,family,financed,garage,0
+VEH00019,CUST00018,Kia,Forte,2010,sedan,hybrid,automatic,3500.0,12805,leisure,financed,driveway,0
+VEH00020,CUST00019,Honda,Civic,2019,sedan,hybrid,automatic,16913.33,2500,family,owned,garage,1
+VEH00021,CUST00020,Jeep,Grand Cherokee,2021,suv,hybrid,automatic,24673.3,8122,commercial_light,leased,garage,0
+VEH00023,CUST00021,Tesla,Model Y,2010,suv,gasoline,automatic,24810.83,18049,family,leased,garage,0
+VEH00024,CUST00022,Nissan,Altima,2023,sedan,gasoline,automatic,18066.47,15578,family,owned,street,0
+VEH00025,CUST00023,Jeep,Compass,2012,suv,gasoline,manual,15437.87,9485,commuting,financed,driveway,0
+VEH00026,CUST00023,Jeep,Grand Cherokee,2020,suv,diesel,automatic,16240.37,13376,mixed,owned,garage,0
+VEH00027,CUST00024,Honda,CR-V,2018,suv,electric,manual,11379.5,9046,commuting,owned,driveway,0
+VEH00028,CUST00025,Tesla,Model Y,2025,suv,gasoline,automatic,48628.24,6754,leisure,leased,street,0
+VEH00029,CUST00026,Chevrolet,Silverado,2024,pickup,diesel,automatic,28718.18,13592,family,financed,street,1
+VEH00030,CUST00027,Tesla,Model 3,2025,sedan,gasoline,automatic,39005.37,10740,commuting,owned,driveway,1
+VEH00031,CUST00027,Honda,CR-V,2012,minivan,electric,automatic,7591.41,10135,leisure,financed,,0
+VEH00032,CUST00028,Kia,Forte,2017,sedan,diesel,automatic,11558.57,6231,family,leased,street,0
+VEH00033,CUST00029,Hyundai,Kona,2021,suv,hybrid,manual,16916.79,18070,commuting,owned,garage,1
+VEH00034,CUST00030,Jeep,Compass,2018,suv,gasoline,automatic,19021.2,13199,family,owned,street,1
+VEH00035,CUST00031,Chevrolet,Silverado,2012,pickup,gasoline,manual,3500.0,6401,commuting,leased,garage,1
+VEH00036,CUST00032,Kia,Sportage,2012,suv,gasoline,automatic,6812.9,21396,commuting,owned,driveway,0
+VEH00037,CUST00032,Jeep,Compass,2025,suv,hybrid,automatic,32176.58,15965,leisure,leased,garage,0
+VEH00038,CUST00032,Hyundai,Tucson,2016,suv,electric,automatic,3500.0,15955,family,owned,garage,0
+VEH00039,CUST00033,Subaru ,Outback,2015,suv,electric,automatic,11418.25,12755,leisure,financed,garage,0
+VEH00040,CUST00034,Chevrolet,Bolt,2016,pickup,gasoline,automatic,13499.42,5998,commuting,owned,street,0
+VEH00041,CUST00035,Chevrolet,Equinox,2018,suv,gasoline,automatic,20988.89,15052,mixed,owned,garage,0
+VEH00042,CUST00036,Chevrolet,Equinox,2016,suv,diesel,manual,19219.68,19885,mixed,owned,,0
+VEH00043,CUST00037,Chevrolet,Silverado,2014,pickup,gasoline,automatic,11356.37,8633,commuting,leased,garage,0
+VEH00044,CUST00038,Honda,Civic,2012,sedan,gasoline,automatic,5341.47,16289,leisure,financed,driveway,0
+VEH00045,CUST00038,Tesla,Model 3,2011,minivan,gasoline,automatic,23386.09,12448,leisure,financed,garage,0
+VEH00046,CUST00039,Tesla,Model Y,2020,hatchback,electric,automatic,37461.54,8251,commuting,owned,driveway,1
+VEH00047,CUST00040,Tesla,Model Y,2025,suv ,hybrid,automatic,36531.36,14460,family,financed,garage,0
+VEH00048,CUST00041,Ford,F-150,2022,pickup,gasoline,automatic,24305.07,6774,commuting,owned,driveway,0
+VEH00049,CUST00042,Chevrolet,Equinox,2011,suv,gasoline,manual,3500.0,22979,commuting,owned,covered_lot,0
+VEH00050,CUST00043,Jeep,Grand Cherokee,2025,sedan,diesel,automatic,33488.62,7817,commuting,owned,street,1
+VEH00051,CUST00043,Jeep,Compass,2021,suv,gasoline,automatic,21071.92,14820,commuting,financed,covered_lot,0
+VEH00052,CUST00044,Kia,Forte,2024,sedan,gasoline,automatic,17968.2,11420,family,leased,covered_lot,0
+VEH00053,CUST00045,Honda,Odyssey,2020,minivan,gasoline,automatic,20451.09,7106,mixed,leased,garage,1
+VEH00054,CUST00046,Toyota,Corolla,2016,sedan,gasoline,automatic,10118.48,13678,commuting,leased,driveway,1
+VEH00055,CUST00047,Kia,Rio,2020,sedan,diesel,automatic,17409.97,8648,commuting,owned,driveway,1
+VEH00056,CUST00048,Hyundai,Tucson,2015,suv,gasoline,automatic,9327.31,18549,mixed,owned,garage,0
+VEH00057,CUST00049,Jeep,Grand Cherokee,2017,suv,gasoline,automatic,20242.8,21284,commercial_light,financed,covered_lot,0
+VEH00058,CUST00050,Nissan,Leaf,2020,hatchback,gasoline,automatic,19590.85,12516,mixed,owned,,1
+VEH00059,CUST00050,Hyundai,Sonata,2025,sedan,gasoline,automatic,22726.29,10432,commercial_light,owned,,0
+VEH00060,CUST00051,Kia,Forte,2023,sedan,diesel,automatic,17934.7,2500,family,financed,garage,0
+VEH00061,CUST00052,Hyundai,Tucson,2022,suv,gasoline,automatic,12114.5,9576,family,financed,garage,0
+VEH00062,CUST00053,Nissan,Leaf,2015,hatchback,gasoline,automatic,6703.68,17638,mixed,financed,covered_lot,0
+VEH00063,CUST00054,Subaru,Impreza,2017,hatchback,electric,automatic,19399.96,22144,leisure,owned,street,0
+VEH00064,CUST00055,Honda,CR-V,2017,suv,electric,manual,6689.47,17119,commuting,owned,street,0
+VEH00065,CUST00056,Jeep,Grand Cherokee,2022,suv,gasoline,automatic,22819.71,7569,commuting,owned,covered_lot,0
+VEH00066,CUST00057,Chevrolet,Equinox,2014,suv,gasoline,automatic,3500.0,17707,family,owned,street,0
+VEH00067,CUST00058,Tesla,Model 3,2015,sedan,gasoline,automatic,26496.73,15110,family,owned,,1
+VEH00068,CUST00059,KIA,Soul,2014,hatchback,gasoline,manual,9344.74,7283,commuting,owned,garage,0
+VEH00069,CUST00060,Jeep,Grand Cherokee,2025,suv,gasoline,automatic,30410.22,16710,leisure,owned,street,0
+VEH00070,CUST00060,Nissan,Rogue,2011,suv,diesel,automatic,3500.0,19720,commuting,owned,street,0
+VEH00071,CUST00061,Kia,Rio,2015,sedan,gasoline,automatic,9084.05,8077,commuting,leased,street,1
+VEH00072,CUST00062,Toyota,Camry,2018,coupe,gasoline,automatic,12924.76,6003,commuting,financed,garage,0
+VEH00073,CUST00063,Tesla,Model 3,2024,suv,gasoline,automatic,40882.82,13836,mixed,leased,street,0
+VEH00074,CUST00064,Hyundai,Tucson,2021,sedan,gasoline,automatic,11682.52,6192,mixed,financed,garage,0
+VEH00075,CUST00065,Hyundai,Tucson,2021,suv,hybrid,automatic,16614.59,15776,commuting,financed,covered_lot,0
+VEH00076,CUST00066,Toyota,Tacoma,2013,suv,hybrid,manual,10355.12,22042,commuting,owned,driveway,0
+VEH00077,CUST00067,Hyundai,Sonata,2015,sedan,gasoline,automatic,11379.66,18192,commuting,owned,garage,0
+VEH00078,CUST00068,Nissan,Rogue,2020,suv,hybrid,manual,19853.48,6764,commuting,owned,street,0
+VEH00079,CUST00069,Jeep,Grand Cherokee,2024,suv,hybrid,automatic,35001.21,11730,commuting,owned,covered_lot,1
+VEH00080,CUST00070,Honda,Odyssey,2019,minivan,gasoline,automatic,17845.49,11352,commuting,financed,covered_lot,1
+VEH00081,CUST00071,Tesla,Model 3,2015,sedan,gasoline,automatic,25799.01,7856,family,leased,driveway,0
+VEH00082,CUST00072,HYUNDAI,Kona,2022,suv,hybrid,automatic,20845.17,6945,commuting,financed,street,1
+VEH00083,CUST00073,Honda,Civic,2015,sedan,hybrid,automatic,13152.23,13955,commercial_light,financed,street,1
+VEH00084,CUST00074,Hyundai,Sonata,2020,sedan,hybrid,automatic,17392.49,10475,mixed,leased,garage,0
+VEH00085,CUST00075,Hyundai,Tucson,2018,suv,gasoline,manual,9788.78,12441,mixed,financed,driveway,1
+VEH00086,CUST00076,Subaru,Forester,2022,suv,diesel,automatic,16282.38,18540,family,financed,street,1
+VEH00087,CUST00077,Nissan,Leaf,2021,hatchback,hybrid,automatic,12625.05,16252,family,financed,driveway,1
+VEH00089,CUST00079,Kia,Forte,2015,sedan,gasoline,automatic,7155.32,2715,commuting,financed,street,1
+VEH00090,CUST00080,Toyota,Camry,2017,sedan,gasoline,automatic,9244.89,15700,mixed,owned,street,0
+VEH00091,CUST00081,Nissan,Sentra,2016,sedan,hybrid,automatic,10630.51,3063,leisure,owned,street,0
+VEH00092,CUST00082,Ford,Mustang,2013,coupe,gasoline,automatic,10289.57,18233,commercial_light,owned,garage,0
+VEH00093,CUST00083,Honda,Civic,2025,sedan,gasoline,automatic,23233.64,13354,commuting,financed,garage,0
+VEH00094,CUST00084,Jeep,Compass,2010,suv,gasoline,automatic,6384.28,6834,commuting,owned,street,0
+VEH00095,CUST00085,Kia,Rio,2013,suv,gasoline,manual,3500.0,12886,family,owned,driveway,0
+VEH00096,CUST00086,Nissan,Altima,2012,coupe,gasoline,automatic,5975.61,7789,commuting,financed,covered_lot,0
+VEH00097,CUST00087,Kia,Sportage,2017,suv,gasoline,automatic,12152.43,16306,leisure,financed,covered_lot,1
+VEH00098,CUST00088,Chevrolet,Silverado,2024,pickup,gasoline,automatic,23621.92,9915,commercial_light,leased,driveway,0
+VEH00099,CUST00089,Ford,Escape,2015,suv,gasoline,automatic,12859.48,10826,family,owned,covered_lot,1
+VEH00100,CUST00090,Toyota,Corolla,2021,sedan,hybrid,automatic,19899.83,13327,mixed,owned,garage,1
+VEH00101,CUST00091,Hyundai,Kona,2024,suv,gasoline,automatic,24596.8,10999,commuting,owned,garage,1
+VEH00102,CUST00092,Jeep,Grand Cherokee,2024,suv,gasoline,manual,32713.1,14196,mixed,owned,garage,1
+VEH00103,CUST00093,Ford,Escape,2024,suv,gasoline,automatic,20420.98,13941,family,financed,driveway,0
+VEH00104,CUST00094,Subaru,Outback,2019,suv,diesel,automatic,16712.4,8722,leisure,financed,,0
+VEH00105,CUST00095,Hyundai,Kona,2017,suv,diesel,automatic,11997.83,8182,commercial_light,leased,street,1
+VEH00106,CUST00096,Honda,Odyssey,2019,suv,gasoline,automatic,15419.39,16662,mixed,leased,covered_lot,0
+VEH00107,CUST00097,Hyundai,Kona,2018,suv,gasoline,automatic,10335.43,14069,commuting,financed,street,0
+VEH00108,CUST00098,Ford,F-150,2010,sedan,gasoline,automatic,5640.76,15077,commuting,leased,garage,1
+VEH00109,CUST00099,Toyota,Camry,2021,MINIVAN,diesel,automatic,18863.1,18952,commuting,owned,garage,1
+VEH00110,CUST00100,Nissan,Leaf,2010,hatchback,hybrid,automatic,3811.4,13951,commuting,leased,street,0
+VEH00111,CUST00101,Tesla,Model Y,2019,suv,hybrid,automatic,38097.91,23978,commuting,financed,garage,0
+VEH00112,CUST00102,Toyota,Tacoma,2019,pickup,gasoline,automatic,14045.13,6608,family,financed,covered_lot,0
+VEH00113,CUST00103,Subaru,Impreza,2010,sedan,gasoline,automatic,14842.15,18230,family,owned,driveway,0
+VEH00114,CUST00104,Jeep,Grand Cherokee,2016,suv,gasoline,automatic,24160.42,26631,leisure,financed,covered_lot,1
+VEH00115,CUST00105,Kia,Soul,2022,hatchback,gasoline,automatic,18841.39,7715,mixed,financed,driveway,0
+VEH00116,CUST00106,Chevrolet,Equinox,2022,suv,gasoline,automatic,17324.52,7127,family,financed,driveway,0
+VEH00117,CUST00106,Kia,Forte,2018,sedan,gasoline,automatic,12321.62,12525,mixed,owned,street,1
+VEH00118,CUST00107,Honda,Odyssey,2017,minivan,gasoline,automatic,17042.63,11478,commuting,leased,covered_lot,0
+VEH00119,CUST00108,Jeep,Grand Cherokee,2019,sedan,gasoline,automatic,25912.97,10916,commuting,owned,covered_lot,1
+VEH00120,CUST00108,Jeep,Grand Cherokee,2023,suv,gasoline,automatic,27957.91,6693,commuting,financed,driveway,0
+VEH00121,CUST00109,Chevrolet,Malibu,2015,suv,gasoline,automatic,8688.05,8616,commuting,owned,garage,0
+VEH00123,CUST00111,Tesla,Model Y,2018,suv,hybrid,automatic,34943.88,21446,commuting,leased,garage,0
+VEH00124,CUST00112,Subaru,Outback,2016,suv,diesel,automatic,17600.34,15202,family,owned,driveway,0
+VEH00125,CUST00113,Hyundai,Elantra,2014,sedan,gasoline,manual,12449.48,8409,commuting,owned,garage,0
+VEH00126,CUST00114, Toyota,Corolla,2015,sedan,diesel,automatic,12309.76,7604,commuting,owned,driveway,0
+VEH00127,CUST00115,Honda,CR-V,2018,suv,gasoline,automatic,16342.44,6274,mixed,financed,driveway,0
+VEH00128,CUST00116,Ford,Mustang,2010,coupe,electric,automatic,9584.29,4163,family,financed,garage,1
+VEH00129,CUST00117,Chevrolet,Malibu,2014,sedan,gasoline,automatic,8742.14,18151,commuting,owned,covered_lot,1
+VEH00130,CUST00118,Toyota,Tacoma,2016,pickup,gasoline,automatic,11969.99,15105,family,owned,garage,1
+VEH00132,CUST00120,Tesla,Model Y,2024,suv,gasoline,automatic,41237.45,12269,mixed,owned,garage,1
+VEH00133,CUST00121,Toyota,RAV4,2012,hatchback,gasoline,automatic,3500.0,10553,commuting,owned,street,0
+VEH00134,CUST00122,Ford,Focus,2018,hatchback,electric,automatic,16338.11,13990,commuting,financed,garage,1
+VEH00135,CUST00122,Kia,Rio,2025,sedan,gasoline,automatic,15593.82,16065,family,owned,garage,1
+VEH00136,CUST00123,FORD,Escape,2018,suv,gasoline,automatic,10058.54,9296,commercial_light,financed,driveway,0
+VEH00137,CUST00124,Kia,Rio,2013,sedan,hybrid,automatic,3843.92,4506,mixed,financed,garage,0
+VEH00138,CUST00125,Chevrolet,Bolt,2024,hatchback,gasoline,automatic,22317.51,7030,leisure,financed,street,0
+VEH00139,CUST00126,Chevrolet,Malibu,2016,sedan,hybrid,automatic,12768.31,11258,commuting,owned,garage,0
+VEH00140,CUST00127,Tesla,Model 3,2016,sedan,diesel,automatic,24061.43,6924,commuting,owned,driveway,0
+VEH00141,CUST00128,Tesla,Model Y,2019,suv,gasoline,automatic,33322.35,12625,commuting,leased,garage,0
+VEH00142,CUST00129,Hyundai,Sonata,2011,sedan,hybrid,automatic,3500.0,19312,mixed,owned,garage,1
+VEH00143,CUST00130,Jeep,Compass,2018,SUV,diesel,automatic,22892.49,10545,commuting,owned,street,0
+VEH00144,CUST00131,Tesla,Model Y,2016,SUV,gasoline,automatic,30712.02,12833,commercial_light,financed,driveway,0
+VEH00145,CUST00131,Hyundai,Elantra,2016,suv,gasoline,automatic,12687.76,16737,commercial_light,owned,driveway,0
+VEH00146,CUST00132,Honda,Accord,2023,sedan,hybrid,manual,23418.7,21820,commuting,financed,street,0
+VEH00147,CUST00133,Hyundai,Elantra,2015,sedan,gasoline,automatic,7947.81,11049,family,owned,garage,1
+VEH00148,CUST00134,Nissan,Sentra,2022,sedan,gasoline,automatic,13955.81,15754,commuting,leased,driveway,1
+VEH00149,CUST00135,Chevrolet,Malibu,2011,minivan,gasoline,automatic,9192.64,16936,family,financed,covered_lot,0
+VEH00150,CUST00136,Subaru,Forester,2025,suv,gasoline,automatic,29012.71,6262,family,financed,garage,0
+VEH00151,CUST00136,Subaru,Impreza,2021,hatchback,gasoline,automatic,13499.51,2500,commuting,owned,,1
+VEH00152,CUST00137,Honda,Accord,2015,sedan,gasoline,automatic,9395.02,12334,mixed,financed,garage,1
+VEH00153,CUST00138,Tesla,Model 3,2020,sedan,hybrid,automatic,38916.54,19668,commuting,financed,garage,0
+VEH00154,CUST00138,Toyota,Corolla,2021,sedan,gasoline,manual,16786.2,22906,commuting,leased,street,0
+VEH00155,CUST00139,Ford,Focus,2014,suv,gasoline,automatic,5534.84,11388,commuting,leased,,0
+VEH00156,CUST00140,Tesla,Model 3,2020,sedan,gasoline,automatic,30967.32,6399,family,financed,garage,1
+VEH00157,CUST00141,Jeep,Grand Cherokee,2024,suv,gasoline,automatic,27310.88,16716,commuting,owned,driveway,0
+VEH00158,CUST00142,Chevrolet,Malibu,2022,sedan,gasoline,automatic,17031.45,12270,mixed,owned,street,0
+VEH00159,CUST00143,Hyundai,Sonata,2018,sedan,gasoline,automatic,9602.78,18873,commercial_light,owned,garage,0
+VEH00160,CUST00144,Toyota,Tacoma,2024,pickup,gasoline,automatic,19885.67,12204,commuting,financed,street,0
+VEH00161,CUST00145,Jeep,Grand Cherokee,2025,sedan,gasoline,automatic,31250.56,5119,family,owned,garage,1
+VEH00162,CUST00146,Chevrolet,Equinox,2021,suv,gasoline,automatic,18069.26,7404,mixed,financed,street,0
+VEH00163,CUST00147,Hyundai,Kona,2018,suv,gasoline,manual,14740.15,25147,family,leased,garage,0
+VEH00164,CUST00147,Subaru,Forester,2015,suv,electric,automatic,17834.04,8845,commercial_light,financed,driveway,0
+VEH00165,CUST00148,Honda,Accord,2024,sedan,gasoline,manual,24169.58,15821,commuting,owned,garage,0
+VEH00166,CUST00149,Nissan,Rogue,2021,suv,hybrid,automatic,13891.13,12830,mixed,financed,covered_lot,0
+VEH00167,CUST00150,Tesla,Model 3,2022,sedan,gasoline,manual,40119.72,16343,mixed,owned,,0
+VEH00168,CUST00151,Ford,Focus,2021,hatchback,gasoline,automatic,20813.23,9931,commuting,financed,garage,0
+VEH00169,CUST00152,Subaru,Impreza,2020,hatchback,gasoline,automatic,18303.48,6017,leisure,owned,covered_lot,0
+VEH00170,CUST00153,Honda,Odyssey,2016,coupe,gasoline,automatic,12165.67,6874,mixed,financed,street,1
+VEH00171,CUST00154,Jeep,Grand Cherokee,2014,pickup,hybrid,automatic,20022.64,13789,leisure,owned,street,0
+VEH00172,CUST00155,Subaru,Outback,2020,suv,gasoline,automatic,18531.89,18658,mixed,leased,street,0
+VEH00173,CUST00156,Kia,Sportage,2013,coupe,gasoline,automatic,4414.4,10724,commuting,financed,street,1
+VEH00174,CUST00157,HONDA,Civic,2011,SEDAN,gasoline,automatic,5056.17,15507,leisure,owned,,0
+VEH00175,CUST00158,Ford,Escape,2011,suv,hybrid,automatic,9126.83,12968,commuting,leased,street,0
+VEH00176,CUST00159,Chevrolet,Malibu,2025,sedan,hybrid,automatic,23013.83,19223,leisure,financed,street,1
+VEH00177,CUST00160,Chevrolet,Malibu,2011,sedan,gasoline,automatic,7062.14,20529,mixed,financed,driveway,0
+VEH00178,CUST00161,Subaru,Forester,2022,suv,gasoline,automatic,22206.68,6758,family,financed,driveway,0
+VEH00179,CUST00162,Tesla,Model Y,2011,suv,gasoline,automatic,18861.8,11579,mixed,financed,driveway,1
+VEH00180,CUST00163,Hyundai,Sonata,2012,sedan,gasoline,automatic,8802.39,13786,commuting,financed,covered_lot,1
+VEH00181,CUST00164,Toyota,Camry,2025,sedan,diesel,automatic,22361.19,18435,mixed,leased,garage,1
+VEH00182,CUST00165,Honda,Odyssey,2011,minivan,gasoline,automatic,13067.15,17375,family,leased,driveway,1
+VEH00183,CUST00166,Hyundai,Kona,2021,suv,electric,automatic,14945.54,12453,mixed,financed,driveway,0
+VEH00184,CUST00167,Toyota,RAV4,2011,suv,electric,automatic,10148.82,9593,leisure,financed,garage,0
+VEH00185,CUST00168,Honda,CR-V,2012,suv,gasoline,automatic,3500.0,15152,commuting,leased,,0
+VEH00186,CUST00169,Chevrolet,Malibu,2013,sedan,hybrid,automatic,5364.95,16796,mixed,leased,garage,0
+VEH00187,CUST00170,Chevrolet,Bolt,2016,suv,gasoline,automatic,11817.64,13086,commuting,financed,street,0
+VEH00188,CUST00171,Chevrolet,Equinox,2015,suv,diesel,automatic,11577.0,16114,leisure,financed,driveway,0
+VEH00189,CUST00172,Jeep,Grand Cherokee,2013,suv,gasoline,automatic,16122.38,10518,mixed,owned,driveway,0
+VEH00190,CUST00173,Subaru,Outback,2024,pickup,gasoline,automatic,23714.47,9147,commuting,financed,street,1
+VEH00191,CUST00174,Kia,Rio,2015,sedan,gasoline,automatic,15353.25,7079,commuting,leased,,0
+VEH00192,CUST00175,Ford,Mustang,2020,COUPE,gasoline,automatic,12031.37,12190,commuting,owned,street,0
+VEH00193,CUST00176,Ford,Mustang,2021,coupe,gasoline,automatic,12849.94,9699,commuting,owned,street,0
+VEH00194,CUST00177,Hyundai,Tucson,2021,suv,gasoline,automatic,17468.24,13532,family,owned,covered_lot,1
+VEH00195,CUST00178,Kia,Soul,2020,sedan,gasoline,automatic,10923.38,12555,mixed,financed,street,0
+VEH00196,CUST00179,Subaru,Impreza,2016,hatchback,electric,manual,14793.77,9709,mixed,leased,street,1
+VEH00197,CUST00180,Kia,Sportage,2021,suv,gasoline,automatic,20384.51,16143,family,financed,garage,1
+VEH00198,CUST00181,Tesla ,Model Y,2022,suv,gasoline,automatic,37071.57,17378,commuting,financed,covered_lot,1
+VEH00199,CUST00182,Toyota,Corolla,2019,sedan,gasoline,automatic,14222.37,11200,commuting,owned,street,0
+VEH00200,CUST00183,Subaru,Impreza,2014,hatchback,hybrid,automatic,14297.32,13249,commuting,owned,garage,0
+VEH00201,CUST00184,Nissan,Sentra,2019,sedan,gasoline,automatic,13464.63,17013,family,leased,garage,0
+VEH00202,CUST00184, Chevrolet,Equinox,2020,minivan,gasoline,automatic,12818.75,7639,family,financed,street,1
+VEH00203,CUST00185,Toyota,RAV4,2014,suv,gasoline,automatic,7946.79,6905,commercial_light,financed,garage,0
+VEH00204,CUST00186,Honda,Civic,2024,sedan,gasoline,automatic,25303.81,13653,mixed,owned,street,0
+VEH00205,CUST00187,Hyundai,Sonata,2014,sedan,diesel,manual,3500.0,13751,commercial_light,leased,street,0
+VEH00206,CUST00188,Nissan,Rogue,2017,suv,gasoline,manual,9036.76,11307,leisure,financed,garage,0
+VEH00207,CUST00189,Chevrolet,Silverado,2019,pickup,gasoline,automatic,19649.29,6759,leisure,leased,driveway,0
+VEH00208,CUST00190,Honda,Odyssey,2016,minivan,gasoline,automatic,11074.6,11402,commuting,owned,garage,0
+VEH00209,CUST00191,Honda,CR-V,2025,coupe,electric,automatic,22529.64,12023,mixed,financed,covered_lot,1
+VEH00210,CUST00192,Ford,Mustang,2013,coupe,gasoline,automatic,10895.9,6798,commuting,owned,garage,1
+VEH00211,CUST00193,Subaru,Forester,2019,suv,gasoline,automatic,13658.06,9391,mixed,financed,street,0
+VEH00212,CUST00193,Toyota,Tacoma,2012,pickup,gasoline,automatic,7744.59,10193,mixed,owned,covered_lot,0
+VEH00213,CUST00194,Toyota,RAV4,2021,suv,gasoline,automatic,19865.03,8307,commuting,leased,garage,0
+VEH00214,CUST00194,Kia,Soul,2013,hatchback,gasoline,automatic,3500.0,15345,family,owned,driveway,0
+VEH00215,CUST00195,Chevrolet,Malibu,2022,sedan,electric,manual,15862.03,8711,leisure,financed,driveway,0
+VEH00216,CUST00196,Toyota,RAV4,2011,suv,hybrid,automatic,3500.0,16190,commuting,financed,street,0
+VEH00217,CUST00197,Hyundai,Sonata,2020,sedan,gasoline,automatic,14562.32,2500,mixed,leased,garage,1
+VEH00218,CUST00198,Jeep,Compass,2014,suv,electric,automatic,17340.49,8999,family,financed,garage,0
+VEH00219,CUST00199,Toyota,Tacoma,2024,pickup,gasoline,manual,26434.29,6728,commuting,owned,driveway,1
+VEH00220,CUST00199,Subaru,Forester,2012,sedan,hybrid,automatic,8603.38,17954,commuting,owned,,1
+VEH00221,CUST00200,Chevrolet,Bolt,2019,hatchback,gasoline,automatic,22206.72,21769,commercial_light,owned,garage,0
+VEH00222,CUST00201,Kia,Forte,2014,sedan,hybrid,automatic,7737.23,12973,commercial_light,leased,street,0
+VEH00223,CUST00202,Hyundai,Elantra,2025,hatchback,gasoline,automatic,22328.52,13662,commercial_light,owned,,0
+VEH00224,CUST00203,Subaru,Forester,2011,suv,gasoline,manual,13709.65,24568,family,owned,garage,1
+VEH00225,CUST00204,Jeep,Grand Cherokee,2018,suv,gasoline,manual,19403.32,3116,commuting,leased,covered_lot,1
+VEH00226,CUST00204,Honda,Odyssey,2023,coupe,gasoline,manual,27550.22,4440,commuting,owned,garage,1
+VEH00227,CUST00204,Ford,Escape,2025,suv,hybrid,automatic,25434.61,3568,family,owned,covered_lot,0
+VEH00228,CUST00205,Jeep,Compass,2025,suv,gasoline,automatic,38450.52,11829,mixed,owned,driveway,1
+VEH00229,CUST00206,Kia,Forte,2017,pickup,diesel,manual,11090.89,13268,commercial_light,owned,garage,0
+VEH00230,CUST00207,Chevrolet,Malibu,2018,coupe,gasoline,automatic,21080.3,25639,leisure,owned,garage,0
+VEH00231,CUST00208,Kia,Sportage,2012,suv,electric,automatic,4915.56,12131,commuting,financed,driveway,0
+VEH00232,CUST00209,Honda,Odyssey,2023,minivan,gasoline,automatic,20228.57,13038,commercial_light,owned,garage,0
+VEH00233,CUST00210,Hyundai,Tucson,2016,suv,hybrid,automatic,11809.89,11112,family,leased,driveway,1
+VEH00234,CUST00211,Hyundai,Tucson,2010,Sedan,electric,automatic,3500.0,2500,mixed,financed,driveway,0
+VEH00235,CUST00212,Nissan,Altima,2021,sedan,diesel,automatic,24404.42,13064,family,leased,driveway,0
+VEH00236,CUST00213,Subaru,Outback,2014,suv,electric,automatic,9367.75,20550,commuting,financed,garage,1
+VEH00237,CUST00214,TESLA,Model 3,2017,sedan,gasoline,automatic,29777.69,16454,commuting,owned,driveway,0
+VEH00238,CUST00215,Chevrolet,Silverado,2014,pickup,gasoline,automatic,8015.78,8159,mixed,financed,garage,1
+VEH00239,CUST00216,Honda,Civic,2011,sedan,gasoline,manual,5513.79,4246,commuting,leased,street,0
+VEH00240,CUST00217,Chevrolet,Equinox,2019,suv,gasoline,automatic,20288.84,3977,mixed,financed,garage,1
+VEH00241,CUST00218,Toyota,RAV4,2013,suv,gasoline,automatic,4091.12,9217,family,leased,garage,0
+VEH00242,CUST00219,Nissan,Leaf,2025,hatchback,gasoline,automatic,24055.89,16361,commuting,owned,driveway,0
+VEH00243,CUST00220,Toyota,RAV4,2016,suv,gasoline,automatic,12636.08,3796,mixed,owned,covered_lot,0
+VEH00244,CUST00221,Jeep,Compass,2016,suv,gasoline,automatic,15314.12,16404,commercial_light,financed,street,0
+VEH00245,CUST00222,Jeep,Grand Cherokee,2025,suv,gasoline,automatic,32167.53,10895,commuting,financed,street,1
+VEH00246,CUST00223,Subaru,Forester,2014,suv,diesel,automatic,14675.63,13556,leisure,owned,garage,0
+VEH00247,CUST00224,Toyota,Tacoma,2011,minivan,diesel,automatic,5610.16,15451,commercial_light,owned,street,0
+VEH00248,CUST00225,NISSAN,Altima,2011,sedan,electric,automatic,10176.01,8468,commuting,financed,driveway,0
+VEH00249,CUST00226,Nissan,Altima,2018,sedan,gasoline,automatic,13202.54,15677,family,leased,driveway,1
+VEH00250,CUST00227,Toyota,Tacoma,2010,pickup,hybrid,automatic,4576.93,13982,mixed,financed,driveway,0
+VEH00251,CUST00228,Honda,Odyssey,2018,minivan,gasoline,automatic,7742.36,9847,family,leased,garage,0
+VEH00252,CUST00229,Hyundai,Elantra,2010,pickup,gasoline,automatic,28282.257,9127,family,leased,street,0
+VEH00254,CUST00230,Kia,Rio,2020,sedan,hybrid,automatic,15368.24,13907,mixed,owned,garage,0
+VEH00255,CUST00231,Tesla,Model 3,2015,sedan,electric,automatic,31763.48,14699,family,owned,covered_lot,0
+VEH00256,CUST00232,Chevrolet,Bolt,2010,hatchback,gasoline,automatic,3500.0,6860,mixed,owned,driveway,1
+VEH00257,CUST00233,Toyota,Camry,2019, sedan,gasoline,automatic,16623.74,11525,mixed,leased,garage,1
+VEH00258,CUST00233,Hyundai,Kona,2022,suv,gasoline,automatic,14935.4,15421,commercial_light,financed,street,0
+VEH00259,CUST00234,Ford,Focus,2021,hatchback,gasoline,automatic,19388.98,17966,commuting,owned,street,0
+VEH00260,CUST00235,Hyundai,Tucson,2019,suv,gasoline,automatic,17796.89,16583,family,financed,garage,1
+VEH00261,CUST00236,CHEVROLET,Silverado,2011,pickup,gasoline,manual,3500.0,8805,commuting,leased,street,1
+VEH00262,CUST00237,Nissan,Leaf,2010,hatchback,gasoline,automatic,3500.0,7270,commercial_light,owned,garage,0
+VEH00263,CUST00238,Jeep,Grand Cherokee,2017,suv,gasoline,automatic,19302.46,14481,commuting,financed,street,0
+VEH00264,CUST00239,FORD,F-150,2022,pickup,gasoline,manual,16306.1,2500,family,leased,garage,0
+VEH00265,CUST00240,Ford,Focus,2022,HATCHBACK,gasoline,automatic,55449.441000000006,7877,commuting,financed,covered_lot,0
+VEH00266,CUST00241,Jeep,Compass,2023,suv,electric,manual,35156.27,12434,commuting,financed,driveway,0
+VEH00267,CUST00242,Chevrolet,Equinox,2023,Suv,gasoline,automatic,24743.71,7230,family,owned,street,0
+VEH00268,CUST00243,Nissan,Rogue,2024,suv,gasoline,automatic,28039.69,12152,family,leased,driveway,0
+VEH00269,CUST00244,Jeep,Compass,2016,Suv,gasoline,automatic,18119.83,8467,family,leased,street,0
+VEH00270,CUST00245,Ford,Escape,2014,suv,diesel,automatic,12000.94,15213,commuting,financed,street,0
+VEH00271,CUST00246,Nissan,Altima,2023,sedan,gasoline,automatic,14385.35,13379,commuting,owned,driveway,1
+VEH00272,CUST00247,Ford,Escape,2020,suv,gasoline,automatic,13642.65,13913,leisure,leased,street,0
+VEH00273,CUST00248,Honda,Civic,2015,sedan,gasoline,automatic,9609.29,12256,commercial_light,leased,garage,0
+VEH00274,CUST00249,Hyundai,Sonata,2010,sedan,electric,automatic,3500.0,11662,mixed,owned,garage,0
+VEH00275,CUST00250,Hyundai,Kona,2023,suv,gasoline,manual,23364.88,14673,family,leased,garage,1
+VEH00276,CUST00251,Nissan,Leaf,2018,hatchback,gasoline,automatic,18361.33,2500,family,leased,covered_lot,1
+VEH00278,CUST00253,Ford,Escape,2010,suv,gasoline,automatic,3500.0,10264,commercial_light,leased,driveway,0
+VEH00279,CUST00254,Subaru,Forester,2018,pickup,gasoline,automatic,14387.02,12485,mixed,owned,garage,0
+VEH00280,CUST00255,Subaru,Forester,2017, suv,gasoline,manual,21446.01,10462,mixed,owned,driveway,0
+VEH00281,CUST00256,Subaru,Impreza,2017,hatchback,gasoline,automatic,15123.01,7105,family,owned,street,0
+VEH00282,CUST00256,Toyota ,RAV4,2012,suv,diesel,automatic,3500.0,10020,commercial_light,owned,covered_lot,1
+VEH00283,CUST00257,Tesla,Model 3,2025,sedan,diesel,automatic,42636.66,10437,mixed,owned,driveway,1
+VEH00284,CUST00258,Hyundai,Sonata,2022,sedan,gasoline,automatic,20543.12,2500,commuting,financed,garage,0
+VEH00285,CUST00259,Tesla,Model Y,2014,suv,gasoline,automatic,23488.31,17529,family,financed,driveway,0
+VEH00286,CUST00260,Ford,Escape,2017,suv,gasoline,automatic,12974.57,12683,commuting,financed,garage,1
+VEH00287,CUST00261,Toyota,Tacoma,2010,pickup,gasoline,automatic,3500.0,18128,commuting,owned,garage,0
+VEH00288,CUST00262,Nissan,Leaf,2017,hatchback,gasoline,automatic,13199.7,12847,commercial_light,owned,driveway,1
+VEH00289,CUST00263,Chevrolet,Equinox,2012,suv,gasoline,automatic,3500.0,15254,family,financed,street,1
+VEH00290,CUST00264,Ford,Mustang,2025,sedan,hybrid,automatic,27943.88,8081,family,financed,garage,1
+VEH00291,CUST00265,Hyundai,Kona,2017,suv,diesel,automatic,4753.46,5510,leisure,financed,covered_lot,1
+VEH00292,CUST00265,KIA,Soul,2011,hatchback,gasoline,automatic,3500.0,19741,commuting,financed,garage,0
+VEH00293,CUST00266,Subaru,Forester,2022,suv,gasoline,automatic,29031.21,12182,family,financed,driveway,0
+VEH00294,CUST00267,Hyundai,Kona,2011,suv,gasoline,automatic,3955.86,11131,commuting,owned,street,0
+VEH00295,CUST00268,Jeep,Compass,2024,suv,gasoline,automatic,30166.64,10646,commuting,financed,street,0
+VEH00296,CUST00269,Tesla,Model 3,2017,sedan,gasoline,automatic,32158.12,7024,mixed,financed,garage,1
+VEH00297,CUST00270,Jeep,Grand Cherokee,2011,suv,gasoline,automatic,15865.29,11042,mixed,leased,street,1
+VEH00298,CUST00270,Jeep,Grand Cherokee,2011,suv,gasoline,automatic,14240.04,16974,mixed,leased,garage,0
+VEH00299,CUST00271,Chevrolet,Silverado,2024,SUV,electric,automatic,24522.58,6466,commuting,owned,covered_lot,1
+VEH00300,CUST00272,Kia,Sportage,2019,suv,hybrid,automatic,12801.17,16297,mixed,owned,street,1
+VEH00301,CUST00273,Tesla,Model 3,2023,sedan,gasoline,automatic,39606.73,8614,commuting,leased,garage,0
+VEH00302,CUST00274,Nissan,Sentra,2014,sedan,gasoline,automatic,8015.44,8070,commuting,owned,garage,0
+VEH00303,CUST00275,Tesla,Model Y,2012,suv,hybrid,automatic,26685.32,12896,leisure,financed,street,0
+VEH00304,CUST00275, Jeep,Compass,2015,suv,electric,automatic,24705.13,6643,commuting,financed,,0
+VEH00305,CUST00275,Subaru,Forester,2014,suv,hybrid,manual,7309.52,14145,commuting,owned,driveway,0
+VEH00306,CUST00276,Kia,Soul,2020,hatchback,hybrid,automatic,15849.26,3349,mixed,financed,,0
+VEH00307,CUST00277,Tesla,Model 3,2015,hatchback,gasoline,manual,23223.73,9786,mixed,leased,driveway,0
+VEH00308,CUST00278,TESLA,Model 3,2024,sedan,gasoline,manual,39210.65,10131,mixed,owned,,0
+VEH00309,CUST00278,Honda,CR-V,2020,suv,diesel,automatic,22653.3,6787,leisure,owned,garage,0
+VEH00310,CUST00279,Ford,Focus,2012,hatchback,hybrid,automatic,9662.64,11941,commuting,financed,driveway,0
+VEH00311,CUST00280,Honda,Odyssey,2021,minivan,diesel,automatic,18820.33,5669,commuting,owned,covered_lot,1
+VEH00312,CUST00281,Honda,Odyssey,2015,minivan,diesel,automatic,8079.89,22314,family,owned,street,0
+VEH00313,CUST00282,KIA,Soul,2011,suv,diesel,automatic,3650.46,17307,family,owned,garage,0
+VEH00314,CUST00283,Ford,F-150,2014,pickup,gasoline,automatic,16781.36,6321,family,financed,street,1
+VEH00315,CUST00284,Ford,Escape,2015,suv,gasoline,automatic,12618.02,21693,family,leased,driveway,0
+VEH00316,CUST00285,Toyota,Tacoma,2019,pickup,gasoline,automatic,22233.97,2500,family,owned,covered_lot,0
+VEH00317,CUST00286,Nissan,Leaf,2019,suv,gasoline,automatic,19468.57,7836,commuting,leased,garage,0
+VEH00318,CUST00286,Ford,Focus,2014,hatchback,gasoline,automatic,12218.0,10434,family,leased,garage,0
+VEH00319,CUST00287,Chevrolet,Malibu,2018,sedan,gasoline,automatic,7036.09,18122,commercial_light,owned,,0
+VEH00320,CUST00288,TOYOTA,Tacoma,2025,pickup,gasoline,automatic,25663.57,10379,mixed,financed,street,0
+VEH00321,CUST00289,Tesla,Model 3,2025,sedan,gasoline,manual,44462.96,20362,family,owned,street,0
+VEH00322,CUST00290,Chevrolet,Equinox,2025,suv,gasoline,automatic,21161.38,21011,mixed,owned,garage,1
+VEH00323,CUST00290,Tesla,Model Y,2024,suv,gasoline,manual,36001.25,14488,family,financed,,0
+VEH00324,CUST00291,Honda,Civic,2017,sedan,gasoline,automatic,14190.72,19802,commuting,financed,street,0
+VEH00325,CUST00292,Jeep,Grand Cherokee,2016,suv,hybrid,automatic,18311.89,12503,mixed,financed,covered_lot,0
+VEH00326,CUST00293,Toyota,Camry,2014,sedan,gasoline,automatic,8380.21,16071,leisure,financed,street,0
+VEH00327,CUST00294,Toyota,RAV4,2011,suv,gasoline,manual,7979.81,18200,family,leased,garage,1
+VEH00328,CUST00295,Ford,Focus,2019,hatchback,gasoline,automatic,15157.93,11918,family,financed,street,0
+VEH00329,CUST00296,Hyundai,Elantra,2011,sedan,gasoline,automatic,3500.0,7191,commercial_light,financed,garage,1
+VEH00330,CUST00297,Honda,Odyssey,2015,minivan,gasoline,automatic,10304.72,12085,commercial_light,leased,garage,1
+VEH00332,CUST00299,Tesla,Model Y,2011,suv,gasoline,automatic,25182.83,18699,leisure,owned,driveway,1
+VEH00333,CUST00299,Honda,CR-V,2020,suv,gasoline,manual,16304.56,11353,family,owned,street,1
+VEH00334,CUST00300,Hyundai,Kona,2012,suv,hybrid,automatic,8449.84,7811,commuting,leased,street,0
+VEH00335,CUST00300,Kia,Rio,2019,pickup,electric,automatic,9000.56,15197,commuting,financed,street,1
+VEH00336,CUST00301,Tesla,Model 3,2013,sedan,gasoline,automatic,21971.73,9827,commuting,financed,covered_lot,1
+VEH00337,CUST00302,Nissan,Rogue,2023,Suv,gasoline,automatic,19939.0,16289,commuting,financed,driveway,0
+VEH00338,CUST00303,Jeep,Compass,2016,suv,hybrid,automatic,23831.83,14259,commuting,leased,street,0
+VEH00339,CUST00303,Subaru,Impreza,2013,hatchback,gasoline,automatic,14088.42,13893,leisure,owned,garage,0
+VEH00340,CUST00304,Subaru,Forester,2012,suv,gasoline,automatic,6248.12,6139,commuting,financed,street,0
+VEH00341,CUST00305,Tesla,Model Y,2023,suv,gasoline,automatic,11918.119499999999,9551,commuting,leased,garage,1
+VEH00342,CUST00306,Subaru,Outback,2018,suv,gasoline,automatic,17204.51,19426,mixed,financed,garage,0
+VEH00343,CUST00307,Jeep,Grand Cherokee,2014,coupe,electric,automatic,16065.72,6321,family,financed,street,0
+VEH00345,CUST00309,Jeep,Grand Cherokee,2025, suv,gasoline,automatic,36771.41,22676,leisure,owned,garage,0
+VEH00346,CUST00310,Ford,Escape,2019,suv,gasoline,automatic,12025.71,19501,commuting,financed,garage,0
+VEH00347,CUST00311,Chevrolet,Malibu,2013,suv,gasoline,automatic,7692.99,12253,commuting,financed,garage,0
+VEH00348,CUST00312,Toyota,Tacoma,2013,pickup,gasoline,automatic,3500.0,18886,mixed,owned,covered_lot,0
+VEH00349,CUST00313,CHEVROLET,Bolt,2023,hatchback,gasoline,automatic,22128.08,6690,mixed,owned,street,1
+VEH00350,CUST00313,Toyota,RAV4,2021,suv,gasoline,automatic,22816.84,7028,commuting,owned,garage,1
+VEH00351,CUST00314,Jeep,Compass,2010,sedan,gasoline,automatic,10226.59,11281,mixed,owned,garage,0
+VEH00352,CUST00315,Chevrolet,Silverado,2018,minivan,gasoline,automatic,21054.56,9641,family,financed,garage,0
+VEH00353,CUST00316,Honda,CR-V,2019,suv,gasoline,automatic,10953.99,14860,family,leased,garage,0
+VEH00354,CUST00317,Jeep,Grand Cherokee,2010,suv,gasoline,automatic,12214.17,17765,mixed,financed,street,0
+VEH00355,CUST00318,Honda,CR-V,2020,suv,gasoline,automatic,23865.79,13418,family,leased,covered_lot,0
+VEH00356,CUST00319,Kia,Rio,2015,Sedan,hybrid,manual,8582.26,17250,mixed,owned,driveway,0
+VEH00357,CUST00320,Chevrolet,Silverado,2020,pickup,electric,automatic,21684.65,9374,commercial_light,owned,street,0
+VEH00358,CUST00321,Tesla,Model Y,2011,suv,gasoline,automatic,26257.97,14523,commuting,owned,street,0
+VEH00359,CUST00322,Ford,Mustang,2014,coupe,gasoline,automatic,14676.11,18743,commuting,leased,garage,0
+VEH00360,CUST00323,Tesla,Model Y,2024,hatchback,gasoline,automatic,37378.75,4730,family,owned,driveway,0
+VEH00361,CUST00324,Kia,Rio,2019,sedan,hybrid,manual,16591.25,7154,leisure,owned,covered_lot,0
+VEH00362,CUST00325,Subaru,Forester,2020,suv,electric,manual,24998.58,10291,family,financed,street,1
+VEH00363,CUST00326,Jeep,Compass,2016,suv,gasoline,automatic,22916.81,4584,commercial_light,leased,street,0
+VEH00364,CUST00327,Subaru,Forester,2020,suv,gasoline,automatic,20363.52,16796,commuting,leased,covered_lot,0
+VEH00365,CUST00328,Hyundai,Elantra,2014,sedan,gasoline,manual,6548.92,21773,mixed,leased,street,0
+VEH00366,CUST00329,Nissan ,Sentra,2020,sedan,gasoline,automatic,14753.44,3810,family,financed,garage,0
+VEH00367,CUST00330,Kia,Forte,2022,sedan,electric,automatic,24326.97,8478,leisure,financed,street,0
+VEH00368,CUST00330,Ford,Focus,2019,hatchback,gasoline,manual,9106.14,2500,commuting,owned,covered_lot,1
+VEH00369,CUST00330,HYUNDAI,Elantra,2018,SEDAN,hybrid,automatic,13544.54,11687,family,financed,garage,0
+VEH00370,CUST00331,Kia,Rio,2025,sedan,hybrid,automatic,21570.93,7590,commuting,owned,covered_lot,0
+VEH00371,CUST00332,Chevrolet,Silverado,2024,pickup,gasoline,manual,23493.56,11163,mixed,owned,street,1
+VEH00372,CUST00333,Nissan,Altima,2019,sedan,gasoline,automatic,16741.87,8531,family,financed,street,0
+VEH00373,CUST00334,Ford,Focus,2021,hatchback,gasoline,automatic,23759.94,14845,mixed,financed,garage,0
+VEH00374,CUST00335,Toyota,Camry,2012,sedan,hybrid,manual,10111.94,14057,mixed,owned,,0
+VEH00375,CUST00335,Tesla,Model 3,2025,sedan,hybrid,automatic,42810.01,14022,commuting,owned,driveway,0
+VEH00376,CUST00336,Jeep,Compass,2016,suv,hybrid,automatic,20426.66,15827,commuting,owned,street,1
+VEH00377,CUST00337,Hyundai,Kona,2019,suv,gasoline,automatic,10534.18,13291,commuting,owned,street,0
+VEH00378,CUST00338,Hyundai,Sonata,2013, sedan,gasoline,automatic,4701.03,14686,commercial_light,owned,street,1
+VEH00379,CUST00339,Jeep,Compass,2016,suv,gasoline,automatic,26075.48,18573,commuting,leased,garage,0
+VEH00380,CUST00340,Toyota,Tacoma,2022,hatchback,gasoline,automatic,21280.01,12993,commuting,owned,driveway,0
+VEH00381,CUST00341,Jeep,Compass,2010,minivan,diesel,automatic,13266.91,18104,commuting,leased,garage,0
+VEH00382,CUST00341,Nissan,Sentra,2012,sedan,gasoline,automatic,3500.0,20127,commuting,owned,garage,1
+VEH00383,CUST00342,Hyundai,Kona,2011,suv,gasoline,automatic,6452.7,19676,family,owned,street,0
+VEH00384,CUST00343,Honda,CR-V,2010,coupe,diesel,automatic,3500.0,16671,leisure,owned,street,1
+VEH00385,CUST00344,Subaru,Outback,2016,suv,hybrid,automatic,16180.11,16407,family,financed,driveway,1
+VEH00387,CUST00346,Nissan,Rogue,2020,suv,gasoline,automatic,20624.49,18778,family,owned,garage,1
+VEH00388,CUST00347,Tesla,Model 3,2018,sedan,gasoline,automatic,29699.36,14181,mixed,leased,garage,0
+VEH00389,CUST00348,Ford,Escape,2018,suv,gasoline,automatic,15382.95,11332,mixed,financed,garage,0
+VEH00390,CUST00349,Honda,Civic,2013,suv,electric,automatic,12799.42,11134,commuting,owned,street,1
+VEH00391,CUST00350,Chevrolet,Silverado,2020,pickup,electric,automatic,20870.3,4481,commuting,owned,garage,0
+VEH00392,CUST00351,Nissan,Altima,2019,sedan,gasoline,automatic,14322.16,20699,family,financed,street,1
+VEH00393,CUST00352,Subaru ,Impreza,2015,hatchback,gasoline,automatic,13131.44,15231,commuting,financed,driveway,0
+VEH00394,CUST00353,Honda,CR-V,2020,suv,gasoline,automatic,16420.37,17196,commuting,owned,street,1
+VEH00395,CUST00354,Jeep,Grand Cherokee,2011,suv,hybrid,manual,12151.37,11067,commuting,owned,garage,0
+VEH00396,CUST00354,Ford,Focus,2025,hatchback,gasoline,automatic,26101.0,21127,commuting,financed,street,0
+VEH00397,CUST00355,Toyota,Corolla,2022,suv,gasoline,automatic,22689.07,11596,commuting,owned,garage,1
+VEH00398,CUST00356,Toyota,Corolla,2023,sedan,gasoline,automatic,18449.31,5712,commuting,owned,street,0
+VEH00399,CUST00357,Kia,Forte,2024,sedan,hybrid,automatic,21037.95,14397,leisure,leased,,0
+VEH00400,CUST00358,Subaru,Outback,2019,suv,gasoline,automatic,21132.09,11085,mixed,owned,driveway,1
+VEH00401,CUST00359,Hyundai,Sonata,2012,sedan,diesel,automatic,12697.39,16972,mixed,owned,garage,0
+VEH00402,CUST00360,Tesla,Model 3,2012,sedan,gasoline,automatic,26593.56,10651,family,owned,garage,1
+VEH00403,CUST00361,Tesla,Model 3,2024,sedan,hybrid,automatic,49214.62,12741,mixed,financed,garage,0
+VEH00404,CUST00362,Nissan,Leaf,2025,hatchback,gasoline,automatic,28337.52,14654,mixed,leased,street,0
+VEH00405,CUST00363,Chevrolet,Equinox,2014,suv,gasoline,automatic,14724.94,9573,commuting,owned,driveway,0
+VEH00406,CUST00364,Subaru,Outback,2021,suv,hybrid,automatic,24531.69,11457,commuting,owned,driveway,0
+VEH00407,CUST00364,Kia,Forte,2020,sedan,gasoline,automatic,15460.2,15029,mixed,financed,driveway,0
+VEH00408,CUST00364,Hyundai,Kona,2025,suv,hybrid,automatic,14698.06,10064,commuting,leased,street,1
+VEH00409,CUST00365,Toyota,Corolla,2025,sedan,gasoline,automatic,21377.38,12960,family,financed,street,0
+VEH00410,CUST00366,Honda,CR-V,2025,suv,gasoline,automatic,19030.26,10884,commuting,owned,street,1
+VEH00411,CUST00367,Tesla,Model 3,2019,sedan,diesel,manual,33886.26,15896,commuting,financed,driveway,1
+VEH00412,CUST00368,Hyundai,Sonata,2013,sedan,gasoline,automatic,3522.26,2500,commuting,owned,covered_lot,0
+VEH00413,CUST00369,Kia,Rio,2020,sedan,gasoline,automatic,19178.13,12970,commuting,owned,driveway,1
+VEH00414,CUST00370,Jeep,Compass,2019,suv,gasoline,automatic,21081.31,11678,commuting,leased,,0
+VEH00415,CUST00371,Jeep,Grand Cherokee,2022,suv,diesel,automatic,25374.76,14892,family,leased,driveway,1
+VEH00416,CUST00372,Subaru,Outback,2017,suv,gasoline,automatic,15279.1,9808,commuting,financed,,1
+VEH00417,CUST00373,Subaru,Impreza,2015,hatchback,gasoline,automatic,9265.55,15070,family,leased,street,0
+VEH00418,CUST00374,Tesla,Model Y,2012,minivan,gasoline,automatic,31299.48,14036,mixed,financed,garage,0
+VEH00419,CUST00375,Hyundai,Sonata,2023,sedan,gasoline,automatic,17221.17,9294,commercial_light,owned,garage,0
+VEH00420,CUST00376,Kia,Sportage,2017, suv,gasoline,automatic,4536.35,20611,commuting,financed,driveway,0
+VEH00421,CUST00377,Ford,Focus,2025,hatchback,gasoline,automatic,28378.92,8910,family,owned,driveway,1
+VEH00422,CUST00378,HONDA,Odyssey,2020,minivan,gasoline,automatic,16527.91,4922,mixed,owned,driveway,0
+VEH00423,CUST00379,Jeep,Compass,2024,suv,electric,automatic,33113.61,14648,family,financed,street,1
+VEH00424,CUST00379,Ford,F-150,2022,pickup,electric,manual,18779.23,9761,family,financed,street,0
+VEH00425,CUST00380,Honda,Civic,2022,sedan,gasoline,automatic,26927.63,10079,leisure,leased,street,1
+VEH00426,CUST00380,Hyundai,Kona,2011,suv,hybrid,automatic,8502.43,5370,leisure,financed,driveway,1
+VEH00427,CUST00381,Honda,Accord,2014,sedan,diesel,automatic,13889.35,12440,commuting,leased,street,1
+VEH00428,CUST00381,Subaru,Forester,2010,suv,gasoline,automatic,4337.58,11538,leisure,owned,driveway,0
+VEH00429,CUST00382,Ford,Escape,2024,suv,gasoline,automatic,19935.84,8935,commuting,leased,garage,0
+VEH00430,CUST00383,Jeep,Grand Cherokee,2022,suv,gasoline,automatic,17541.74,20983,leisure,owned,,0
+VEH00431,CUST00384,Subaru,Forester,2024,suv,gasoline,automatic,28833.15,16681,mixed,financed,garage,0
+VEH00432,CUST00384,Chevrolet,Equinox,2020,suv,gasoline,automatic,21476.51,10440,mixed,owned,driveway,0
+VEH00433,CUST00385,Nissan,Rogue,2023, suv,hybrid,manual,21074.29,2500,commuting,financed,garage,0
+VEH00434,CUST00385,Hyundai,Elantra,2010,sedan,gasoline,manual,3500.0,15440,commuting,owned,garage,1
+VEH00435,CUST00386,Subaru,Forester,2022,suv,gasoline,automatic,24723.34,13572,leisure,financed,garage,0
+VEH00436,CUST00387,Ford,F-150,2011,sedan,hybrid,automatic,12088.66,11640,family,owned,driveway,0
+VEH00437,CUST00388,Hyundai,Elantra,2010,sedan,gasoline,automatic,7720.64,16337,leisure,owned,covered_lot,1
+VEH00438,CUST00389,Jeep,Grand Cherokee,2013,suv,diesel,automatic,12072.45,11515,commuting,financed,garage,0
+VEH00439,CUST00390,Nissan,Sentra,2017,sedan,gasoline,manual,13494.57,6831,family,financed,garage,0
+VEH00440,CUST00391,Kia,Soul,2020,hatchback,gasoline,automatic,17477.01,4710,commuting,financed,street,0
+VEH00441,CUST00392,Kia,Soul,2022,hatchback,electric,automatic,14566.18,27827,commuting,financed,covered_lot,0
+VEH00442,CUST00393,Kia,Forte,2015,hatchback,gasoline,automatic,8950.36,23428,family,financed,street,0
+VEH00443,CUST00394,Tesla,Model 3,2016,sedan,gasoline,automatic,29838.25,14024,commuting,financed,garage,1
+VEH00444,CUST00395,Jeep,Grand Cherokee,2021,suv,electric,automatic,27452.89,13531,family,owned,garage,0
+VEH00445,CUST00396,Kia,Forte,2019,sedan,gasoline,automatic,11339.56,11570,commuting,leased,street,1
+VEH00446,CUST00396,Ford,Escape,2010,suv,electric,automatic,3500.0,21829,mixed,owned,,0
+VEH00447,CUST00397,Honda,Civic,2014,sedan,diesel,automatic,8138.29,17109,mixed,financed,driveway,0
+VEH00448,CUST00398,Tesla,Model Y,2014,suv,gasoline,automatic,25645.75,11766,family,leased,driveway,0
+VEH00449,CUST00399,Honda,Accord,2023,sedan,diesel,automatic,22328.21,14835,family,financed,garage,0
+VEH00450,CUST00400,Tesla,Model Y,2015,suv,electric,automatic,25920.59,18052,commuting,financed,street,0
+VEH00451,CUST00401,Tesla,Model Y,2024,suv,gasoline,automatic,41654.79,11067,commuting,leased,,0
+VEH00452,CUST00402,KIA,Sportage,2017,sedan,gasoline,manual,15230.33,13901,commuting,financed,garage,0
+VEH00453,CUST00403,Ford,Mustang,2010,hatchback,hybrid,manual,3500.0,14914,family,leased,street,1
+VEH00454,CUST00404,Subaru,Outback,2017,sedan,gasoline,automatic,13289.1,10109,leisure,financed,street,0
+VEH00455,CUST00405,Jeep,Grand Cherokee,2023,suv,gasoline,manual,26088.61,23034,family,leased,garage,1
+VEH00456,CUST00406,Jeep,Grand Cherokee,2011,suv,diesel,automatic,16617.43,14395,leisure,leased,,0
+VEH00457,CUST00407,Toyota,Tacoma,2021,pickup,gasoline,automatic,22490.04,12179,family,financed,street,0
+VEH00458,CUST00408,Honda,Odyssey,2012,minivan,gasoline,automatic,3500.0,18083,family,leased,garage,0
+VEH00459,CUST00409,Ford,F-150,2024,pickup,hybrid,automatic,24217.54,9650,commuting,owned,driveway,0
+VEH00461,CUST00411,Chevrolet,Bolt,2012,sedan,diesel,automatic,10203.28,14627,commuting,financed,street,0
+VEH00462,CUST00412,Jeep,Grand Cherokee,2011,suv,hybrid,automatic,19687.99,13978,mixed,owned,garage,1
+VEH00463,CUST00413,Hyundai,Elantra,2025,sedan,gasoline,automatic,26392.11,19834,mixed,owned,driveway,1
+VEH00464,CUST00414,Tesla,Model Y,2020,suv,gasoline,automatic,33893.97,8807,commercial_light,owned,street,1
+VEH00465,CUST00415,Kia,Sportage,2019,suv,gasoline,automatic,15538.62,14869,family,financed,,0
+VEH00466,CUST00416,Nissan,Altima,2011,sedan,gasoline,automatic,3500.0,15355,commuting,owned,garage,0
+VEH00468,CUST00417,Subaru,Outback,2011,suv,diesel,automatic,8215.13,10502,family,leased,garage,0
+VEH00469,CUST00418,Tesla,Model 3,2011,sedan,hybrid,automatic,23677.96,14405,mixed,financed,garage,0
+VEH00470,CUST00418,Nissan,Sentra,2019,sedan,hybrid,automatic,17037.77,13241,commercial_light,owned,street,1
+VEH00471,CUST00419,Tesla,Model 3,2014,sedan,gasoline,automatic,28529.99,12041,mixed,financed,driveway,0
+VEH00472,CUST00420,Jeep,Compass,2018,suv,gasoline,automatic,19709.17,10401,family,owned,garage,0
+VEH00473,CUST00421,Nissan ,Altima,2018,sedan,gasoline,automatic,12921.55,12486,leisure,owned,garage,0
+VEH00474,CUST00422,Nissan,Rogue,2010,suv,gasoline,manual,3500.0,14185,commuting,financed,driveway,0
+VEH00476,CUST00424,Tesla,Model Y,2015,suv,electric,manual,27710.63,11601,commuting,financed,covered_lot,0
+VEH00477,CUST00425,Nissan,Altima,2025,sedan,gasoline,automatic,25774.72,3662,commuting,owned,,1
+VEH00478,CUST00426,Ford,Focus,2020,Hatchback,gasoline,manual,15956.76,11883,commercial_light,owned,garage,0
+VEH00479,CUST00427,HONDA,Accord,2014,sedan,gasoline,manual,14388.72,13761,family,owned,driveway,1
+VEH00480,CUST00428,Tesla,Model Y,2022,suv,gasoline,automatic,42912.3,7827,leisure,owned,garage,1
+VEH00481,CUST00429,Chevrolet,Bolt,2015,hatchback,gasoline,automatic,8111.92,9346,commuting,owned,garage,0
+VEH00482,CUST00430,Chevrolet,Silverado,2011,pickup,gasoline,manual,3500.0,4572,mixed,owned,garage,0
+VEH00483,CUST00431,Nissan,Sentra,2011,sedan,gasoline,manual,5471.77,11898,family,owned,street,0
+VEH00484,CUST00432,Ford,Mustang,2022,coupe,gasoline,manual,24046.77,8419,family,owned,garage,0
+VEH00485,CUST00433,Tesla,Model Y,2025,suv,gasoline,automatic,43152.63,10909,mixed,financed,covered_lot,0
+VEH00486,CUST00434,Jeep,Compass,2022,suv,gasoline,automatic,30541.89,14747,commuting,owned,driveway,0
+VEH00487,CUST00435,Kia,Soul,2018,hatchback,gasoline,automatic,10554.35,9214,leisure,owned,driveway,0
+VEH00488,CUST00436,Ford,Mustang,2010,sedan,gasoline,automatic,4114.37,7978,leisure,owned,garage,0
+VEH00489,CUST00436,Nissan,Leaf,2022,hatchback,gasoline,automatic,19065.78,18781,commercial_light,financed,driveway,0
+VEH00490,CUST00437,Hyundai,Elantra,2013,sedan,gasoline,automatic,6709.61,18203,commuting,owned,garage,1
+VEH00491,CUST00437,Jeep,Grand Cherokee,2023,suv,gasoline,automatic,34723.57,10473,commuting,financed,street,0
+VEH00492,CUST00437,Subaru,Forester,2018,suv,gasoline,automatic,20324.68,5640,family,owned,garage,1
+VEH00493,CUST00438,Hyundai,Tucson,2018,suv,gasoline,automatic,4783.17,10544,family,owned,garage,1
+VEH00494,CUST00439,Honda,CR-V,2022,suv,hybrid,manual,23428.05,11296,commercial_light,owned,,0
+VEH00495,CUST00440,Tesla,Model 3,2016,sedan,gasoline,automatic,26601.22,14747,commercial_light,owned,driveway,1
+VEH00496,CUST00441,Jeep,Grand Cherokee,2015,pickup,gasoline,automatic,17068.63,2500,commuting,financed,garage,0
+VEH00497,CUST00442,Hyundai,Elantra,2010,sedan,gasoline,automatic,3500.0,9746,commercial_light,financed,garage,1
+VEH00498,CUST00443,Honda,Civic,2023,sedan,gasoline,automatic,14687.47,7847,commercial_light,owned,street,0
+VEH00499,CUST00444,Honda,Civic,2024,sedan,hybrid,automatic,22810.42,17654,leisure,owned,driveway,0
+VEH00500,CUST00445,Hyundai,Sonata,2019,sedan,hybrid,automatic,9427.32,9014,mixed,financed,garage,0
+VEH00501,CUST00446,Nissan,Altima,2011,sedan,gasoline,automatic,3500.0,8096,family,owned,driveway,0
+VEH00502,CUST00447,Toyota,Corolla,2011,sedan,gasoline,automatic,3500.0,15528,commuting,financed,garage,0
+VEH00503,CUST00448,Subaru,Forester,2016,suv,gasoline,automatic,14856.27,7692,mixed,financed,,0
+VEH00504,CUST00449,Subaru,Forester,2013,suv,gasoline,automatic,14536.27,11382,family,owned,street,0
+VEH00505,CUST00450,Honda,Civic,2014,sedan,gasoline,automatic,8981.53,14048,commuting,owned,driveway,1
+VEH00506,CUST00451,Kia,Forte,2013,sedan,hybrid,automatic,5249.5,6873,leisure,financed,garage,1
+VEH00507,CUST00452,Ford,F-150,2019,sedan,hybrid,manual,19725.87,15564,family,financed,driveway,0
+VEH00508,CUST00453, Tesla,Model 3,2024,sedan,hybrid,automatic,38190.54,17830,family,owned,garage,0
+VEH00509,CUST00454,Nissan,Leaf,2020,hatchback,diesel,automatic,21466.55,13522,mixed,owned,driveway,0
+VEH00510,CUST00455,Nissan,Altima,2012,sedan,diesel,automatic,10427.08,8262,mixed,owned,garage,0
+VEH00512,CUST00457,Kia,Sportage,2011,suv,hybrid,automatic,3500.0,7781,family,owned,garage,0
+VEH00513,CUST00458,Nissan,Rogue,2015,suv,gasoline,automatic,7879.79,18477,family,financed,covered_lot,1
+VEH00514,CUST00459,Tesla,Model 3,2025,sedan,gasoline,automatic,37687.12,14322,family,owned,,1
+VEH00515,CUST00460,Chevrolet,Bolt,2015,hatchback,gasoline,automatic,7625.38,8023,family,owned,garage,0
+VEH00516,CUST00461,Tesla,Model 3,2014,sedan,hybrid,automatic,25316.71,11828,commuting,financed,covered_lot,1
+VEH00517,CUST00462,Jeep,Grand Cherokee,2016,suv,gasoline,automatic,22124.62,7644,family,financed,driveway,1
+VEH00518,CUST00463,Subaru,Forester,2013,suv,gasoline,automatic,6151.24,15395,commuting,financed,street,0
+VEH00519,CUST00464,Tesla,Model Y,2013,suv,hybrid,automatic,20113.29,6699,family,financed,garage,1
+VEH00520,CUST00465,Toyota,Corolla,2012,sedan,gasoline,automatic,10247.29,13290,mixed,leased,,0
+VEH00521,CUST00466,Subaru,Forester,2018,sedan,electric,manual,21712.72,15445,commuting,financed,garage,0
+VEH00522,CUST00467,Tesla,Model 3,2025,sedan,diesel,automatic,40298.31,13876,commuting,leased,driveway,1
+VEH00523,CUST00468,Ford,Focus,2011,hatchback,diesel,manual,6169.27,12147,mixed,owned,driveway,0
+VEH00524,CUST00469,Kia,Sportage,2014,suv,hybrid,manual,4896.34,18105,commuting,financed,garage,1
+VEH00525,CUST00470, Hyundai,Kona,2010,suv,diesel,automatic,7358.45,10916,commercial_light,owned,,0
+VEH00526,CUST00470,Jeep,Grand Cherokee,2025,suv,gasoline,automatic,33316.27,18222,commercial_light,financed,garage,1
+VEH00527,CUST00471,Kia,Soul,2012,sedan,diesel,automatic,3500.0,16976,family,owned,street,0
+VEH00528,CUST00471,Jeep,Compass,2010,suv,gasoline,automatic,11106.55,7013,commuting,leased,garage,0
+VEH00529,CUST00472,Kia ,Soul,2013,hatchback,gasoline,automatic,3500.0,8601,mixed,owned,garage,1
+VEH00530,CUST00473,Subaru,Forester,2021,Suv,gasoline,automatic,23977.88,8921,mixed,owned,street,0
+VEH00531,CUST00474,Hyundai,Tucson,2022,suv,electric,automatic,19328.45,11173,mixed,owned,driveway,1
+VEH00532,CUST00475,Toyota,Corolla,2021,sedan,electric,automatic,22260.55,15132,family,leased,garage,0
+VEH00533,CUST00476,Jeep,Grand Cherokee,2012,suv,electric,manual,9354.71,8673,mixed,financed,street,0
+VEH00534,CUST00477,Tesla,Model Y,2016,suv,gasoline,manual,30231.39,13470,mixed,financed,street,0
+VEH00535,CUST00478,Ford,Focus,2022,hatchback,diesel,automatic,17405.04,10849,commuting,financed,street,0
+VEH00536,CUST00479,Chevrolet,Silverado,2022,pickup,gasoline,automatic,25138.87,11956,leisure,leased,garage,0
+VEH00537,CUST00480,Honda,CR-V,2025,suv,gasoline,automatic,29390.98,10968,family,leased,driveway,0
+VEH00538,CUST00481,Honda,Odyssey,2016,minivan,hybrid,automatic,11366.66,8807,commuting,financed,driveway,0
+VEH00539,CUST00482,Ford,Focus,2016,hatchback,hybrid,automatic,14845.12,18685,commuting,leased,covered_lot,1
+VEH00540,CUST00483,Toyota,Camry,2025,sedan,diesel,manual,17997.39,14083,commuting,owned,street,0
+VEH00541,CUST00484,Kia,Rio,2019,sedan,electric,manual,16610.88,16420,family,financed,street,1
+VEH00542,CUST00485,Tesla,Model Y,2010,suv,gasoline,automatic,22201.77,11502,commercial_light,owned,street,1
+VEH00543,CUST00486,Toyota,RAV4,2011,suv,gasoline,automatic,7566.59,3450,commuting,leased,street,1
+VEH00544,CUST00487,Hyundai,Elantra,2022,sedan,gasoline,automatic,19325.21,11145,mixed,owned,covered_lot,0
+VEH00545,CUST00488,Honda,Accord,2024,sedan,diesel,automatic,18950.68,14032,family,owned,driveway,0
+VEH00546,CUST00489,Jeep,Compass,2017,suv,gasoline,automatic,27203.63,17164,commercial_light,financed,covered_lot,1
+VEH00547,CUST00490,Honda,Civic,2014,suv,hybrid,automatic,6748.45,22649,family,financed,street,0
+VEH00548,CUST00491,Tesla,Model 3,2025,sedan,gasoline,automatic,43606.78,11818,family,owned,covered_lot,0
+VEH00549,CUST00492,Subaru,Impreza,2017,hatchback,gasoline,automatic,17814.55,5180,family,financed,,1
+VEH00550,CUST00493,Ford,Focus,2015,hatchback,gasoline,manual,9607.62,13162,commercial_light,owned,street,1
+VEH00551,CUST00494,Toyota,RAV4,2013,sedan,gasoline,automatic,7694.97,6410,mixed,financed,driveway,1
+VEH00552,CUST00495,Tesla,Model 3,2012,sedan,gasoline,automatic,24991.02,15891,family,financed,street,0
+VEH00553,CUST00495,Honda,Civic,2025,sedan,gasoline,automatic,19716.18,11535,leisure,financed,driveway,1
+VEH00554,CUST00496,Subaru,Forester,2017,suv,diesel,automatic,13445.49,10132,commuting,owned,street,0
+VEH00555,CUST00497,Honda,Accord,2023,sedan,diesel,automatic,23995.21,13038,commercial_light,leased,street,0
+VEH00556,CUST00498,Hyundai,Kona,2020,suv,electric,manual,9707.33,7310,commuting,owned,covered_lot,0
+VEH00557,CUST00499,HONDA,Accord,2020,sedan,gasoline,manual,23637.43,9149,commuting,owned,driveway,1
+VEH00558,CUST00500,Chevrolet,Malibu,2015,sedan,gasoline,automatic,7137.46,6543,family,owned,driveway,0
+VEH00559,CUST00501,HYUNDAI,Elantra,2013,sedan,hybrid,automatic,8273.84,18103,commuting,financed,garage,0
+VEH00560,CUST00502,Nissan,Altima,2023,sedan,hybrid,manual,22774.99,14149,commuting,leased,street,1
+VEH00561,CUST00503,Ford,F-150,2015,pickup,gasoline,manual,13589.79,21179,commuting,owned,,0
+VEH00562,CUST00504,Tesla,Model 3,2011,sedan,gasoline,automatic,20138.89,12441,commuting,leased,garage,0
+VEH00563,CUST00505,Ford,Focus,2022,hatchback,gasoline,automatic,18485.92,14783,commuting,financed,driveway,0
+VEH00564,CUST00506,FORD,Focus,2025,hatchback,gasoline,automatic,23317.25,13668,commuting,owned,garage,0
+VEH00565,CUST00507,Honda,Civic,2010,sedan,gasoline,automatic,3500.0,20058,leisure,financed,,0
+VEH00566,CUST00508,Ford,Focus,2019,hatchback,gasoline,automatic,22990.18,19776,family,leased,garage,1
+VEH00567,CUST00509,Kia,Soul,2014,hatchback,gasoline,automatic,3500.0,11038,family,financed,garage,0
+VEH00568,CUST00510,Chevrolet,Equinox,2018,suv,gasoline,automatic,17404.28,10949,commuting,leased,driveway,1
+VEH00569,CUST00511,Jeep,Grand Cherokee,2023,pickup,gasoline,automatic,34435.09,17823,family,financed,garage,0
+VEH00570,CUST00512,Chevrolet,Equinox,2011,suv,hybrid,automatic,6257.46,5521,mixed,leased,covered_lot,0
+VEH00571,CUST00513,Subaru,Impreza,2025,hatchback,gasoline,automatic,30926.61,13237,mixed,financed,garage,0
+VEH00572,CUST00514,Subaru,Impreza,2019,hatchback,gasoline,automatic,21044.15,8446,commuting,leased,driveway,1
+VEH00573,CUST00515,HYUNDAI,Kona,2010,suv,diesel,automatic,3500.0,18730,family,financed,covered_lot,0
+VEH00574,CUST00516,Jeep,Compass,2016,suv,gasoline,automatic,18370.49,2500,mixed,owned,street,1
+VEH00575,CUST00517,Honda,Civic,2021,sedan,hybrid,manual,23674.22,9682,family,leased,covered_lot,1
+VEH00576,CUST00517,Jeep,Compass,2024,suv,gasoline,automatic,30112.14,2877,commuting,financed,street,1
+VEH00577,CUST00518,Chevrolet,Silverado,2011,pickup,hybrid,automatic,3500.0,12832,commuting,leased,garage,1
+VEH00578,CUST00519,Chevrolet,Malibu,2014,suv,electric,automatic,13632.13,9931,commuting,financed,driveway,0
+VEH00579,CUST00520,Tesla,Model Y,2015,suv,gasoline,automatic,28278.58,5496,family,financed,driveway,0
+VEH00580,CUST00521,Ford,Focus,2011,hatchback,electric,automatic,4745.92,8642,commercial_light,financed,driveway,0
+VEH00581,CUST00522,Hyundai,Tucson,2016,Suv,electric,automatic,8703.67,12307,commuting,leased,garage,0
+VEH00582,CUST00523,Kia,Sportage,2020,hatchback,hybrid,automatic,13349.8,20133,commercial_light,financed,covered_lot,1
+VEH00583,CUST00524,Subaru,Outback,2011,Suv,gasoline,automatic,9334.53,7170,leisure,financed,street,1
+VEH00584,CUST00525,Honda,Civic,2015,sedan,hybrid,manual,11137.34,10839,commuting,owned,covered_lot,0
+VEH00585,CUST00526,Ford,Focus,2025,hatchback,gasoline,automatic,21064.03,13786,family,owned,driveway,1
+VEH00586,CUST00527,Jeep,Compass,2012,suv,gasoline,manual,20623.98,7416,commuting,owned,street,0
+VEH00587,CUST00527,Chevrolet,Bolt,2020,hatchback,gasoline,automatic,16310.41,15003,commuting,owned,street,0
+VEH00588,CUST00528,Kia,Forte,2020,sedan,gasoline,automatic,13282.48,9500,commuting,owned,garage,0
+VEH00589,CUST00528,Chevrolet,Malibu,2020,sedan,gasoline,automatic,15134.32,11491,commuting,owned,garage,0
+VEH00590,CUST00529,Chevrolet,Malibu,2017,sedan,gasoline,automatic,16906.35,6987,mixed,owned,covered_lot,0
+VEH00591,CUST00530,Kia,Forte,2022,sedan,gasoline,automatic,20416.03,15403,commuting,financed,covered_lot,1
+VEH00592,CUST00531,Chevrolet,Malibu,2025,sedan,gasoline,automatic,26441.62,16560,leisure,financed,covered_lot,0
+VEH00593,CUST00532,Subaru,Outback,2011,suv,gasoline,automatic,7814.37,4606,mixed,leased,garage,0
+VEH00594,CUST00532, Kia,Forte,2016,sedan,gasoline,automatic,11810.58,8954,leisure,owned,driveway,1
+VEH00595,CUST00533,Subaru,Outback,2015,suv,gasoline,automatic,14060.42,9031,family,leased,street,0
+VEH00596,CUST00534,Kia,Sportage,2014,suv,gasoline,automatic,7150.11,7095,mixed,owned,driveway,0
+VEH00597,CUST00535,Tesla,Model 3,2021,sedan,gasoline,automatic,37172.79,19181,commuting,owned,street,1
+VEH00598,CUST00536,Nissan,Altima,2020,sedan,gasoline,automatic,20166.32,8084,commuting,owned,driveway,0
+VEH00599,CUST00537,Ford,Focus,2011,hatchback,hybrid,automatic,9844.42,8637,commuting,owned,garage,1
+VEH00600,CUST00538,Nissan,Altima,2013,sedan,gasoline,automatic,4730.98,11236,family,financed,street,1
+VEH00601,CUST00538,Tesla,Model Y,2023,suv,hybrid,automatic,37566.75,14004,commuting,leased,garage,0
+VEH00602,CUST00539,Ford,F-150,2017,pickup,gasoline,automatic,18000.28,15575,commuting,owned,street,1
+VEH00603,CUST00540,Nissan,Altima,2015,sedan,hybrid,automatic,3500.0,11321,mixed,financed,garage,0
+VEH00604,CUST00541,Subaru,Forester,2017,suv,gasoline,automatic,18466.61,8676,commercial_light,owned,street,0
+VEH00605,CUST00542,Honda,Odyssey,2025,sedan,gasoline,automatic,30581.85,13175,commuting,financed,street,0
+VEH00606,CUST00542,Chevrolet,Bolt,2024,hatchback,gasoline,automatic,26770.39,8823,mixed,financed,driveway,0
+VEH00607,CUST00543,Nissan,Sentra,2023,sedan,hybrid,automatic,16872.1,8165,family,financed,garage,0
+VEH00608,CUST00544,Chevrolet,Equinox,2020,pickup,gasoline,automatic,21630.79,5794,mixed,financed,garage,1
+VEH00609,CUST00545,Kia ,Forte,2014,sedan,hybrid,automatic,4042.77,15835,mixed,owned,covered_lot,1
+VEH00610,CUST00546,Subaru,Impreza,2023,hatchback,gasoline,automatic,23543.92,13821,commuting,financed,street,0
+VEH00611,CUST00547,Toyota,Corolla,2025,sedan,electric,automatic,21023.2,12138,leisure,owned,driveway,1
+VEH00612,CUST00548,Jeep,Compass,2023,suv,gasoline,manual,32498.05,12563,commuting,owned,street,1
+VEH00613,CUST00549,Jeep,Grand Cherokee,2025,suv,gasoline,automatic,32345.24,13590,mixed,owned,covered_lot,0
+VEH00614,CUST00549,Honda,Odyssey,2025,minivan,hybrid,manual,23036.99,8962,commercial_light,financed,driveway,0
+VEH00615,CUST00550,Chevrolet,Malibu,2010,suv,gasoline,automatic,11846.16,9756,mixed,financed,driveway,0
+VEH00616,CUST00550,Kia,Forte,2014,sedan,gasoline,automatic,5252.87,8908,mixed,financed,garage,0
+VEH00617,CUST00551,Hyundai,Tucson,2017,suv,gasoline,manual,9004.86,11741,family,owned,driveway,1
+VEH00618,CUST00552,Honda,Civic,2025,sedan,gasoline,automatic,24315.75,13831,commuting,financed,driveway,0
+VEH00619,CUST00553,Nissan,Altima,2024,sedan,gasoline,automatic,21366.87,6777,mixed,financed,street,1
+VEH00620,CUST00554,Subaru,Forester,2010,suv,gasoline,automatic,8854.3,17790,commuting,leased,,0
+VEH00621,CUST00555,Tesla,Model Y,2014,sedan,diesel,automatic,27910.47,14233,commuting,leased,,0
+VEH00622,CUST00556,Kia,Forte,2021,sedan,gasoline,automatic,16051.27,13457,commuting,owned,garage,1
+VEH00623,CUST00557,Tesla,Model 3,2012,sedan,gasoline,automatic,22928.11,15929,mixed,owned,covered_lot,1
+VEH00624,CUST00558,Kia,Sportage,2011,suv,hybrid,automatic,7975.49,12697,commuting,owned,covered_lot,0
+VEH00625,CUST00559,Nissan,Leaf,2018,pickup,gasoline,automatic,13988.74,10432,family,financed,driveway,0
+VEH00626,CUST00560,Subaru,Forester,2016,suv,gasoline,automatic,15918.0,10153,family,owned,garage,0
+VEH00627,CUST00561,Honda,CR-V,2011,suv,gasoline,automatic,10762.34,14194,commuting,financed,garage,0
+VEH00628,CUST00562,Jeep,Grand Cherokee,2011,suv,gasoline,automatic,14820.51,20871,family,owned,street,0
+VEH00629,CUST00562,Honda,Odyssey,2021,MINIVAN,gasoline,automatic,23001.43,16496,family,financed,garage,1
+VEH00630,CUST00563,Tesla,Model 3,2021,sedan,gasoline,automatic,32555.01,17987,family,owned,,1
+VEH00631,CUST00564,Hyundai,Sonata,2012,sedan,electric,automatic,3500.0,8605,family,owned,garage,1
+VEH00632,CUST00564,Jeep,Compass,2014,suv,gasoline,automatic,17441.14,23147,commuting,owned,driveway,1
+VEH00633,CUST00565,Hyundai,Sonata,2013,sedan,hybrid,manual,3586.29,6179,commuting,financed,driveway,0
+VEH00634,CUST00566,Tesla,Model 3,2017,sedan,gasoline,automatic,31057.27,11052,family,leased,street,0
+VEH00635,CUST00567,Hyundai,Tucson,2018,suv,gasoline,automatic,16186.11,4380,leisure,leased,covered_lot,0
+VEH00636,CUST00568,Jeep,Grand Cherokee,2018,suv,gasoline,automatic,19437.56,17192,family,leased,driveway,0
+VEH00637,CUST00569,Toyota,Corolla,2021,sedan,diesel,automatic,15321.78,17195,commuting,owned,driveway,1
+VEH00638,CUST00570,Hyundai,Kona,2025,suv,gasoline,automatic,19562.25,16433,mixed,financed,garage,1
+VEH00639,CUST00571,Jeep,Compass,2025,suv,diesel,manual,30183.2,11700,commuting,owned,street,0
+VEH00640,CUST00572,Jeep,Grand Cherokee,2024,suv,hybrid,automatic,29571.7,19841,mixed,owned,garage,1
+VEH00641,CUST00573,Subaru,Outback,2012,suv,hybrid,automatic,17116.2,7818,mixed,owned,driveway,1
+VEH00642,CUST00574,Chevrolet,Bolt,2012,hatchback,hybrid,automatic,7066.37,13137,family,leased,street,1
+VEH00643,CUST00575, Honda,Odyssey,2015,minivan,gasoline,manual,12300.83,13140,family,financed,garage,1
+VEH00644,CUST00576,Nissan,Sentra,2013,sedan,diesel,automatic,3557.78,6847,leisure,owned,,0
+VEH00645,CUST00577,Ford,F-150,2013,pickup,electric,automatic,13107.19,11568,mixed,owned,garage,0
+VEH00646,CUST00578,Ford,Mustang,2014,coupe,hybrid,automatic,9322.14,19017,commuting,owned,covered_lot,0
+VEH00647,CUST00578,Chevrolet,Malibu,2019,sedan,gasoline,automatic,13533.37,12182,commuting,owned,garage,0
+VEH00648,CUST00578,Kia,Forte,2025,sedan,hybrid,automatic,25235.14,14097,commuting,owned,,0
+VEH00649,CUST00579,Hyundai,Kona,2024,coupe,gasoline,automatic,15004.48,3664,mixed,owned,covered_lot,0
+VEH00650,CUST00580,Toyota,RAV4,2016,suv,gasoline,automatic,7856.08,15013,commuting,owned,street,0
+VEH00651,CUST00581,Honda,Civic,2017,sedan,gasoline,automatic,17567.72,7920,leisure,owned,garage,0
+VEH00652,CUST00582,Jeep,Grand Cherokee,2023,suv,electric,automatic,34573.15,14260,commuting,financed,driveway,0
+VEH00653,CUST00583,Subaru,Outback,2020,suv,diesel,automatic,23978.2,7653,commuting,owned,covered_lot,1
+VEH00654,CUST00584,Tesla,Model Y,2024,SUV,gasoline,automatic,45592.94,21891,family,owned,garage,1
+VEH00655,CUST00584,Nissan,Altima,2019,sedan,gasoline,automatic,13374.02,8110,commercial_light,owned,street,1
+VEH00656,CUST00585,Ford,F-150,2017,pickup,gasoline,automatic,11853.4,15788,commuting,owned,street,0
+VEH00657,CUST00586,Tesla,Model Y,2019,suv,gasoline,automatic,37867.42,3593,leisure,leased,driveway,0
+VEH00658,CUST00587,Toyota,Camry,2021,sedan,gasoline,manual,18348.29,7478,commuting,financed,garage,0
+VEH00659,CUST00588,Nissan,Leaf,2015,hatchback,hybrid,automatic,7027.69,14956,family,owned,street,0
+VEH00660,CUST00589,Subaru,Impreza,2019,hatchback,hybrid,automatic,22718.3,13329,commuting,financed,driveway,0
+VEH00661,CUST00590,Ford,Escape,2014,suv,gasoline,automatic,10137.95,12014,commuting,financed,covered_lot,1
+VEH00662,CUST00591,Ford,Escape,2013,minivan,gasoline,automatic,8743.2,16551,commercial_light,owned,garage,0
+VEH00663,CUST00592,Toyota,RAV4,2014,suv,gasoline,automatic,17725.64,10128,family,owned,,0
+VEH00664,CUST00593,Tesla,Model Y,2021,hatchback,gasoline,automatic,40177.56,8739,commuting,leased,street,1
+VEH00665,CUST00594,Ford,Escape,2011,suv,gasoline,automatic,3755.72,13669,commuting,leased,street,0
+VEH00666,CUST00595,Hyundai,Tucson,2014,suv,gasoline,automatic,8257.34,2500,family,financed,garage,1
+VEH00667,CUST00596,Hyundai,Kona,2015,suv,gasoline,manual,8356.46,8200,mixed,financed,driveway,1
+VEH00668,CUST00597,Jeep,Grand Cherokee,2013,suv,gasoline,automatic,18960.78,10810,commuting,leased,,1
+VEH00669,CUST00598,Toyota ,Tacoma,2025,pickup,electric,automatic,23237.9,9822,commercial_light,financed,garage,1
+VEH00670,CUST00599,Ford,Mustang,2020,coupe,gasoline,automatic,26967.9,10206,leisure,leased,garage,0
+VEH00671,CUST00600,Ford,Focus,2020,Sedan,gasoline,automatic,24312.7,28714,mixed,financed,driveway,0
+VEH00672,CUST00601,Nissan,Leaf,2019,hatchback,diesel,automatic,12930.63,6256,mixed,owned,,0
+VEH00673,CUST00601,Subaru,Forester,2014,minivan,diesel,automatic,8960.42,17174,family,financed,garage,0
+VEH00674,CUST00602,Subaru,Forester,2024,suv,gasoline,automatic,24168.71,13840,mixed,financed,street,0
+VEH00675,CUST00603,Hyundai,Elantra,2025,sedan,hybrid,automatic,19195.47,19537,mixed,financed,street,1
+VEH00676,CUST00604,Toyota,Camry,2013,sedan ,gasoline,manual,11696.19,17004,family,owned,covered_lot,0
+VEH00677,CUST00605,Nissan,Sentra,2022,sedan,gasoline,automatic,21363.53,10248,mixed,owned,garage,0
+VEH00678,CUST00606,Subaru,Impreza,2024,hatchback,gasoline,automatic,27035.16,14179,leisure,owned,covered_lot,0
+VEH00679,CUST00606,HYUNDAI,Elantra,2020,sedan,gasoline,automatic,16987.93,12165,mixed,financed,,1
+VEH00680,CUST00607,Toyota,Camry,2017,sedan,hybrid,automatic,9839.3,18137,commuting,owned,driveway,1
+VEH00681,CUST00608,Nissan,Altima,2010,sedan,electric,automatic,5214.68,15010,family,financed,garage,1
+VEH00682,CUST00609,Honda,Odyssey,2012,suv,gasoline,automatic,8759.35,12633,commuting,owned,street,1
+VEH00683,CUST00610,Jeep,Grand Cherokee,2016,suv,diesel,automatic,20750.91,12471,commercial_light,financed,garage,1
+VEH00684,CUST00611,Tesla,Model Y,2011,suv,gasoline,automatic,24095.07,17214,commuting,owned,,0
+VEH00685,CUST00612,Hyundai,Kona,2014,suv,gasoline,automatic,3561.69,8963,mixed,financed,covered_lot,0
+VEH00686,CUST00613,Kia,Sportage,2022,suv,hybrid,automatic,20884.88,7206,family,financed,street,0
+VEH00687,CUST00614,Hyundai,Elantra,2019,sedan,gasoline,automatic,17062.99,11263,leisure,financed,garage,1
+VEH00688,CUST00615,Hyundai,Tucson,2019,suv,hybrid,automatic,17721.96,25744,commercial_light,financed,street,0
+VEH00689,CUST00616,Tesla,Model 3,2016,suv,gasoline,manual,30844.9,20327,leisure,financed,garage,0
+VEH00690,CUST00617,Tesla,Model Y,2024,suv,gasoline,automatic,42021.53,21220,family,financed,street,0
+VEH00691,CUST00618,Nissan,Altima,2023,sedan,gasoline,automatic,23978.68,11944,commuting,leased,driveway,0
+VEH00692,CUST00619,Kia,Forte,2012,sedan,hybrid,manual,5762.03,19766,mixed,owned,covered_lot,1
+VEH00693,CUST00620,Ford,Escape,2019,suv,hybrid,automatic,19624.23,15030,commercial_light,owned,driveway,1
+VEH00694,CUST00621,Tesla,Model Y,2012,suv,gasoline,automatic,24149.47,21394,leisure,owned,,1
+VEH00695,CUST00622, Subaru,Outback,2012,suv,gasoline,automatic,12204.92,10839,leisure,financed,driveway,0
+VEH00696,CUST00623,Toyota,Tacoma,2018,Pickup,gasoline,automatic,12666.53,11867,commuting,owned,covered_lot,0
+VEH00697,CUST00624,Kia,Forte,2024,sedan,gasoline,automatic,24752.88,11067,family,owned,garage,1
+VEH00698,CUST00625,Subaru,Impreza,2016,hatchback,gasoline,automatic,10948.01,13930,mixed,leased,driveway,0
+VEH00699,CUST00626,Ford,Mustang,2019,suv,hybrid,automatic,12603.13,12490,commercial_light,leased,garage,1
+VEH00701,CUST00628,Nissan,Rogue,2025,suv,diesel,automatic,21929.83,20843,family,owned,driveway,0
+VEH00702,CUST00629,Jeep,Grand Cherokee,2017,suv,gasoline,automatic,24799.28,13580,commuting,financed,garage,1
+VEH00703,CUST00629,Toyota,Corolla,2014,sedan,gasoline,automatic,8568.29,8815,leisure,owned,street,1
+VEH00704,CUST00630,Nissan,Rogue,2025,suv,gasoline,automatic,19766.34,11507,commuting,financed,covered_lot,0
+VEH00705,CUST00631,Honda,CR-V,2023,suv,gasoline,automatic,22708.77,3477,mixed,leased,garage,1
+VEH00706,CUST00632,Ford,Mustang,2017,coupe,diesel,automatic,13514.25,14752,commuting,owned,street,1
+VEH00707,CUST00633,Toyota,Corolla,2018,sedan,gasoline,automatic,12127.44,4553,mixed,owned,garage,0
+VEH00708,CUST00634,Tesla,Model 3,2021,sedan,gasoline,automatic,30640.97,12868,leisure,owned,driveway,0
+VEH00709,CUST00635,Subaru,Outback,2023,sedan,gasoline,automatic,25921.45,12964,mixed,leased,covered_lot,1
+VEH00710,CUST00636,Nissan,Leaf,2013,hatchback,gasoline,automatic,6929.77,10371,family,financed,garage,0
+VEH00711,CUST00637,Hyundai,Elantra,2018,sedan,gasoline,manual,3500.0,5080,family,leased,garage,0
+VEH00712,CUST00638,Ford,Focus,2014,hatchback,gasoline,automatic,12122.75,12448,commuting,financed,driveway,1
+VEH00713,CUST00639,Hyundai,Kona,2014,sedan,diesel,manual,3500.0,2500,family,owned,garage,0
+VEH00714,CUST00640,Hyundai,Sonata,2011,sedan,diesel,automatic,3500.0,9317,commercial_light,owned,garage,0
+VEH00715,CUST00640,Nissan,Rogue,2023,suv,gasoline,automatic,24124.59,12413,commercial_light,owned,street,1
+VEH00716,CUST00641,Hyundai,Elantra,2019,sedan,gasoline,automatic,13461.57,12967,commercial_light,financed,driveway,1
+VEH00717,CUST00641,Nissan,Sentra,2016,sedan,diesel,automatic,5600.38,18579,commuting,financed,street,1
+VEH00718,CUST00642,Ford,Focus,2015,hatchback,hybrid,manual,6675.76,17338,commuting,owned,garage,0
+VEH00719,CUST00643,Jeep,Grand Cherokee,2020,suv,gasoline,automatic,26974.63,17992,mixed,financed,garage,0
+VEH00720,CUST00643,Nissan,Rogue,2021,suv,diesel,automatic,14133.77,14254,family,owned,covered_lot,1
+VEH00721,CUST00644,Honda,CR-V,2014,suv,gasoline,automatic,5831.29,19204,commuting,owned,garage,0
+VEH00722,CUST00645,Toyota,Camry,2019,sedan,gasoline,manual,21015.62,19267,family,owned,garage,1
+VEH00723,CUST00645,Hyundai,Kona,2023,suv,gasoline,automatic,17780.37,13223,leisure,leased,garage,0
+VEH00724,CUST00646,Hyundai,Sonata,2013,pickup,gasoline,automatic,6683.62,9867,family,owned,street,0
+VEH00725,CUST00647,Chevrolet,Equinox,2017,suv,gasoline,automatic,10750.63,11090,commuting,owned,driveway,0
+VEH00726,CUST00648,Chevrolet,Malibu,2023,sedan,gasoline,automatic,25474.87,14495,commercial_light,leased,covered_lot,0
+VEH00727,CUST00649,Tesla,Model 3,2013,Sedan,gasoline,automatic,24684.51,3955,leisure,leased,driveway,0
+VEH00728,CUST00650,Ford,Focus,2025,hatchback,gasoline,automatic,21472.83,17504,commuting,owned,,1
+VEH00729,CUST00651,Hyundai,Tucson,2021,suv,electric,automatic,15947.15,11635,commuting,financed,garage,0
+VEH00730,CUST00652,Ford,Mustang,2020, coupe,gasoline,automatic,17546.02,14677,commuting,leased,street,0
+VEH00731,CUST00653,Ford,F-150,2010,pickup,diesel,automatic,3901.45,20032,family,owned,driveway,1
+VEH00732,CUST00654,Honda,Accord,2014,sedan,diesel,automatic,3500.0,14962,commuting,financed,covered_lot,0
+VEH00733,CUST00655,Ford,Escape,2019,suv,hybrid,automatic,12781.27,11712,family,financed,,0
+VEH00734,CUST00656, Ford,Escape,2014,pickup,diesel,automatic,14874.88,16549,family,owned,street,0
+VEH00735,CUST00657,Honda,Odyssey,2013,coupe,gasoline,manual,3905.33,6740,family,financed,covered_lot,0
+VEH00736,CUST00658,Honda,Civic,2025, sedan,gasoline,automatic,22378.73,21234,mixed,financed,street,0
+VEH00737,CUST00659,Kia,Rio,2016,sedan,hybrid,automatic,14457.14,8028,family,financed,street,1
+VEH00738,CUST00660,Honda,Civic,2011,sedan,gasoline,automatic,3500.0,14509,commuting,financed,garage,0
+VEH00739,CUST00661,Tesla,Model 3,2018,sedan,gasoline,automatic,29715.77,7283,mixed,financed,street,1
+VEH00740,CUST00662,Toyota,Corolla,2019,sedan,gasoline,manual,13855.33,17697,mixed,owned,covered_lot,1
+VEH00741,CUST00663,TOYOTA,Corolla,2013,sedan,gasoline,automatic,10184.36,6297,commuting,financed,street,0
+VEH00742,CUST00664,Subaru,Impreza,2016,hatchback,gasoline,automatic,16656.12,18334,family,owned,street,1
+VEH00743,CUST00665,Ford,F-150,2010,pickup,gasoline,automatic,3500.0,5445,family,financed,,0
+VEH00744,CUST00666,Honda,Accord,2018,suv,hybrid,automatic,9108.72,11376,commuting,owned,street,0
+VEH00745,CUST00667,Subaru,Outback,2021,suv,gasoline,automatic,21130.42,25250,family,owned,street,1
+VEH00746,CUST00668,Ford,Escape,2012,suv,gasoline,automatic,6356.65,9286,family,owned,street,0
+VEH00747,CUST00669,Honda,Civic,2016, sedan,gasoline,automatic,7842.46,18930,family,owned,street,0
+VEH00749,CUST00671,Jeep,Compass,2013,suv,gasoline,automatic,18042.68,13579,commuting,financed,,0
+VEH00750,CUST00672,Chevrolet,Bolt,2021,hatchback,hybrid,automatic,22650.12,11919,commuting,financed,street,0
+VEH00751,CUST00673,Subaru,Impreza,2024,hatchback ,gasoline,automatic,21437.09,16909,commuting,financed,street,0
+VEH00752,CUST00674,Honda,Accord,2021,sedan,gasoline,automatic,17357.97,17596,mixed,owned,driveway,0
+VEH00753,CUST00675,Kia,Soul,2016,hatchback,electric,automatic,10700.43,8561,commuting,financed,garage,0
+VEH00754,CUST00676,Jeep,Compass,2023,pickup,diesel,automatic,25316.84,20438,family,owned,driveway,1
+VEH00755,CUST00677,Honda,CR-V,2013,suv,gasoline,automatic,7238.64,12194,leisure,owned,street,1
+VEH00756,CUST00678,Tesla,Model 3,2014,sedan,gasoline,manual,21775.93,14673,commuting,financed,street,0
+VEH00757,CUST00678,Tesla,Model Y,2019,suv,gasoline,automatic,32379.35,10403,commercial_light,financed,garage,0
+VEH00758,CUST00679,Jeep,Compass,2012,suv,gasoline,automatic,17312.8,16300,mixed,owned,street,1
+VEH00759,CUST00680,Hyundai,Kona,2013,suv,gasoline,automatic,3706.05,9932,family,leased,driveway,0
+VEH00760,CUST00681,Kia,Sportage,2024,suv,gasoline,automatic,20611.46,16534,commuting,owned,covered_lot,0
+VEH00761,CUST00682,Subaru,Forester,2019,suv,gasoline,automatic,18943.71,11378,commercial_light,financed,garage,1
+VEH00762,CUST00683,Tesla,Model 3,2023,sedan,gasoline,automatic,40756.63,11998,commuting,owned,covered_lot,0
+VEH00763,CUST00683,Nissan,Leaf,2016,hatchback,gasoline,automatic,9421.92,11345,family,owned,garage,0
+VEH00764,CUST00684,Honda,Odyssey,2021,minivan,electric,automatic,13060.05,20491,mixed,leased,garage,1
+VEH00765,CUST00685,Ford,Focus,2025,hatchback,electric,automatic,23354.46,16700,commuting,financed,,0
+VEH00766,CUST00686,Honda,Odyssey,2024,suv,gasoline,automatic,22389.82,11134,commuting,financed,garage,0
+VEH00767,CUST00687,Jeep,Compass,2013,suv,hybrid,automatic,11617.32,13873,family,leased,covered_lot,0
+VEH00768,CUST00688,Ford,Mustang,2022,coupe,gasoline,manual,22627.02,4083,commuting,owned,driveway,0
+VEH00769,CUST00689,Subaru,Impreza,2015,Hatchback,electric,automatic,13530.47,16159,commuting,owned,street,1
+VEH00771,CUST00691,Hyundai,Sonata,2022,sedan,gasoline,manual,19739.51,12601,leisure,leased,garage,0
+VEH00772,CUST00692,Honda,Accord,2023,sedan,gasoline,automatic,26089.98,15674,commuting,financed,street,0
+VEH00773,CUST00693,Tesla,Model Y,2018,suv,gasoline,automatic,32690.06,13442,commuting,leased,driveway,1
+VEH00774,CUST00693,Kia,Sportage,2025,suv,gasoline,automatic,49849.236000000004,12487,commuting,financed,street,0
+VEH00775,CUST00694,Subaru,Outback,2025,suv,hybrid,automatic,26197.84,14256,commercial_light,financed,garage,0
+VEH00776,CUST00695,Jeep,Grand Cherokee,2014,sedan,gasoline,automatic,16676.9,18485,mixed,owned,driveway,1
+VEH00777,CUST00696,Tesla,Model 3,2013,SEDAN,electric,manual,26237.62,16233,leisure,owned,driveway,0
+VEH00778,CUST00697,Nissan,Leaf,2025,hatchback,gasoline,automatic,20158.88,18811,family,financed,covered_lot,0
+VEH00779,CUST00698,Chevrolet,Equinox,2010,suv,gasoline,automatic,3500.0,9408,family,leased,driveway,0
+VEH00780,CUST00699, Honda,Civic,2012,sedan,gasoline,manual,3500.0,8076,mixed,owned,street,0
+VEH00781,CUST00700,Tesla,Model 3,2015,sedan,gasoline,automatic,32313.9,15468,commercial_light,leased,driveway,0
+VEH00782,CUST00701,Kia,Sportage,2014,minivan,hybrid,manual,5346.0,9079,commuting,owned,garage,1
+VEH00783,CUST00702,Nissan,Sentra,2012,suv,gasoline,manual,4656.61,16641,family,financed,street,0
+VEH00784,CUST00703,Jeep,Grand Cherokee,2024,minivan,gasoline,automatic,32217.36,10347,mixed,financed,covered_lot,1
+VEH00785,CUST00704,Chevrolet,Silverado,2025,pickup,electric,automatic,28292.52,14610,commercial_light,owned,garage,1
+VEH00786,CUST00705,Tesla,Model Y,2020,suv,diesel,manual,30128.84,9427,commuting,leased,street,1
+VEH00787,CUST00706,Jeep,Compass,2011,suv,gasoline,automatic,7687.59,16926,family,owned,street,0
+VEH00788,CUST00707,KIA,Rio,2022,sedan,diesel,automatic,23129.88,10434,family,financed,garage,0
+VEH00789,CUST00708,Tesla,Model Y,2022,suv,electric,automatic,32552.96,2542,mixed,owned,street,0
+VEH00790,CUST00709,Tesla,Model Y,2011,hatchback,gasoline,automatic,22500.32,10242,family,leased,driveway,0
+VEH00791,CUST00710,Toyota,Camry,2019,minivan,electric,automatic,23206.45,23926,family,financed,garage,1
+VEH00792,CUST00711,Ford,Mustang,2023,coupe,gasoline,automatic,23400.98,8532,family,financed,garage,0
+VEH00793,CUST00712,Ford,F-150,2022,pickup,gasoline,manual,22285.61,7867,commuting,leased,street,0
+VEH00794,CUST00713,Tesla,Model 3,2025,sedan,gasoline,automatic,43526.34,10347,mixed,leased,street,0
+VEH00795,CUST00714,Jeep,Grand Cherokee,2025,suv,diesel,automatic,35171.93,13984,commuting,owned,driveway,0
+VEH00796,CUST00715,Jeep,Compass,2011,suv,gasoline,automatic,5950.09,13857,mixed,owned,garage,1
+VEH00797,CUST00716,Kia,Sportage,2025,pickup,gasoline,automatic,20558.36,15533,commercial_light,financed,street,1
+VEH00798,CUST00717,Subaru,Outback,2021,suv,gasoline,automatic,25827.99,13624,commuting,owned,driveway,0
+VEH00799,CUST00717,Nissan,Rogue,2011,suv,electric,automatic,3500.0,6932,commercial_light,financed,street,0
+VEH00800,CUST00718,TOYOTA,Corolla,2014,sedan,hybrid,automatic,11074.68,15517,commuting,owned,driveway,1
+VEH00801,CUST00719,Hyundai,Tucson,2010,suv,gasoline,automatic,6024.92,4374,mixed,owned,,0
+VEH00802,CUST00720,Hyundai,Kona,2013,suv,hybrid,manual,5744.08,14013,commercial_light,financed,covered_lot,0
+VEH00803,CUST00721,Kia,Sportage,2021,hatchback,gasoline,automatic,9111.72,12688,commuting,leased,driveway,0
+VEH00804,CUST00721,Kia,Sportage,2011,suv,gasoline,automatic,8746.33,5970,family,owned,street,0
+VEH00805,CUST00722,Chevrolet,Equinox,2017,suv,electric,automatic,7175.27,9141,commercial_light,financed,garage,0
+VEH00807,CUST00724,Nissan,Sentra,2020,sedan,gasoline,manual,15509.82,10940,mixed,owned,street,0
+VEH00808,CUST00725,Ford,Focus,2020,hatchback,gasoline,automatic,24135.3,4667,mixed,financed,garage,1
+VEH00809,CUST00725,Toyota,Tacoma,2023,sedan,gasoline,automatic,19923.64,8409,commuting,owned,garage,0
+VEH00810,CUST00726,Subaru,Forester,2023,suv,gasoline,automatic,25810.61,10420,mixed,owned,,0
+VEH00811,CUST00727,Nissan,Sentra,2025,sedan,electric,automatic,19777.46,14980,family,financed,street,0
+VEH00812,CUST00727,Subaru,Impreza,2020,hatchback,hybrid,automatic,20559.96,12080,leisure,owned,covered_lot,1
+VEH00813,CUST00728,Kia,Soul,2020,hatchback,gasoline,automatic,15517.72,7604,commuting,financed,garage,1
+VEH00814,CUST00729,Subaru,Impreza,2025,hatchback,gasoline,automatic,29174.8,10400,family,owned,street,1
+VEH00815,CUST00730,Honda,Accord,2020,sedan,gasoline,automatic,22837.03,13969,mixed,financed,driveway,0
+VEH00816,CUST00730,Tesla,Model Y,2015,suv,gasoline,automatic,22481.62,7146,family,owned,street,0
+VEH00817,CUST00731,Subaru,Outback,2021,suv,hybrid,automatic,20019.36,15663,commuting,owned,covered_lot,1
+VEH00818,CUST00731,Kia,Forte,2025,sedan,electric,automatic,21407.3,13937,family,owned,covered_lot,0
+VEH00819,CUST00732,Honda,Accord,2019,sedan,electric,automatic,15753.41,17632,leisure,owned,street,1
+VEH00820,CUST00733,Nissan,Sentra,2019,sedan,gasoline,automatic,13507.67,15501,mixed,owned,driveway,0
+VEH00821,CUST00734,Subaru,Outback,2017,suv,gasoline,automatic,16349.05,7458,commuting,owned,driveway,1
+VEH00822,CUST00735,Subaru ,Forester,2012,coupe,gasoline,automatic,12092.51,15697,family,leased,driveway,1
+VEH00823,CUST00735,Subaru,Impreza,2020,hatchback,gasoline,manual,18477.91,11523,commuting,owned,street,0
+VEH00824,CUST00736,Nissan,Sentra,2025,sedan,electric,automatic,25402.3,14312,leisure,leased,street,0
+VEH00825,CUST00737,Kia,Forte,2021,suv,gasoline,manual,17144.88,11402,family,owned,garage,0
+VEH00826,CUST00738,Honda,CR-V,2019,suv,gasoline,automatic,18068.13,8196,family,financed,driveway,1
+VEH00827,CUST00738,Kia,Sportage,2016,suv,gasoline,automatic,11063.5,2500,mixed,owned,garage,1
+VEH00828,CUST00739,Kia,Soul,2018,hatchback,diesel,automatic,8705.77,21068,commuting,owned,driveway,0
+VEH00829,CUST00739,Subaru,Forester,2024,hatchback,gasoline,automatic,25272.61,7484,mixed,financed,garage,0
+VEH00830,CUST00740,Jeep,Compass,2010,suv,gasoline,automatic,11318.16,9222,family,financed,garage,0
+VEH00831,CUST00741,Jeep,Compass,2025,suv,gasoline,automatic,31886.72,14431,family,financed,driveway,0
+VEH00832,CUST00742,Chevrolet,Bolt,2018,hatchback,hybrid,automatic,12483.39,12349,leisure,owned,driveway,0
+VEH00833,CUST00743,Jeep,Grand Cherokee,2011,suv,gasoline,manual,40795.758,11650,commuting,financed,covered_lot,0
+VEH00834,CUST00744,Jeep,Compass,2021,suv,gasoline,automatic,24133.64,10193,leisure,owned,covered_lot,1
+VEH00835,CUST00745,Tesla,Model 3,2017,suv,gasoline,automatic,33405.51,3486,mixed,owned,garage,0
+VEH00836,CUST00746,Ford,F-150,2023,pickup,gasoline,automatic,21949.77,16178,commuting,financed,street,1
+VEH00837,CUST00747,Kia,Sportage,2012,suv,gasoline,manual,3500.0,8026,mixed,owned,,0
+VEH00838,CUST00748,Chevrolet,Bolt,2018,hatchback,gasoline,automatic,15554.36,11701,leisure,financed,street,1
+VEH00839,CUST00749,Nissan,Altima,2018,sedan,gasoline,automatic,18834.33,11467,leisure,financed,covered_lot,0
+VEH00840,CUST00750,Subaru,Impreza,2022,hatchback,gasoline,manual,22718.38,11151,family,financed,driveway,0
+VEH00841,CUST00751,Chevrolet,Malibu,2014,sedan,gasoline,automatic,11235.51,7269,commuting,owned,street,0
+VEH00842,CUST00752,Chevrolet,Malibu,2017,sedan,gasoline,manual,22643.63,7453,commercial_light,financed,driveway,0
+VEH00843,CUST00753,Nissan,Leaf,2025,hatchback,hybrid,manual,20368.56,18135,commercial_light,leased,garage,0
+VEH00844,CUST00754,Jeep,Grand Cherokee,2023,sedan,hybrid,automatic,25772.5,10379,commercial_light,owned,street,1
+VEH00845,CUST00755,Toyota,Camry,2015,sedan,gasoline,automatic,8328.62,12126,family,leased,,0
+VEH00846,CUST00756,Nissan,Altima,2010,sedan,gasoline,manual,3500.0,12024,commuting,financed,garage,0
+VEH00847,CUST00757,Nissan,Rogue,2015,suv,gasoline,automatic,15446.98,24813,family,owned,covered_lot,0
+VEH00848,CUST00758,Toyota,Tacoma,2010,pickup,gasoline,automatic,3500.0,14722,commuting,financed,driveway,0
+VEH00849,CUST00759,Toyota,Corolla,2020,minivan,gasoline,manual,18993.43,21824,mixed,owned,street,1
+VEH00850,CUST00760,Subaru,Outback,2012,suv,gasoline,automatic,5679.04,5750,commuting,owned,driveway,0
+VEH00851,CUST00761,Kia,Sportage,2012,suv,diesel,automatic,3500.0,7934,family,financed,driveway,0
+VEH00852,CUST00762,Kia,Forte,2017,sedan,gasoline,automatic,10642.85,13635,commuting,owned,street,0
+VEH00853,CUST00763,HONDA,Civic,2018,suv,hybrid,automatic,9684.34,13618,family,financed,garage,1
+VEH00854,CUST00764,Tesla,Model 3,2017,sedan,gasoline,automatic,26624.6,14116,family,owned,covered_lot,0
+VEH00855,CUST00765,Subaru,Impreza,2020,hatchback,hybrid,automatic,19842.17,7693,commuting,financed,street,0
+VEH00856,CUST00766,Hyundai,Kona,2017,suv,gasoline,automatic,10891.73,12070,commuting,leased,driveway,0
+VEH00858,CUST00768,Honda,Accord,2016,sedan,gasoline,automatic,10220.83,16391,commercial_light,owned,garage,1
+VEH00859,CUST00769,Nissan,Leaf,2023,suv,gasoline,automatic,13719.9,14428,mixed,financed,street,1
+VEH00860,CUST00770,Nissan,Sentra,2025,sedan,diesel,automatic,21506.45,14601,family,financed,garage,1
+VEH00862,CUST00772,Hyundai,Kona,2025,suv,gasoline,automatic,22265.08,17534,commercial_light,owned,garage,0
+VEH00863,CUST00772,Chevrolet,Silverado,2014,pickup,gasoline,automatic,10894.85,13571,leisure,owned,garage,0
+VEH00864,CUST00773,Hyundai,Kona,2021,sedan,gasoline,manual,16519.83,14407,family,owned,garage,0
+VEH00865,CUST00774,Nissan,Sentra,2011,sedan,hybrid,manual,3500.0,12926,family,leased,garage,0
+VEH00866,CUST00775,Toyota,Camry,2018,sedan,gasoline,automatic,15010.39,14043,commercial_light,owned,street,0
+VEH00867,CUST00776,Jeep,Grand Cherokee,2019,suv,gasoline,manual,25067.68,2500,family,owned,street,0
+VEH00868,CUST00777,Hyundai,Elantra,2017,sedan,gasoline,automatic,5622.42,7348,commercial_light,leased,covered_lot,0
+VEH00869,CUST00778,Tesla,Model Y,2010,suv,hybrid,automatic,22253.66,14346,commuting,leased,covered_lot,0
+VEH00870,CUST00779,Kia,Sportage,2019,hatchback,gasoline,automatic,14928.27,2500,mixed,financed,driveway,1
+VEH00871,CUST00780,Honda,Accord,2019,sedan,gasoline,automatic,13825.28,13757,commuting,owned,garage,0
+VEH00873,CUST00782,Hyundai,Kona,2011,suv,hybrid,automatic,3500.0,7086,leisure,owned,garage,0
+VEH00874,CUST00783,Nissan,Sentra,2025,sedan,gasoline,automatic,20355.34,18542,commercial_light,financed,street,0
+VEH00875,CUST00784,Tesla,Model Y,2020,suv,gasoline,automatic,31724.56,11077,mixed,owned,driveway,1
+VEH00876,CUST00785, Kia,Rio,2015,sedan,electric,automatic,3500.0,17783,leisure,financed,garage,0
+VEH00877,CUST00786,Nissan,Sentra,2021,sedan,diesel,automatic,15424.84,17565,mixed,owned,garage,1
+VEH00878,CUST00787,Kia,Sportage,2024,sedan,gasoline,automatic,19060.12,17675,leisure,leased,driveway,1
+VEH00879,CUST00788,Toyota,Corolla,2015,sedan,diesel,automatic,11131.06,8625,commercial_light,leased,garage,1
+VEH00880,CUST00789,Tesla,Model 3,2010,sedan,electric,manual,19559.33,7946,commuting,owned,covered_lot,0
+VEH00881,CUST00789,Kia,Forte,2019,sedan,gasoline,automatic,14682.01,17276,mixed,owned,garage,0
+VEH00882,CUST00790,Hyundai,Elantra,2013,hatchback,gasoline,automatic,5396.77,14612,commercial_light,owned,covered_lot,0
+VEH00883,CUST00791,Ford,Escape,2014,suv,gasoline,manual,14544.09,15516,commuting,financed,driveway,1
+VEH00884,CUST00791,Subaru,Forester,2023,suv,gasoline,automatic,23429.8,16033,mixed,financed,garage,0
+VEH00885,CUST00791,Hyundai,Kona,2025,suv,gasoline,automatic,25243.11,16141,leisure,owned,street,1
+VEH00886,CUST00792,Ford,F-150,2015,pickup,gasoline,automatic,11885.24,14511,family,owned,driveway,1
+VEH00887,CUST00793,Subaru,Outback,2019,suv,gasoline,automatic,20721.28,6237,commuting,owned,driveway,1
+VEH00888,CUST00794,Chevrolet,Malibu,2023,sedan,gasoline,automatic,19736.96,12390,commuting,owned,street,1
+VEH00889,CUST00795, Hyundai,Sonata,2022,Sedan,gasoline,manual,14107.42,6265,family,financed,garage,1
+VEH00890,CUST00796,Kia,Forte,2010,sedan,gasoline,automatic,3500.0,12690,commuting,financed,garage,0
+VEH00891,CUST00797,Toyota,Camry,2012,sedan,hybrid,automatic,4101.12,12120,commuting,owned,garage,0
+VEH00892,CUST00798,Tesla,Model 3,2018,sedan,gasoline,automatic,27682.31,9825,commuting,financed,,1
+VEH00893,CUST00799,Ford,Focus,2022,hatchback,gasoline,automatic,20052.37,10501,mixed,owned,driveway,0
+VEH00894,CUST00800,Subaru,Outback,2018,hatchback,electric,automatic,24707.06,13338,mixed,financed,street,1
+VEH00895,CUST00801,Ford,Focus,2021,hatchback,diesel,automatic,25021.5,15668,commuting,financed,garage,0
+VEH00896,CUST00802,Ford,Focus,2010, hatchback,gasoline,automatic,3500.0,11357,commuting,owned,driveway,1
+VEH00897,CUST00803,Jeep,Grand Cherokee,2024,suv,gasoline,manual,31225.82,3927,commuting,owned,garage,1
+VEH00898,CUST00804,Tesla,Model 3,2017,sedan,gasoline,automatic,38569.64,5115,commuting,financed,street,0
+VEH00899,CUST00804,Chevrolet,Equinox,2018,suv,gasoline,automatic,19008.88,6080,leisure,leased,driveway,0
+VEH00900,CUST00805,Nissan,Leaf,2022,hatchback,hybrid,automatic,17447.93,9141,leisure,financed,driveway,1
+VEH00901,CUST00806,Ford,Mustang,2016,coupe,gasoline,manual,7575.3,11512,commuting,financed,street,0
+VEH00902,CUST00807,Subaru,Impreza,2019,hatchback,gasoline,manual,21939.59,16371,family,financed,driveway,0
+VEH00903,CUST00808,Chevrolet,Bolt,2015,hatchback,gasoline,automatic,16309.3,14964,leisure,financed,garage,0
+VEH00904,CUST00809,Kia,Forte,2010,sedan,gasoline,automatic,3500.0,17027,leisure,owned,,0
+VEH00905,CUST00810,Nissan,Rogue,2017,suv,gasoline,manual,14712.68,15984,commuting,owned,garage,0
+VEH00906,CUST00810,Subaru,Outback,2017,suv,gasoline,automatic,25772.25,15526,leisure,owned,garage,0
+VEH00907,CUST00811,Hyundai,Kona,2012,suv,hybrid,manual,4724.12,10823,family,financed,driveway,1
+VEH00908,CUST00812,Toyota,Tacoma,2014,pickup,diesel,automatic,3509.32,12489,mixed,financed,street,0
+VEH00909,CUST00813,Hyundai,Kona,2016,suv,hybrid,manual,9578.72,10473,commercial_light,owned,garage,1
+VEH00910,CUST00814,Kia,Soul,2018,hatchback,gasoline,automatic,12803.37,6464,commuting,financed,garage,0
+VEH00911,CUST00815,Honda,Civic,2011,sedan,gasoline,automatic,7082.63,13958,family,leased,garage,0
+VEH00912,CUST00815,Toyota,RAV4,2017,suv,gasoline,automatic,19831.7,18898,commuting,owned,covered_lot,0
+VEH00913,CUST00816,Tesla,Model Y,2011,suv,electric,automatic,23105.57,2500,mixed,owned,garage,0
+VEH00914,CUST00817,Toyota,RAV4,2022,suv,gasoline,manual,18948.68,17799,family,financed,garage,0
+VEH00915,CUST00818,Nissan,Leaf,2021,sedan,electric,automatic,22921.43,14620,commuting,financed,garage,0
+VEH00916,CUST00819,Ford,Focus,2015,hatchback,diesel,automatic,10897.32,7769,mixed,owned,driveway,0
+VEH00917,CUST00820,Nissan,Altima,2025,sedan,gasoline,manual,23897.55,13858,mixed,owned,garage,0
+VEH00918,CUST00821,Hyundai,Kona,2014,suv,hybrid,automatic,9629.04,15595,commuting,owned,driveway,0
+VEH00919,CUST00822,Honda,CR-V,2023,suv,gasoline,automatic,21244.48,8809,mixed,owned,driveway,0
+VEH00920,CUST00823,Ford,F-150,2013,pickup,gasoline,automatic,9317.43,16322,family,leased,driveway,0
+VEH00921,CUST00824,Hyundai,Elantra,2014,sedan,diesel,automatic,7753.33,13189,commuting,financed,garage,0
+VEH00922,CUST00825,Tesla,Model Y,2021,suv,gasoline,automatic,33702.8,9462,commuting,owned,street,0
+VEH00923,CUST00826,Kia,Sportage,2018,suv,electric,automatic,15752.39,12468,commuting,leased,garage,1
+VEH00924,CUST00826,Subaru,Outback,2020,suv,diesel,automatic,21785.41,14342,commuting,leased,driveway,0
+VEH00925,CUST00827,Kia,Forte,2020,sedan,gasoline,manual,11140.61,13406,mixed,owned,,1
+VEH00926,CUST00828,Tesla,Model 3,2024,sedan,gasoline,automatic,43408.76,17930,commuting,owned,covered_lot,0
+VEH00927,CUST00829,Toyota,Camry,2014,sedan,electric,automatic,6367.76,8377,commuting,financed,street,0
+VEH00928,CUST00830,Toyota,Camry,2015,sedan,gasoline,automatic,7685.47,18996,commuting,owned,covered_lot,0
+VEH00929,CUST00830,Toyota,Tacoma,2018,pickup,gasoline,manual,16018.54,13360,commuting,financed,,0
+VEH00930,CUST00831,Ford,Mustang,2023,coupe,gasoline,automatic,18577.56,15387,mixed,financed,street,0
+VEH00931,CUST00832,Honda,Odyssey,2011,minivan,gasoline,manual,3500.0,12859,family,owned,street,1
+VEH00932,CUST00833,Tesla,Model Y,2025,hatchback,gasoline,automatic,44654.18,10886,commuting,owned,driveway,1
+VEH00933,CUST00834,TESLA,Model Y,2013,minivan,gasoline,automatic,24375.32,14319,commuting,owned,covered_lot,0
+VEH00934,CUST00835,Ford,Focus,2021,hatchback,gasoline,automatic,14642.89,18304,leisure,owned,street,1
+VEH00935,CUST00836,Honda,Accord,2019,sedan,hybrid,automatic,14535.39,20591,mixed,owned,covered_lot,1
+VEH00936,CUST00836,Ford,Escape,2018,suv,hybrid,automatic,17223.91,10861,mixed,financed,garage,1
+VEH00937,CUST00837,Subaru,Forester,2016,suv,electric,automatic,18644.9,6077,family,financed,driveway,1
+VEH00938,CUST00838,Subaru,Impreza,2015,hatchback,diesel,automatic,6869.38,18025,family,owned,street,1
+VEH00939,CUST00839,Kia,Rio,2017,SEDAN,gasoline,automatic,14448.18,7412,mixed,leased,garage,0
+VEH00940,CUST00840,Tesla,Model 3,2020,sedan,gasoline,automatic,39118.35,16261,mixed,financed,garage,0
+VEH00941,CUST00841,Toyota,RAV4,2013,suv,gasoline,automatic,13675.61,4826,commercial_light,leased,garage,0
+VEH00942,CUST00842,Kia,Sportage,2013,suv,diesel,automatic,3500.0,15679,mixed,owned,street,0
+VEH00943,CUST00843,Hyundai,Sonata,2010,sedan,gasoline,automatic,8837.67,6223,family,owned,covered_lot,0
+VEH00944,CUST00844,Honda,Odyssey,2025,Minivan,gasoline,automatic,22190.67,17773,commuting,financed,garage,1
+VEH00945,CUST00845,Tesla,Model Y,2010,minivan,gasoline,automatic,19719.18,14483,commuting,financed,covered_lot,0
+VEH00946,CUST00846,Hyundai,Elantra,2024,sedan,gasoline,automatic,19340.69,11018,commuting,financed,street,0
+VEH00947,CUST00847,Hyundai,Sonata,2016,sedan,gasoline,automatic,6204.27,14719,commuting,leased,driveway,0
+VEH00948,CUST00848,Toyota,RAV4,2020,suv,gasoline,automatic,5008.3075,16763,commuting,owned,street,0
+VEH00949,CUST00849,Toyota,Corolla,2022,sedan,gasoline,automatic,22215.41,8753,leisure,owned,garage,0
+VEH00950,CUST00850,Honda,Odyssey,2018,minivan,diesel,automatic,11828.52,15374,leisure,financed,driveway,0
+VEH00951,CUST00850,Ford,Escape,2022,sedan,gasoline,manual,23855.13,9114,leisure,owned,street,0
+VEH00952,CUST00851,Honda ,Civic,2016,sedan,gasoline,automatic,17783.83,15197,family,owned,street,1
+VEH00953,CUST00851,Ford,Mustang,2022,suv,hybrid,automatic,20764.19,12718,family,leased,street,0
+VEH00954,CUST00852,Nissan,Altima,2013,sedan,diesel,automatic,4862.26,10032,commuting,financed,covered_lot,1
+VEH00955,CUST00852,Nissan,Leaf,2023,HATCHBACK,gasoline,automatic,27526.78,12705,commuting,leased,driveway,0
+VEH00957,CUST00854,Honda,CR-V,2016,suv,hybrid,automatic,10431.36,5245,mixed,financed,driveway,0
+VEH00958,CUST00855,Tesla,Model Y,2022,suv,gasoline,automatic,36355.63,13925,commuting,owned,driveway,0
+VEH00959,CUST00856,Tesla,Model Y,2023,suv ,electric,automatic,36426.73,8283,commuting,financed,driveway,1
+VEH00960,CUST00857,Honda,Odyssey,2021,minivan,hybrid,automatic,22713.09,9900,commercial_light,financed,street,0
+VEH00961,CUST00858,Subaru,Impreza,2023,Hatchback,gasoline,automatic,25143.81,10853,mixed,financed,garage,0
+VEH00962,CUST00859,Kia,Rio,2011,sedan,electric,automatic,3500.0,21199,commuting,financed,street,0
+VEH00963,CUST00860,Jeep,Grand Cherokee,2024,suv,gasoline,automatic,30986.75,18949,leisure,financed,driveway,1
+VEH00964,CUST00861,Chevrolet,Equinox,2025,suv,diesel,automatic,21900.44,7702,commuting,owned,driveway,1
+VEH00965,CUST00862,Jeep,Compass,2019,suv,gasoline,automatic,26614.72,5740,commuting,financed,covered_lot,0
+VEH00966,CUST00863,Tesla,Model Y,2012,suv,gasoline,automatic,20176.37,2947,leisure,financed,driveway,0
+VEH00967,CUST00864,Tesla,Model Y,2014,suv,gasoline,manual,27025.89,14523,leisure,financed,garage,0
+VEH00968,CUST00865,Ford,F-150,2017,pickup,diesel,automatic,13743.84,12175,commuting,financed,garage,0
+VEH00969,CUST00866,Jeep,Grand Cherokee,2019,suv,gasoline,manual,21205.71,18811,mixed,owned,driveway,0
+VEH00970,CUST00867,Subaru,Impreza,2012,hatchback,diesel,automatic,4358.03,10932,commuting,owned,street,1
+VEH00971,CUST00868,Toyota,Corolla,2023,sedan,gasoline,automatic,15740.08,10689,family,owned,driveway,0
+VEH00972,CUST00869,Kia,Rio,2024,minivan,gasoline,manual,20991.03,11675,commuting,owned,street,1
+VEH00973,CUST00870,Subaru,Outback,2021,suv,gasoline,automatic,24468.34,11336,commercial_light,owned,garage,0
+VEH00974,CUST00871,Nissan,Sentra,2010,sedan,gasoline,automatic,7618.28,7003,family,leased,street,0
+VEH00975,CUST00871,Honda,Odyssey,2015,minivan,gasoline,automatic,16472.61,17230,commercial_light,owned,garage,0
+VEH00976,CUST00872,Ford,Mustang,2011,coupe,hybrid,automatic,7661.78,12074,mixed,financed,street,0
+VEH00977,CUST00873,Honda,Odyssey,2019,minivan,gasoline,automatic,17339.12,9134,commuting,financed,street,0
+VEH00978,CUST00874,Hyundai,Kona,2024,suv,gasoline,automatic,19276.24,26386,leisure,financed,garage,0
+VEH00979,CUST00874,Subaru,Outback,2020,coupe,gasoline,automatic,24213.63,8684,commuting,financed,street,0
+VEH00980,CUST00875,Ford,Escape,2015,suv,diesel,automatic,13136.42,15268,family,leased,street,0
+VEH00981,CUST00876,Honda,CR-V,2013,suv,gasoline,automatic,6071.44,12167,commuting,financed,street,0
+VEH00982,CUST00877,Kia,Rio,2010,sedan,hybrid,automatic,6249.56,14643,commuting,financed,street,0
+VEH00983,CUST00878,Kia,Rio,2010,suv,gasoline,manual,5197.53,12051,mixed,owned,,0
+VEH00984,CUST00879,Ford,Mustang,2024,coupe,diesel,automatic,24304.05,14335,leisure,financed,street,0
+VEH00985,CUST00880,Kia,Soul,2019,hatchback,gasoline,automatic,10919.78,16176,commuting,financed,street,0
+VEH00986,CUST00881,Subaru,Forester,2021,suv,gasoline,automatic,20391.07,2500,mixed,financed,driveway,0
+VEH00987,CUST00881,Kia,Sportage,2012,suv,gasoline,manual,5463.44,11372,leisure,owned,street,0
+VEH00988,CUST00882,Ford,Escape,2010,pickup,gasoline,automatic,3879.8,7942,commuting,financed,garage,0
+VEH00989,CUST00882,Chevrolet,Malibu,2010,minivan,electric,automatic,3500.0,9694,mixed,financed,garage,0
+VEH00990,CUST00883,Chevrolet,Malibu,2016,sedan,gasoline,manual,11913.4,6529,mixed,financed,street,1
+VEH00991,CUST00884,Tesla,Model 3,2017,sedan,diesel,automatic,30449.74,16607,commuting,financed,street,1
+VEH00992,CUST00885,Kia,Forte,2012,Sedan,gasoline,automatic,4535.54,6477,family,owned,garage,1
+VEH00993,CUST00885,Nissan,Leaf,2014,hatchback,electric,automatic,4515.2,5803,commuting,owned,driveway,1
+VEH00994,CUST00886,Tesla,Model Y,2010,Suv,gasoline,automatic,17787.92,10923,commuting,financed,garage,0
+VEH00995,CUST00887,Honda,Accord,2014,sedan,gasoline,automatic,11950.38,11611,commuting,owned,garage,0
+VEH00996,CUST00888,Tesla,Model Y,2025,pickup ,gasoline,automatic,38568.4,5239,mixed,financed,street,1
+VEH00997,CUST00889,Toyota,Tacoma,2017,pickup,hybrid,automatic,7840.41,12410,commuting,leased,garage,1
+VEH00998,CUST00890,Chevrolet,Silverado,2022,suv,electric,automatic,23549.86,14897,mixed,owned,driveway,0
+VEH00999,CUST00891,Toyota,RAV4,2010,suv,gasoline,automatic,3500.0,11551,commuting,owned,street,0
+VEH01000,CUST00892,Honda ,Odyssey,2023,pickup,hybrid,automatic,20284.9,12580,family,financed,covered_lot,0
+VEH01001,CUST00893,Tesla,Model Y,2011,suv,gasoline,automatic,19911.27,17538,family,leased,garage,0
+VEH01002,CUST00894,Tesla,Model Y,2025,suv,gasoline,automatic,43685.58,4787,family,financed,garage,1
+VEH01003,CUST00895,Jeep,Grand Cherokee,2017,suv,gasoline,automatic,15301.8,12745,leisure,financed,garage,0
+VEH01004,CUST00896,Toyota,Corolla,2023,sedan,hybrid,automatic,24188.82,9218,leisure,financed,garage,1
+VEH01005,CUST00897,Subaru,Outback,2012,suv ,gasoline,automatic,8885.53,23759,family,owned,covered_lot,0
+VEH01006,CUST00898,Nissan,Leaf,2025,hatchback,gasoline,automatic,23595.93,9272,family,leased,covered_lot,0
+VEH01007,CUST00899,Honda,Odyssey,2021,minivan,hybrid,manual,21280.32,9687,commercial_light,owned,covered_lot,1
+VEH01008,CUST00900,Tesla,Model Y,2010,suv,gasoline,automatic,19036.1,18506,family,leased,driveway,1
+VEH01009,CUST00901,Ford,F-150,2016,pickup,gasoline,automatic,11377.17,16617,family,financed,driveway,0
+VEH01010,CUST00901, Tesla,Model Y,2024,suv,hybrid,automatic,39916.17,14153,commuting,financed,,0
+VEH01011,CUST00902,Chevrolet,Equinox,2020,suv,gasoline,automatic,12897.12,6912,commuting,financed,street,0
+VEH01012,CUST00903,Subaru,Forester,2024,suv,diesel,automatic,29215.48,8663,commuting,owned,street,1
+VEH01013,CUST00903,FORD,F-150,2022,pickup,gasoline,automatic,20575.09,9864,commercial_light,owned,garage,0
+VEH01014,CUST00904,Kia,Sportage,2025,suv,diesel,automatic,15652.99,8483,commuting,owned,street,0
+VEH01015,CUST00905,Ford,Escape,2019,suv,gasoline,automatic,12880.38,20491,commuting,financed,garage,1
+VEH01016,CUST00906,Honda,Odyssey,2014,minivan,electric,automatic,8159.6,13840,mixed,owned,street,0
+VEH01017,CUST00906,Ford,Escape,2015,suv,gasoline,automatic,7702.58,23490,mixed,owned,garage,1
+VEH01018,CUST00907,Subaru,Outback,2013,suv,gasoline,manual,3500.0,2500,commuting,owned,garage,0
+VEH01019,CUST00908,Kia,Soul,2019,hatchback,hybrid,automatic,16571.93,18183,commuting,leased,garage,1
+VEH01020,CUST00909,Chevrolet,Equinox,2011,minivan,gasoline,automatic,3785.27,6308,commuting,financed,garage,0
+VEH01021,CUST00910,Toyota,RAV4,2018,sedan,gasoline,automatic,14107.55,12367,mixed,leased,street,0
+VEH01022,CUST00911,Hyundai,Sonata,2015,sedan,diesel,automatic,12560.02,16856,leisure,financed,covered_lot,0
+VEH01023,CUST00912,Jeep,Compass,2012,suv,gasoline,automatic,15491.17,17358,family,owned,street,1
+VEH01024,CUST00913, Hyundai,Kona,2013,suv,hybrid,manual,9831.74,17924,commercial_light,financed,garage,0
+VEH01025,CUST00914,Subaru,Impreza,2013,hatchback,gasoline,automatic,7432.1,18468,mixed,owned,street,1
+VEH01026,CUST00915,Jeep,Compass,2025,suv,gasoline,automatic,29783.21,17489,commuting,financed,garage,1
+VEH01027,CUST00916,Nissan,Rogue,2021,suv,hybrid,automatic,12437.31,6024,commuting,owned,street,0
+VEH01028,CUST00917,Toyota,RAV4,2014,suv,gasoline,automatic,12307.37,6204,commuting,leased,driveway,1
+VEH01029,CUST00918,Jeep,Compass,2011,suv,gasoline,automatic,14354.08,17638,family,owned,driveway,1
+VEH01030,CUST00919,Tesla,Model Y,2013,pickup,gasoline,manual,28114.17,9286,leisure,financed,garage,1
+VEH01031,CUST00920,Honda,Civic,2011,sedan,gasoline,automatic,10352.83,8482,commuting,owned,driveway,1
+VEH01032,CUST00921,Jeep,Compass,2015,suv,gasoline,automatic,17000.55,7590,commercial_light,owned,garage,1
+VEH01033,CUST00922,Honda,Accord,2021,sedan,hybrid,automatic,20190.75,6018,leisure,owned,garage,0
+VEH01034,CUST00922,Ford,F-150,2024,pickup,gasoline,manual,20866.28,13222,family,financed,,0
+VEH01035,CUST00923,Jeep,Grand Cherokee,2013,suv,gasoline,automatic,11482.31,21934,mixed,owned,driveway,0
+VEH01036,CUST00924,Ford,F-150,2020,pickup,gasoline,manual,23262.53,10832,family,financed,driveway,1
+VEH01037,CUST00925,Ford,Focus,2016,suv,gasoline,manual,14181.21,3723,leisure,owned,garage,1
+VEH01038,CUST00926,Tesla,Model Y,2010,suv,hybrid,automatic,23908.88,5027,leisure,owned,street,0
+VEH01039,CUST00927,Chevrolet,Bolt,2020,minivan,hybrid,automatic,20536.57,6684,family,owned,street,0
+VEH01040,CUST00928,Nissan,Altima,2012,sedan,hybrid,automatic,3500.0,14068,commuting,owned,driveway,1
+VEH01041,CUST00929,Nissan,Rogue,2023,suv,gasoline,manual,15464.12,11426,commuting,owned,street,0
+VEH01042,CUST00930,Hyundai ,Sonata,2014,sedan,gasoline,automatic,5966.4,11560,leisure,financed,,1
+VEH01043,CUST00931,Jeep,Grand Cherokee,2017,suv,hybrid,automatic,15741.52,17155,commuting,owned,driveway,0
+VEH01044,CUST00932,Ford,Mustang,2023,coupe,gasoline,automatic,20428.89,9719,commuting,financed,street,1
+VEH01046,CUST00934,Toyota,Tacoma,2014,pickup,gasoline,manual,4155.06,8609,commuting,owned,garage,0
+VEH01047,CUST00935,Toyota,Corolla,2012,sedan,gasoline,automatic,6537.83,9300,leisure,owned,covered_lot,1
+VEH01048,CUST00936,Hyundai,Tucson,2022,suv,gasoline,automatic,21423.51,16963,family,financed,garage,0
+VEH01049,CUST00937,Ford,Mustang,2011,coupe,gasoline,manual,10191.99,2916,leisure,owned,street,1
+VEH01050,CUST00938,Kia,Rio,2014,sedan,diesel,automatic,13343.3,14638,commuting,financed,street,1
+VEH01051,CUST00939,Subaru,Impreza,2019,hatchback,gasoline,automatic,16665.29,3966,commercial_light,owned,street,0
+VEH01052,CUST00940,Kia,Soul,2019,hatchback,gasoline,automatic,13876.28,7381,family,financed,street,0
+VEH01053,CUST00941,Hyundai,Tucson,2010,suv,gasoline,manual,3500.0,12826,mixed,owned,garage,0
+VEH01054,CUST00942,Nissan,Altima,2022,sedan,gasoline,automatic,13376.51,16487,family,financed,driveway,0
+VEH01055,CUST00943,Tesla,Model 3,2024,sedan,gasoline,automatic,48215.07,13712,mixed,leased,driveway,0
+VEH01056,CUST00944, Hyundai,Kona,2016,suv,gasoline,automatic,7432.16,11815,mixed,leased,covered_lot,0
+VEH01057,CUST00945,Nissan,Sentra,2011,Sedan,gasoline,manual,4315.99,23645,commuting,financed,garage,1
+VEH01058,CUST00946,Jeep,Grand Cherokee,2022,suv,hybrid,automatic,31854.52,17763,commuting,financed,covered_lot,1
+VEH01059,CUST00947,Ford,F-150,2016,pickup,hybrid,automatic,11374.67,12495,leisure,leased,,0
+VEH01060,CUST00948,Honda,CR-V,2020,suv,gasoline,automatic,13664.68,3782,family,owned,driveway,0
+VEH01061,CUST00949,Ford,Focus,2010,hatchback,gasoline,automatic,5917.49,16280,commercial_light,financed,street,0
+VEH01062,CUST00950,Jeep,Grand Cherokee,2017,suv,electric,automatic,26027.07,11201,commercial_light,leased,garage,0
+VEH01063,CUST00951,Nissan,Leaf,2013,hatchback,gasoline,manual,5329.75,7617,commercial_light,leased,street,0
+VEH01064,CUST00952,Toyota,RAV4,2018,suv,gasoline,automatic,9995.13,25116,commuting,financed,street,1
+VEH01065,CUST00953,Jeep,Grand Cherokee,2013,suv,gasoline,automatic,24008.77,19464,commuting,owned,garage,1
+VEH01066,CUST00953,Toyota,Corolla,2024,sedan,gasoline,automatic,22071.66,5545,family,owned,garage,1
+VEH01067,CUST00954,Nissan,Sentra,2024,sedan,gasoline,automatic,17839.6,11993,commuting,owned,garage,0
+VEH01068,CUST00955,Hyundai,Sonata,2017,sedan,gasoline,automatic,13962.5,26507,commuting,owned,garage,0
+VEH01069,CUST00956,Hyundai,Tucson,2019,suv,gasoline,manual,10033.61,19521,commercial_light,financed,garage,0
+VEH01070,CUST00957,Subaru,Forester,2014,suv,diesel,automatic,11375.39,25032,commuting,leased,covered_lot,0
+VEH01071,CUST00958,Kia,Forte,2013,sedan,electric,automatic,5070.11,7540,commuting,leased,driveway,1
+VEH01072,CUST00959,Hyundai,Sonata,2021,sedan,diesel,manual,13307.39,13134,family,owned,garage,1
+VEH01073,CUST00960,Tesla,Model 3,2014,sedan,hybrid,manual,34956.24,4120,commuting,owned,driveway,1
+VEH01074,CUST00961,Kia,Soul,2012,hatchback,gasoline,automatic,3500.0,8018,family,owned,street,0
+VEH01075,CUST00962,Honda,Civic,2023,sedan,gasoline,automatic,32408.97,17380,commuting,owned,street,1
+VEH01076,CUST00963,Ford,Mustang,2016,coupe,gasoline,automatic,6486.87,19686,commuting,leased,garage,1
+VEH01077,CUST00964, Tesla,Model 3,2021,SEDAN,gasoline,automatic,39724.44,11213,mixed,owned,garage,0
+VEH01078,CUST00965,Jeep,Grand Cherokee,2022,sedan,electric,automatic,29196.73,11250,commuting,leased,driveway,0
+VEH01079,CUST00966,Nissan,Leaf,2023,hatchback,diesel,automatic,18264.61,15712,mixed,owned,driveway,0
+VEH01080,CUST00967,Tesla,Model Y,2023,suv,gasoline,automatic,38605.64,14066,mixed,owned,garage,0
+VEH01081,CUST00968,Ford,Escape,2014,suv,diesel,automatic,6694.8,10950,family,financed,garage,0
+VEH01082,CUST00969,Tesla,Model Y,2014,sedan,gasoline,automatic,28285.03,15764,mixed,financed,garage,0
+VEH01084,CUST00970,Tesla,Model Y,2011,suv,gasoline,automatic,19030.2,8814,mixed,leased,garage,1
+VEH01085,CUST00971,Ford,F-150,2013,pickup,gasoline,automatic,7511.86,11123,commuting,owned,garage,1
+VEH01086,CUST00972,Subaru,Outback,2013,pickup,hybrid,automatic,13275.0,21045,commuting,owned,garage,0
+VEH01087,CUST00973,Honda,CR-V,2019,suv,gasoline,automatic,18888.68,15935,commercial_light,owned,garage,1
+VEH01088,CUST00974,Toyota,Camry,2013,sedan,electric,automatic,8223.77,13830,commuting,owned,garage,0
+VEH01089,CUST00975,Hyundai,Tucson,2021,suv,gasoline,automatic,14563.51,23178,mixed,owned,street,1
+VEH01090,CUST00976,Nissan,Rogue,2025,suv,gasoline,automatic,26363.42,10949,leisure,leased,driveway,1
+VEH01091,CUST00977,Toyota,Camry,2014,sedan,gasoline,automatic,12323.99,6365,commuting,financed,garage,0
+VEH01092,CUST00978,SUBARU,Outback,2011,sedan,gasoline,automatic,12609.34,15473,commuting,owned,garage,0
+VEH01093,CUST00979,Nissan,Rogue,2016,suv,electric,manual,9253.47,7401,family,owned,garage,1
+VEH01094,CUST00980,Ford,Mustang,2010,coupe,hybrid,automatic,3500.0,12401,commuting,financed,driveway,1
+VEH01095,CUST00981,Honda,CR-V,2012,suv,gasoline,automatic,11348.79,11991,commuting,owned,garage,0
+VEH01097,CUST00983,Subaru,Outback,2024,suv,hybrid,manual,23318.55,16868,commuting,financed,garage,0
+VEH01098,CUST00984,Hyundai,Kona,2025,suv,gasoline,automatic,28339.07,18026,family,owned,garage,0
+VEH01099,CUST00985,Subaru,Impreza,2014,hatchback,diesel,automatic,8719.83,5501,leisure,financed,covered_lot,0
+VEH01100,CUST00986,Jeep,Grand Cherokee,2024,suv,gasoline,manual,23160.47,14141,commercial_light,owned,,0
+VEH01101,CUST00987,Tesla,Model 3,2020,sedan,gasoline,automatic,35790.4,15505,family,owned,street,0
+VEH01102,CUST00988,Honda,Odyssey,2022,suv,gasoline,automatic,23939.75,15288,commuting,owned,driveway,1
+VEH01103,CUST00989,Chevrolet,Bolt,2020,hatchback,gasoline,automatic,19414.3,2500,commuting,owned,garage,0
+VEH01104,CUST00990,Jeep,Compass,2024,suv,hybrid,automatic,26605.7,13771,commuting,financed,garage,1
+VEH01105,CUST00991,Nissan,Sentra,2015,sedan,gasoline,automatic,8437.53,10377,commuting,leased,garage,1
+VEH01106,CUST00991,Toyota,RAV4,2013,suv,gasoline,automatic,3500.0,13874,family,financed,garage,0
+VEH01107,CUST00992,Jeep ,Compass,2016,suv ,diesel,manual,22985.35,8441,mixed,financed,,0
+VEH01108,CUST00992,Subaru,Forester,2011,minivan,gasoline,automatic,6822.16,10681,commuting,leased,covered_lot,0
+VEH01109,CUST00993,Subaru,Forester,2016,suv,gasoline,automatic,11244.53,12236,family,leased,garage,0
+VEH01110,CUST00994,Tesla,Model 3,2013, sedan,gasoline,manual,25594.97,15171,commuting,financed,street,1
+VEH01111,CUST00995,Jeep,Compass,2010,SUV,gasoline,automatic,7431.12,14085,mixed,leased,,0
+VEH01112,CUST00996,Nissan,Altima,2017,sedan,hybrid,automatic,15600.81,21316,commuting,financed,garage,0
+VEH01113,CUST00997,Subaru,Outback,2012,suv,gasoline,automatic,11366.38,21689,commuting,financed,garage,1
+VEH01114,CUST00998,Jeep,Grand Cherokee,2022,suv,electric,manual,27353.72,17737,commercial_light,owned,street,1
+VEH01115,CUST00999,Subaru,Impreza,2025,hatchback,gasoline,automatic,33818.52,14173,commuting,owned,,0
+VEH01116,CUST01000,Toyota,RAV4,2023,suv ,gasoline,automatic,15045.51,14207,mixed,leased,garage,0
+VEH01117,CUST01001,Ford,Mustang,2010,coupe,gasoline,automatic,6419.94,15067,family,owned,street,0
+VEH01118,CUST01002,Jeep,Grand Cherokee,2022,suv,gasoline,automatic,30392.76,16982,family,owned,street,1
+VEH01119,CUST01003,Nissan,Sentra,2013,sedan,gasoline,automatic,4201.98,10108,family,owned,garage,0
+VEH01120,CUST01004,Honda,Accord,2019,sedan,gasoline,manual,16805.83,18446,family,owned,garage,0
+VEH01121,CUST01005,Ford,Escape,2018,suv,gasoline,automatic,12015.73,12269,mixed,leased,garage,0
+VEH01122,CUST01006,Honda,Accord,2019,sedan,diesel,automatic,11404.26,18265,commuting,leased,covered_lot,1
+VEH01123,CUST01007,Kia,Forte,2011,sedan,hybrid,automatic,4765.33,11815,commuting,financed,driveway,1
+VEH01125,CUST01009,Toyota,Corolla,2019,sedan ,hybrid,automatic,19146.97,9895,mixed,financed,driveway,0
+VEH01126,CUST01010,Kia,Rio,2020,sedan,electric,automatic,13681.69,14547,commuting,financed,driveway,0
+VEH01128,CUST01012,Nissan,Leaf,2013,hatchback,gasoline,automatic,3500.0,4548,leisure,financed,garage,0
+VEH01129,CUST01013,Toyota,Camry,2017,sedan,gasoline,automatic,7079.99,10194,commercial_light,leased,street,1
+VEH01130,CUST01014,Subaru,Forester,2017,suv,gasoline,automatic,17074.47,16550,commuting,financed,,0
+VEH01132,CUST01016,Nissan,Sentra,2020,sedan,gasoline,automatic,16862.39,18017,mixed,leased,,1
+VEH01133,CUST01017,Tesla,Model Y,2012,sedan,gasoline,automatic,27019.92,17522,commercial_light,owned,street,0
+VEH01134,CUST01018,Tesla,Model 3,2023, suv,gasoline,automatic,45973.71,24428,leisure,financed,street,1
+VEH01135,CUST01019,Chevrolet,Malibu,2018,sedan,diesel,automatic,6196.463,10875,family,owned,covered_lot,1
+VEH01136,CUST01020,Jeep,Compass,2017,suv,gasoline,automatic,27491.83,17315,family,financed,covered_lot,1
+VEH01137,CUST01021,Jeep,Compass,2019,suv,gasoline,automatic,22979.18,14373,commercial_light,financed,street,1
+VEH01138,CUST01022,Subaru,Outback,2024,suv,diesel,automatic,27764.94,12284,commercial_light,financed,driveway,0
+VEH01139,CUST01023,Honda,Accord,2014,sedan,diesel,automatic,6716.98,13273,commercial_light,financed,garage,0
+VEH01140,CUST01024,Hyundai,Sonata,2017,sedan,gasoline,automatic,10140.02,9310,mixed,financed,driveway,0
+VEH01141,CUST01025, Jeep,Grand Cherokee,2024,suv,gasoline,manual,27681.56,3965,commuting,financed,driveway,1
+VEH01142,CUST01026,Toyota,Corolla,2024,sedan,gasoline,automatic,21398.11,15509,mixed,leased,,0
+VEH01143,CUST01026,Subaru,Outback,2015,suv,diesel,automatic,17507.83,22286,family,owned,garage,0
+VEH01144,CUST01027,Toyota,Corolla,2025,sedan,gasoline,automatic,28870.57,13558,commuting,owned,driveway,1
+VEH01145,CUST01028,Nissan,Rogue,2022,Suv,gasoline,automatic,24728.23,11133,commuting,owned,garage,0
+VEH01146,CUST01029,Hyundai,Sonata,2019,sedan,hybrid,automatic,7104.86,11074,commuting,owned,,0
+VEH01147,CUST01030,Toyota ,Camry,2012,suv,gasoline,automatic,8159.93,11786,family,financed,street,0
+VEH01148,CUST01031,Nissan,Sentra,2022,sedan,gasoline,automatic,19498.88,11092,mixed,leased,street,1
+VEH01149,CUST01032,Honda,Accord,2018,pickup,gasoline,manual,15758.51,10504,commuting,financed,garage,1
+VEH01150,CUST01033,Kia,Forte,2020,sedan,gasoline,automatic,16391.2,13488,leisure,owned,driveway,0
+VEH01151,CUST01034,Hyundai,Tucson,2024,suv,gasoline,automatic,22715.25,13638,mixed,financed,,1
+VEH01152,CUST01035,Nissan,Altima,2020,sedan,gasoline,automatic,14109.88,19326,leisure,financed,garage,0
+VEH01153,CUST01036,Hyundai,Sonata,2024,sedan,gasoline,automatic,21884.94,18820,leisure,financed,street,0
+VEH01154,CUST01036,Subaru,Outback,2010,suv,gasoline,automatic,13102.47,12421,mixed,owned,covered_lot,0
+VEH01155,CUST01037,Ford,Focus,2025,hatchback,diesel,automatic,26139.7,7008,commuting,financed,driveway,1
+VEH01156,CUST01038,Toyota,Corolla,2015,sedan,hybrid,automatic,9769.52,11876,mixed,financed,covered_lot,1
+VEH01157,CUST01039,Kia,Soul,2022,hatchback,gasoline,automatic,16345.09,10692,commuting,owned,garage,0
+VEH01158,CUST01040,Jeep,Compass,2012,suv,gasoline,automatic,10371.93,11603,commuting,leased,street,0
+VEH01159,CUST01041,Jeep,Compass,2024,suv,hybrid,manual,29512.53,7830,mixed,financed,street,0
+VEH01160,CUST01042,Honda,CR-V,2022,suv,diesel,automatic,24250.61,10308,family,leased,covered_lot,1
+VEH01161,CUST01043,Subaru,Outback,2022,suv,gasoline,automatic,30342.48,12654,family,financed,covered_lot,0
+VEH01162,CUST01044,Ford,Focus,2013,hatchback,diesel,automatic,6446.0,19703,commuting,owned,garage,1
+VEH01163,CUST01045,Tesla,Model Y,2016,suv,gasoline,automatic,28442.34,13089,family,financed,garage,0
+VEH01164,CUST01046,Tesla,Model 3,2017,suv,hybrid,automatic,87462.39600000001,15489,leisure,financed,driveway,0
+VEH01165,CUST01046,Toyota,RAV4,2021,suv,gasoline,automatic,16114.08,7475,mixed,leased,driveway,1
+VEH01166,CUST01047,Chevrolet,Malibu,2019,coupe,gasoline,automatic,13860.14,11811,mixed,owned,street,0
+VEH01167,CUST01048,Chevrolet,Equinox,2025,suv,gasoline,automatic,27194.73,20098,leisure,financed,garage,0
+VEH01168,CUST01049,Hyundai,Elantra,2018,sedan,gasoline,automatic,17427.96,9613,leisure,financed,street,0
+VEH01169,CUST01050,Tesla ,Model 3,2010,sedan,gasoline,manual,15800.8,7330,family,financed,garage,0
+VEH01170,CUST01051,Chevrolet,Bolt,2013,hatchback,gasoline,automatic,12861.44,7152,mixed,owned,garage,0
+VEH01171,CUST01051,Nissan,Leaf,2015,hatchback,gasoline,automatic,4942.14,14298,commuting,owned,garage,0
+VEH01172,CUST01052,Jeep,Compass,2015,suv,gasoline,automatic,18777.75,9775,commercial_light,financed,driveway,0
+VEH01173,CUST01053,Honda,Accord,2012,sedan,gasoline,automatic,7538.33,18136,leisure,owned,street,0
+VEH01174,CUST01054,Ford,F-150,2017,pickup,gasoline,automatic,9896.99,10345,family,owned,garage,0
+VEH01175,CUST01054,Jeep,Grand Cherokee,2016,suv,gasoline,automatic,15530.51,16818,leisure,financed,street,1
+VEH01176,CUST01055,Toyota,RAV4,2024,suv,hybrid,manual,21483.43,15436,leisure,financed,garage,0
+VEH01177,CUST01056,Toyota,Tacoma,2011,pickup,gasoline,automatic,3500.0,13667,family,owned,covered_lot,0
+VEH01178,CUST01056,Hyundai,Kona,2023,suv,gasoline,automatic,19265.6,12274,family,owned,garage,1
+VEH01179,CUST01057,Nissan,Sentra,2024,sedan,hybrid,automatic,20058.49,21365,mixed,owned,garage,0
+VEH01180,CUST01058,Tesla,Model Y,2011,sedan,gasoline,automatic,24672.66,21095,commuting,owned,garage,0
+VEH01181,CUST01058,Chevrolet,Malibu,2018,sedan,gasoline,automatic,17975.04,13829,commuting,owned,garage,1
+VEH01182,CUST01059,Kia,Soul,2020,suv,gasoline,automatic,7773.57,8355,leisure,financed,driveway,0
+VEH01183,CUST01060,Toyota,Tacoma,2016,hatchback,hybrid,automatic,4008.04,4808,family,owned,driveway,0
+VEH01184,CUST01061,Hyundai,Elantra,2010,sedan,gasoline,manual,3500.0,2636,mixed,financed,garage,0
+VEH01186,CUST01062,Chevrolet,Equinox,2015,suv,hybrid,manual,10876.35,12642,commuting,financed,driveway,0
+VEH01187,CUST01063,Hyundai,Tucson,2012,pickup,gasoline,automatic,3500.0,14683,family,financed,garage,1
+VEH01188,CUST01064,Honda,Civic,2025,sedan,gasoline,automatic,22373.85,15817,commuting,owned,garage,1
+VEH01189,CUST01065,Kia,Rio,2020,sedan,gasoline,automatic,8444.96,9118,family,owned,garage,0
+VEH01190,CUST01066,Nissan,Altima,2013,sedan,gasoline,manual,9385.34,7514,commuting,leased,garage,0
+VEH01191,CUST01067,Tesla,Model 3,2020,sedan,hybrid,automatic,39705.22,10916,family,owned,garage,0
+VEH01192,CUST01068,Toyota,RAV4,2017,suv,gasoline,automatic,10631.7,16941,mixed,owned,garage,0
+VEH01193,CUST01069,Honda,Odyssey,2013,minivan,gasoline,automatic,7728.73,11283,family,financed,driveway,0
+VEH01194,CUST01070,Tesla,Model 3,2012,sedan,gasoline,automatic,20133.25,14388,mixed,leased,street,1
+VEH01195,CUST01071, Toyota,Corolla,2022,sedan,gasoline,automatic,14795.45,2500,mixed,financed,,0
+VEH01196,CUST01072,Hyundai,Elantra,2014,sedan,gasoline,manual,9509.76,13448,family,financed,garage,0
+VEH01197,CUST01073,Toyota,Tacoma,2011,pickup,gasoline,automatic,3500.0,15583,family,owned,covered_lot,0
+VEH01198,CUST01074,Nissan,Leaf,2012,hatchback,gasoline,manual,3500.0,8032,family,leased,garage,0
+VEH01199,CUST01075,Honda,Civic,2011,sedan,gasoline,automatic,15871.33,13894,family,leased,garage,1
+VEH01200,CUST01076,Nissan,Leaf,2022,hatchback,gasoline,automatic,19493.93,8768,commuting,leased,driveway,1
+VEH01201,CUST01077,Honda,Odyssey,2017,minivan,electric,automatic,16002.57,12225,commuting,leased,street,1
+VEH01202,CUST01078,Subaru,Forester,2010,suv,gasoline,automatic,7292.04,18334,commuting,owned,,0
+VEH01203,CUST01079,Tesla,Model Y,2024,suv,hybrid,automatic,33765.84,16834,mixed,leased,garage,0
+VEH01204,CUST01080,Kia,Rio,2020,sedan,hybrid,automatic,16996.07,9299,mixed,financed,,0
+VEH01205,CUST01081,Toyota,Tacoma,2020,pickup,gasoline,manual,15507.33,12092,mixed,owned,,0
+VEH01206,CUST01082,Subaru,Impreza,2013,hatchback,hybrid,automatic,8005.4,17419,commuting,financed,driveway,0
+VEH01207,CUST01083,Honda,Civic,2012,sedan,electric,manual,9777.73,14595,mixed,leased,covered_lot,0
+VEH01208,CUST01084,Subaru,Impreza,2014,hatchback,gasoline,automatic,17823.08,17032,commuting,owned,,1
+VEH01209,CUST01085,Jeep,Grand Cherokee,2021,suv,gasoline,automatic,21920.22,14246,commuting,owned,,0
+VEH01210,CUST01085,Kia,Soul,2024,suv,gasoline,automatic,13055.36,12928,commuting,financed,driveway,0
+VEH01211,CUST01085,Ford,Escape,2014,suv,hybrid,automatic,19641.28,18821,mixed,owned,garage,0
+VEH01212,CUST01086,Toyota,Corolla,2014,sedan,gasoline,automatic,6376.77,4792,commercial_light,leased,driveway,0
+VEH01213,CUST01087,Nissan ,Leaf,2021,hatchback,hybrid,automatic,17609.36,10887,family,owned,driveway,0
+VEH01214,CUST01088,Nissan,Altima,2014,sedan,hybrid,automatic,10391.24,13079,mixed,financed,garage,1
+VEH01215,CUST01089,Tesla,Model Y,2020,suv,gasoline,automatic,25581.47,6152,leisure,owned,street,0
+VEH01216,CUST01090,Nissan,Rogue,2010,suv,gasoline,automatic,3500.0,14426,commuting,financed,street,0
+VEH01217,CUST01091,Jeep,Compass,2011,suv,gasoline,manual,12924.65,7617,commuting,financed,garage,1
+VEH01218,CUST01092,Chevrolet,Malibu,2023,sedan,electric,automatic,16587.45,19028,commuting,leased,driveway,1
+VEH01219,CUST01093,Hyundai,Sonata,2016,suv,gasoline,automatic,15356.32,14688,commuting,owned,covered_lot,0
+VEH01220,CUST01094,Chevrolet,Malibu,2020,sedan,diesel,automatic,12080.69,16417,commuting,leased,garage,1
+VEH01221,CUST01095,Chevrolet,Bolt,2024,hatchback,gasoline,manual,28761.42,15451,mixed,owned,garage,0
+VEH01222,CUST01096,Subaru,Forester,2020,suv,hybrid,automatic,21425.67,17932,family,owned,,1
+VEH01223,CUST01097,Subaru,Forester,2020,suv,gasoline,automatic,19488.66,12913,leisure,owned,covered_lot,0
+VEH01224,CUST01097,Subaru,Outback,2023,suv,hybrid,automatic,29332.51,10736,mixed,owned,garage,0
+VEH01225,CUST01098,Hyundai,Sonata,2013,sedan,gasoline,automatic,4488.17,4186,leisure,owned,garage,0
+VEH01226,CUST01099,Tesla,Model 3,2025,sedan,gasoline,automatic,45490.45,13397,family,financed,street,1
+VEH01227,CUST01099,Chevrolet,Malibu,2017,sedan,gasoline,automatic,10526.48,10664,leisure,owned,driveway,0
+VEH01228,CUST01100,Chevrolet,Bolt,2016,pickup,hybrid,automatic,14585.35,8096,commercial_light,owned,garage,0
