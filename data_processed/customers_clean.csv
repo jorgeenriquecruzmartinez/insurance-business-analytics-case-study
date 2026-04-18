@@ -1,0 +1,1101 @@
+customer_id,first_name,last_name,gender,date_of_birth,age,email,phone_number,state,city,zip_code_group,income_band,credit_tier,marital_status,household_size,customer_join_date,tenure_months,customer_segment
+CUST00001,Mark,Johnson,M,1965-12-24,60.0,jeffreydoyle@example.net,00158189600133890,California,Sacramento,293,middle,excellent,married,1,2023-05-17,31.0,standard
+CUST00002,Jerry,Ramirez,M,2006-06-03,19.0,,942335116155940,Florida,Miami,501,lower_middle,poor,divorced,4,2025-10-17,2.0,standard
+CUST00003,Blake,Carter,M,1990-01-16,35.0,barbara10@example.net,4417316475,Pennsylvania,Erie,470,low,excellent,married,1,2022-03-07,45.0,budget
+CUST00004,Daniel,Adams,M,1993-10-12,32.0,lynchgeorge@example.net,5272648350,Texas,Dallas,418,lower_middle,good,married,2,2023-04-22,32.0,standard
+CUST00005,James,Jones,M,1985-11-11,40.0,jason76@example.net,7245238849696,Ohio,Cleveland,186,middle,fair,single,2,2025-08-23,4.0,standard
+CUST00006,Katrina,Davis,F,1950-06-22,75.0,hernandezernest@example.net,791366978480184,New York,Rochester,389,,fair,married,1,2025-04-21,8.0,standard
+CUST00007,Jessica,Chavez,F,1996-05-27,29.0,teresa28@example.org,194829325288095,California,San Diego,151,middle,fair,single,6,2024-05-15,19.0,high_value
+CUST00008,Tanya,Koch,F,2003-11-11,22.0,john39@example.org,6718822782,Illinois,Springfield,282,upper_middle,good,single,2,2023-03-17,33.0,standard
+CUST00009,Tanya,Campos,F,1994-03-18,31.0,jenniferross@example.net,155758713315098,Texas,Houston,14,low,good,single,2,2024-02-18,22.0,premium
+CUST00010,Benjamin,Welch,M,1962-11-05,63.0,whiteheadmichele@example.org,334373829973763,Georgia,Augusta,868,middle,good,married,1,2025-05-21,7.0,standard
+CUST00011,Jessica,Henderson,F,1979-01-17,46.0,nuneztracey@example.org,4658133387,California,San Jose,245,,very_good,divorced,3,2025-01-03,11.0,premium
+CUST00012,Donald,Wright,M,1952-05-24,73.0,jmorton@example.org,5808132677,Arizona,Phoenix,81,high,poor,single,2,2025-02-04,10.0,budget
+CUST00013,Carmen,Smith,F,1973-10-31,52.0,sara74@example.com,0012872234309805,Pennsylvania,Allentown,770,middle,fair,married,2,2025-03-28,9.0,standard
+CUST00014,John,Calhoun,M,1983-05-30,42.0,brianromero@example.org,2913361939,Texas,Houston,554,middle,fair,married,6,2025-09-16,3.0,budget
+CUST00015,Matthew,Cunningham,M,1968-10-17,57.0,james53@example.com,52467510799118,Illinois,Chicago,178,upper_middle,fair,single,4,2023-04-22,32.0,premium
+CUST00016,Timothy,Ibarra,M,2007-02-06,18.0,mikemoore@example.net,0014496808412411,Arizona,Mesa,374,upper_middle,very_good,single,1,2024-07-17,17.0,standard
+CUST00017,Lisa,Robbins,F,1961-02-13,64.0,william40@example.org,126430052427868,Florida,Tampa,103,upper_middle,very_good,single,2,2023-12-29,24.0,budget
+CUST00018,Tony,Vazquez,M,1957-05-29,68.0,davenportbrandi@example.org,420545053315869,Illinois,Chicago,218,lower_middle,very_good,married,2,2025-06-01,6.0,premium
+CUST00019,William,Cochran,M,2007-03-31,18.0,vjohnson@example.com,534221607337543,Ohio,Cleveland,870,low,very_good,married,4,2022-12-01,36.0,standard
+CUST00020,Cheryl,Murphy,F,2006-01-31,19.0,rasmussenjoshua@example.net,768750142940196,Arizona,Mesa,577,middle,good,single,1,2025-08-03,4.0,budget
+CUST00021,Larry,Dixon,M,1973-06-24,52.0,jonathanfletcher@example.org,783856159514846,Georgia,Atlanta,918,low,very_good,single,5,2023-04-15,32.0,standard
+CUST00022,Edward,Martinez,M,1975-11-17,50.0,lbyrd@example.net,0017469804436,Georgia,Athens,584,lower_middle,good,married,1,2023-07-03,29.0,budget
+CUST00023,Jeremy,Lewis,M,1979-06-20,46.0,donnacampbell@example.net,139591343320037,New York,Albany,548,,fair,divorced,3,2023-03-12,33.0,premium
+CUST00024,Stacey,Johnston,F,1996-02-24,29.0,psnyder@example.org,140196328708317,Arizona,Tempe,880,upper_middle,very_good,single,3,2022-10-20,38.0,premium
+CUST00025,Kim,Hansen,F,1968-11-09,57.0,usalazar@example.net,387627743487347,Florida,Orlando,312,upper_middle,excellent,single,1,2025-02-23,10.0,budget
+CUST00026,Denise,Flores,F,1984-01-09,41.0,,2315665876,Pennsylvania,Erie,555,middle,very_good,divorced,2,2025-04-10,8.0,budget
+CUST00027,Jean,Carrillo,F,1994-08-06,31.0,gateskathy@example.com,80594668893734,Georgia,Savannah,43,middle,fair,single,5,2022-10-11,38.0,standard
+CUST00028,Jasmine,Caldwell,F,2001-07-30,24.0,dramsey@example.org,12806699016272,Texas,Houston,501,lower_middle,good,married,6,2022-08-13,40.0,standard
+CUST00029,Garrett,Gibson,M,1970-03-26,55.0,aramirez@example.com,2705805310,Florida,Jacksonville,266,high,fair,married,2,2025-05-06,7.0,standard
+CUST00030,Ryan,Howell,M,1963-07-02,62.0,thomaswilson@example.org,6458299124190,Arizona,Tempe,524,low,good,married,2,2025-05-05,7.0,budget
+CUST00031,Teresa,Gonzalez,F,1987-07-23,38.0,curtisbarton@example.net,18199058651850,Ohio,Cincinnati,143,high,fair,single,6,2025-02-07,10.0,standard
+CUST00032,Jeffrey,Cox,M,2007-12-09,18.0,bzimmerman@example.org,00168499877694531,Texas,Austin,324,lower_middle,very_good,married,4,2025-08-05,4.0,budget
+CUST00033,Nicole,Hudson,F,1992-09-25,33.0,frogers@example.com,2735545494,Texas,Austin,117,,very_good,married,1,2024-06-09,18.0,standard
+CUST00034,David,Russell,M,1985-01-16,40.0,hannahbrewer@example.com,7018436349578,North Carolina,Charlotte,982,upper_middle,good,single,3,2023-06-24,30.0,budget
+CUST00035,Joshua,Bell,M,1978-02-21,47.0,kristopher31@example.net,6513823374,Ohio,Columbus,259,upper_middle,poor,married,3,2025-07-04,5.0,budget
+CUST00036,Elizabeth,Ward,F,1967-11-01,58.0,ericksondavid@example.org,9849271094,Ohio,Cleveland,582,lower_middle,very_good,single,1,2022-11-10,37.0,high_value
+CUST00037,Gina,Sheppard,F,1964-06-12,61.0,ewilson@example.com,51980229413186,Florida,Miami,595,lower_middle,fair,divorced,2,2025-05-11,7.0,premium
+CUST00038,Susan,Evans,F,1987-04-25,38.0,ntorres@example.org,12138341232812,North Carolina,Charlotte,595,middle,very_good,married,2,2022-08-18,40.0,standard
+CUST00039,Melissa,Harrison,F,1949-06-27,76.0,keithcampbell@example.com,4346936183,Illinois,Springfield,191,low,excellent,divorced,2,2022-04-29,44.0,standard
+CUST00040,Benjamin,Martin,M,1968-03-13,57.0,scott74@example.net,24838771906594,Pennsylvania,Philadelphia,305,lower_middle,very_good,divorced,4,2022-06-25,42.0,premium
+CUST00041,Tonya,Huff,F,1986-05-29,39.0,keyemily@example.com,0018029787429,Texas,Dallas,124,middle,poor,single,3,2022-09-20,39.0,premium
+CUST00042,Julie,Ortiz,F,1969-02-10,56.0,hodgemark@example.net,24698071545168,Ohio,Cleveland,546,low,fair,married,1,2023-06-27,30.0,budget
+CUST00043,Amy,Stone,F,1989-08-20,36.0,wgarrett@example.org,5484247710,New York,Buffalo,412,middle,very_good,married,4,2023-10-01,26.0,budget
+CUST00044,Krista,Tran,F,1953-08-10,72.0,victoriadurham@example.com,5279484677,Georgia,Athens,727,lower_middle,good,married,4,2024-11-25,13.0,standard
+CUST00045,Brianna,Lee,F,1988-01-20,37.0,michellehill@example.com,784804499727875,Texas,Dallas,601,middle,good,single,2,2023-04-06,32.0,standard
+CUST00046,Timothy,Kane,M,1994-09-24,31.0,ashleyhall@example.com,7573662702,Georgia,Atlanta,582,lower_middle,excellent,single,3,2025-04-19,8.0,premium
+CUST00047,Brett,Lozano,M,1948-04-23,77.0,robertpena@example.org,8747596158,Pennsylvania,Pittsburgh,826,upper_middle,good,married,1,2022-01-15,47.0,standard
+CUST00048,Nathan,Malone,M,2006-08-19,19.0,,63176117240050,California,San Diego,496,upper_middle,good,single,1,2022-05-19,43.0,standard
+CUST00049,Jeffrey,Sanchez,M,1975-04-22,50.0,georgemiller@example.com,16374923747407,Georgia,Atlanta,101,high,excellent,divorced,1,2024-11-18,13.0,standard
+CUST00050,Jeremy,Reed,M,1987-04-02,38.0,danielle64@example.com,83667136959440,Illinois,Naperville,15,high,good,divorced,4,2023-03-15,33.0,high_value
+CUST00051,Keith,Jennings,M,1997-12-09,28.0,lozanojulie@example.com,001739453394210470,Pennsylvania,Erie,123,lower_middle,good,divorced,1,2023-05-13,31.0,standard
+CUST00052,Susan,Murphy,F,1975-07-17,50.0,jamesbuchanan@example.com,784324745171236,Arizona,Tucson,522,middle,excellent,married,1,2022-07-13,41.0,standard
+CUST00053,Adrian,Herrera,M,1978-03-19,47.0,emily49@example.com,165183709859317,Arizona,Mesa,157,middle,excellent,single,5,2024-05-17,19.0,standard
+CUST00054,Brenda,Shah,F,1967-12-24,58.0,pwilson@example.net,3679586926,North Carolina,Charlotte,811,upper_middle,very_good,married,2,2025-10-11,2.0,standard
+CUST00055,Jason,Lynn,M,1949-06-29,76.0,jeff73@example.com,9583506431,California,San Jose,873,upper_middle,very_good,divorced,2,2023-11-26,25.0,premium
+CUST00056,Daniel,Fowler,M,1948-09-19,77.0,buchananjohn@example.org,0014312839335,New York,Buffalo,368,middle,very_good,married,4,2023-01-25,35.0,premium
+CUST00057,Shannon,Thomas,F,1956-02-10,69.0,lauren10@example.org,4538950240,Florida,Jacksonville,694,high,good,single,3,2023-01-11,35.0,budget
+CUST00058,Ashley,Brown,F,1977-10-08,48.0,william17@example.net,8908847007,North Carolina,Raleigh,904,low,good,married,3,2022-06-04,42.0,standard
+CUST00059,Ashley,Joseph,F,1977-06-13,48.0,lammarc@example.org,6249998569,Ohio,Columbus,667,low,poor,married,1,2022-04-14,44.0,standard
+CUST00060,Larry,Garcia,M,1995-01-08,30.0,farrelldebra@example.net,00173667365766156,Texas,Dallas,495,middle,very_good,single,1,2022-12-07,36.0,standard
+CUST00061,Tiffany,Mcdaniel,F,1979-07-16,46.0,davischristopher@example.com,3528809885,North Carolina,Greensboro,468,low,good,married,4,2023-03-14,33.0,standard
+CUST00062,Shelly,Pugh,F,1976-01-18,49.0,schmittcaroline@example.com,7983327315,California,San Diego,370,high,good,single,2,2024-02-16,22.0,premium
+CUST00063,Kenneth,Aguirre,M,2004-10-11,21.0,lynchdiane@example.net,3024445502296,Arizona,Mesa,976,middle,poor,single,4,2024-07-20,17.0,high_value
+CUST00064,Madeline,Johnson,F,1998-01-14,27.0,nicholaschavez@example.org,6459991022901,Arizona,Tempe,872,upper_middle,good,single,2,2022-11-14,37.0,budget
+CUST00065,Jeff,Lawson,M,1975-06-14,50.0,jason81@example.com,614597840369003,Illinois,Springfield,184,middle,very_good,married,5,2022-04-30,44.0,standard
+CUST00066,Phillip,Roberts,M,1955-06-07,70.0,,78388851606071,Georgia,Atlanta,756,upper_middle,good,married,2,2022-04-13,44.0,standard
+CUST00067,Jennifer,Bowman,F,1966-12-19,59.0,sullivantammy@example.org,18756161369681,Ohio,Cleveland,982,lower_middle,very_good,single,1,2022-04-27,44.0,budget
+CUST00068,Gerald,Cook,M,1958-09-15,67.0,dixondaniel@example.net,4554231243,Florida,Miami,864,low,very_good,married,1,2025-05-03,7.0,standard
+CUST00069,Bernard,Bean,M,1989-12-30,36.0,kmarshall@example.net,2997552717744,New York,Rochester,669,middle,good,single,2,2022-09-03,39.0,standard
+CUST00070,Benjamin,Murray,M,1949-10-28,76.0,woodjustin@example.net,9995867980,Pennsylvania,Philadelphia,426,middle,very_good,single,3,2025-06-22,6.0,standard
+CUST00071,Larry,Mason,M,1951-06-23,74.0,vgarcia@example.net,4827037788,Arizona,Mesa,493,middle,very_good,married,1,2023-06-19,30.0,budget
+CUST00072,Thomas,Hughes,M,1999-12-20,26.0,erika05@example.org,818464492519254,Georgia,Savannah,784,middle,poor,married,3,2023-06-28,30.0,high_value
+CUST00073,Michelle,Miller,F,1985-04-20,40.0,vschneider@example.org,1581468505423573,Florida,Tampa,208,middle,very_good,married,5,2024-07-25,17.0,standard
+CUST00074,Angela,Richard,F,1954-02-23,71.0,stanleynancy@example.net,2968222927,Texas,Houston,482,middle,excellent,divorced,1,2024-07-27,17.0,budget
+CUST00075,Michael,Young,M,1977-06-29,48.0,karen73@example.net,8478359774,Texas,Dallas,217,low,poor,single,1,2024-11-02,13.0,standard
+CUST00076,Ruth,Solis,F,1956-09-06,69.0,brett75@example.net,4818412478,Florida,Tampa,125,,very_good,single,2,2022-05-21,43.0,premium
+CUST00077,Travis,Walker,M,1977-12-18,48.0,sarah60@example.com,653961530515220,Georgia,Augusta,917,low,very_good,married,4,2022-11-20,37.0,premium
+CUST00078,Sandra,Blake,F,1979-03-10,46.0,fgilbert@example.org,2325898614341,Ohio,Cincinnati,555,upper_middle,good,single,4,2025-06-06,6.0,premium
+CUST00079,Mark,Dean,M,1951-07-17,74.0,copelandvincent@example.net,7895324609,Ohio,Cincinnati,752,high,good,single,2,2025-09-20,3.0,premium
+CUST00080,Jason,Beck,M,1953-02-02,72.0,carlos88@example.net,380767065405153,Florida,Tampa,179,high,very_good,single,4,2022-08-25,40.0,premium
+CUST00081,Andrew,Payne,M,2002-08-16,23.0,,82291704303054,Ohio,Cleveland,337,low,excellent,married,2,2023-07-12,29.0,premium
+CUST00082,Amanda,Lucas,F,1966-09-26,59.0,michelle05@example.com,9567676527,Pennsylvania,Pittsburgh,685,,good,single,1,2023-12-04,24.0,premium
+CUST00083,Derek,Miller,M,1976-02-25,49.0,jordanwanda@example.org,8454115447,Illinois,Naperville,909,lower_middle,excellent,divorced,3,2023-05-30,31.0,standard
+CUST00084,Jeremy,West,M,1996-09-22,29.0,christina64@example.net,9162582029,Texas,San Antonio,170,,good,single,4,2023-07-21,29.0,standard
+CUST00085,Austin,Osborne,M,1972-03-12,53.0,patrick90@example.net,7758571928,California,Sacramento,417,upper_middle,very_good,single,1,2022-09-25,39.0,standard
+CUST00086,Marie,Wright,F,1954-12-26,71.0,,5143473947,Florida,Jacksonville,182,middle,good,divorced,1,2025-02-03,10.0,standard
+CUST00087,Sarah,Hayes,F,1995-10-23,30.0,zosborn@example.net,451588442258313,Ohio,Columbus,652,low,very_good,married,1,2022-08-18,40.0,budget
+CUST00088,Alexander,Spencer,M,1972-05-15,53.0,jlara@example.org,17113467866912,Florida,Miami,594,upper_middle,poor,married,1,2024-01-27,23.0,premium
+CUST00089,John,Holmes,M,1955-12-31,70.0,katrinaanderson@example.net,7186242253,Arizona,Tucson,108,,excellent,single,4,2022-03-27,45.0,standard
+CUST00090,Danielle,Reid,F,1984-10-01,41.0,david49@example.net,7822992299,Georgia,Atlanta,42,high,excellent,married,1,2024-01-03,23.0,standard
+CUST00091,Brad,Fry,M,1999-09-25,26.0,debra96@example.net,140798447364710,New York,New York,549,upper_middle,good,single,1,2023-12-26,24.0,premium
+CUST00092,Kari,Harris,F,1988-07-19,37.0,larryhiggins@example.net,9625588153714,Pennsylvania,Pittsburgh,189,middle,poor,married,1,2023-04-30,32.0,budget
+CUST00093,Tony,Brown,M,1973-05-29,52.0,kwright@example.com,0019532278774,Florida,Jacksonville,123,low,very_good,married,6,2022-02-20,46.0,standard
+CUST00094,Tony,Wagner,M,1963-08-25,62.0,brandywilliams@example.com,29784801624565,Georgia,Athens,72,middle,good,divorced,6,2025-10-03,2.0,budget
+CUST00095,Kelly,Lee,M,1984-11-29,41.0,charles87@example.net,5998121655852,Illinois,Springfield,660,low,excellent,single,3,2022-08-10,40.0,premium
+CUST00096,Amanda,Williams,F,1995-10-29,30.0,linda87@example.org,19826595269495,California,San Jose,627,,poor,married,3,2023-04-01,32.0,high_value
+CUST00097,Robert,Richardson,M,1993-02-12,32.0,whitneybrandy@example.net,0018094749930972,North Carolina,Durham,897,middle,very_good,married,3,2023-09-18,27.0,standard
+CUST00098,David,Armstrong,M,1994-12-08,31.0,leescott@example.com,5637689702,New York,New York,873,high,poor,single,5,2025-09-13,3.0,high_value
+CUST00099,John,Bennett,M,1959-01-19,66.0,vbarr@example.net,5499733484344,Arizona,Mesa,420,middle,very_good,single,2,2023-07-25,29.0,budget
+CUST00100,John,Castro,M,2001-05-23,24.0,keith98@example.com,65264041574733,Illinois,Aurora,184,lower_middle,good,single,6,2025-08-06,4.0,high_value
+CUST00101,Ashley,Yang,F,1963-07-20,62.0,brentstein@example.org,193091657120826,Ohio,Cincinnati,857,,good,single,3,2022-02-26,46.0,premium
+CUST00102,Curtis,Maynard,M,1969-02-13,56.0,debbie19@example.org,6022620672,Illinois,Springfield,17,lower_middle,excellent,married,4,2025-04-04,8.0,high_value
+CUST00103,Elizabeth,Morrison,F,1970-01-24,55.0,shawn88@example.com,6874431527,California,Los Angeles,23,middle,good,divorced,1,2025-05-06,7.0,premium
+CUST00104,Nancy,Gibbs,F,1985-11-26,40.0,gregorychase@example.com,585916122753046,Georgia,Augusta,992,low,good,married,1,2024-06-12,18.0,high_value
+CUST00105,Derek,Rivera,M,1986-11-26,39.0,,6177426841,Arizona,Tucson,810,middle,good,divorced,4,2023-06-06,30.0,premium
+CUST00106,Daniel,Bernard,M,1979-10-22,46.0,spencerzhang@example.com,387283391878519,Arizona,Phoenix,722,middle,good,single,5,2024-11-30,13.0,budget
+CUST00107,Steven,Harris,M,1983-10-14,42.0,franklinbond@example.com,4398718707,Georgia,Athens,603,upper_middle,excellent,widowed,4,2022-05-24,43.0,standard
+CUST00108,Kristy,Hansen,F,1993-01-17,32.0,jennifer64@example.org,00163981065180170,Pennsylvania,Allentown,240,high,very_good,single,1,2025-09-20,3.0,standard
+CUST00109,Randy,Cannon,M,1996-11-22,29.0,ybrooks@example.com,26128251286823,Illinois,Aurora,396,high,good,single,3,2025-09-27,3.0,standard
+CUST00110,Julie,Ball,F,1976-02-16,49.0,pmorrow@example.com,3242310690331,Georgia,Athens,590,,fair,married,4,2023-08-29,28.0,standard
+CUST00111,Kyle,Warner,M,1950-07-30,75.0,joymorales@example.org,7305284395,New York,Rochester,400,middle,very_good,married,5,2025-09-23,3.0,standard
+CUST00112,Sherri,Odom,F,1982-09-26,43.0,roberthill@example.net,0017268870568,Florida,Tampa,540,middle,fair,single,3,2024-04-11,20.0,premium
+CUST00113,Chase,Bennett,M,1998-08-09,27.0,oallen@example.com,0016275086688263,Illinois,Aurora,437,upper_middle,fair,single,2,2023-03-07,33.0,budget
+CUST00114,Maria,Nielsen,F,2004-11-29,21.0,christopher30@example.com,29950139837354,Pennsylvania,Allentown,254,middle,good,married,2,2024-08-10,16.0,premium
+CUST00115,Tonya,Wilson,F,1998-08-06,27.0,srocha@example.net,0016367385467854,North Carolina,Raleigh,677,middle,very_good,single,5,2024-11-12,13.0,standard
+CUST00116,Sonya,Owens,F,2001-11-24,24.0,ugill@example.org,8566093204899,Florida,Miami,204,high,fair,divorced,2,2023-08-05,28.0,standard
+CUST00117,Christina,Hall,F,1986-01-15,39.0,victorpena@example.net,247377252287280,Texas,Dallas,880,middle,excellent,married,3,2025-10-09,2.0,standard
+CUST00118,Amber,Smith,F,1956-08-15,69.0,carloshernandez@example.org,275609977008860,New York,Buffalo,707,lower_middle,poor,single,1,2022-10-29,38.0,budget
+CUST00119,William,Smith,M,2002-08-08,23.0,ldrake@example.org,6828339845,California,San Diego,108,low,very_good,single,5,2024-08-31,16.0,standard
+CUST00120,Jake,Sullivan,M,1985-09-18,40.0,veronicaperez@example.net,2014666870,North Carolina,Greensboro,113,middle,very_good,single,1,2025-07-13,5.0,budget
+CUST00121,Jonathan,Hamilton,M,2000-08-22,25.0,ariel18@example.org,2394740148,Arizona,Tempe,417,lower_middle,fair,single,1,2024-03-29,21.0,budget
+CUST00122,Alan,Clark,M,1957-01-28,68.0,thickman@example.org,0017392685621,Florida,Miami,133,middle,fair,single,3,2022-08-07,40.0,standard
+CUST00123,Jessica,Roberson,F,1970-06-11,55.0,unovak@example.org,164757358662961,New York,Buffalo,939,low,very_good,married,5,2024-11-26,13.0,budget
+CUST00124,Angel,Adams,F,1973-02-14,52.0,jodistewart@example.org,4048754121,California,San Diego,593,high,poor,single,4,2022-09-06,39.0,premium
+CUST00125,Kristin,Hunt,F,1954-04-18,71.0,,14568046618398,Florida,Jacksonville,227,lower_middle,fair,single,3,2025-09-29,3.0,standard
+CUST00126,Brenda,Turner,F,1980-10-27,45.0,bryanhamilton@example.com,67125437993712,North Carolina,Greensboro,523,lower_middle,good,married,2,2025-01-27,11.0,budget
+CUST00127,Evelyn,Oliver,F,2001-12-25,24.0,scott69@example.org,75983752654793,Florida,Jacksonville,372,upper_middle,excellent,married,1,2024-07-10,17.0,standard
+CUST00128,Rose,Long,F,1955-01-06,70.0,brittanygardner@example.net,001480873741672434,New York,Albany,499,middle,good,single,2,2024-12-03,12.0,standard
+CUST00129,Angela,Ewing,F,1979-11-17,46.0,sferguson@example.com,4052891135,New York,Albany,743,low,good,single,1,2024-06-19,18.0,standard
+CUST00130,William,Byrd,M,1974-06-17,51.0,tammy61@example.org,9437888993,Illinois,Springfield,517,high,good,married,2,2023-07-11,29.0,premium
+CUST00131,Julie,Frazier,F,1994-04-01,31.0,michaeljohnson@example.org,96131254573875,Georgia,Atlanta,579,low,good,married,2,2022-10-11,38.0,premium
+CUST00132,Nathan,Chavez,M,1951-11-02,74.0,bradley10@example.com,181243828258673,New York,Rochester,249,low,good,single,3,2022-11-09,37.0,standard
+CUST00133,Martin,Reynolds,M,1949-04-02,76.0,shannonjordan@example.org,0019333419182553,Texas,San Antonio,348,lower_middle,excellent,married,1,2024-04-14,20.0,budget
+CUST00134,Megan,Burns,F,1990-10-04,35.0,candice96@example.net,3554792499,Ohio,Toledo,415,lower_middle,fair,single,2,2024-05-01,19.0,budget
+CUST00135,Bruce,Torres,M,1959-09-21,66.0,heather86@example.com,16294662782827,New York,Rochester,250,lower_middle,excellent,single,2,2024-03-08,21.0,standard
+CUST00136,Ernest,Hayes,M,1950-11-30,75.0,,58867676772190,Pennsylvania,Erie,47,high,fair,single,5,2024-09-03,15.0,high_value
+CUST00137,Donald,Medina,M,1958-09-17,67.0,xcunningham@example.com,2819914858,Georgia,Augusta,721,upper_middle,fair,single,5,2024-03-09,21.0,standard
+CUST00138,Shirley,Fitzgerald,F,1997-05-08,28.0,kennethkidd@example.com,4515713395962,Ohio,Cleveland,276,middle,good,single,1,2024-09-26,15.0,premium
+CUST00139,Robert,Hudson,M,1983-06-27,42.0,,44974812604223,Illinois,Naperville,329,lower_middle,good,married,1,2024-09-21,15.0,budget
+CUST00140,Philip,Lowe,M,1980-07-28,45.0,,37191684577590,Arizona,Mesa,837,middle,good,married,2,2025-10-01,2.0,budget
+CUST00141,Mary,Howard,F,1951-07-30,74.0,brobinson@example.org,34594589297500,Florida,Jacksonville,26,middle,poor,single,1,2022-09-19,39.0,budget
+CUST00142,Caleb,Mathews,M,1977-04-18,48.0,bsmith@example.org,0018246241541520,Arizona,Phoenix,956,high,good,married,3,2022-06-21,42.0,standard
+CUST00143,Melissa,Young,F,1991-11-15,34.0,padillaaaron@example.com,3298387005,Florida,Jacksonville,914,upper_middle,good,married,2,2023-01-08,35.0,standard
+CUST00144,Carlos,Jones,M,1973-05-02,52.0,crosscurtis@example.com,9427622189092,Illinois,Naperville,951,high,very_good,divorced,4,2023-11-02,25.0,budget
+CUST00145,Daniel,Goodman,M,1975-04-14,50.0,fheath@example.org,6193656523,North Carolina,Durham,330,high,fair,single,3,2023-11-23,25.0,premium
+CUST00146,Kristen,Greene,F,1988-08-11,37.0,kimberly04@example.org,398236403761379,Illinois,Naperville,478,upper_middle,fair,married,1,2023-06-01,30.0,budget
+CUST00147,Timothy,Anderson,M,2005-11-04,20.0,,001871809104300684,North Carolina,Charlotte,924,lower_middle,very_good,married,2,2025-01-09,11.0,standard
+CUST00148,James,Davidson,M,1983-11-08,42.0,joshuacollins@example.net,5282569146,Georgia,Savannah,325,upper_middle,good,married,2,2025-08-24,4.0,standard
+CUST00149,Brandon,Hamilton,M,1978-02-12,47.0,parkerjudith@example.net,6104202758,California,Los Angeles,492,middle,good,married,1,2023-05-22,31.0,standard
+CUST00150,Cameron,Norman,M,1965-07-22,60.0,wiseanthony@example.com,4817491778507,California,San Diego,211,,good,married,3,2023-05-04,31.0,premium
+CUST00151,David,Garcia,M,1986-04-27,39.0,perezwilliam@example.org,8305756220,North Carolina,Charlotte,426,low,excellent,married,1,2025-03-01,9.0,standard
+CUST00152,David,Moon,M,1969-01-14,56.0,margaret95@example.org,902238061744518,North Carolina,Durham,488,upper_middle,very_good,married,4,2024-01-26,23.0,premium
+CUST00153,Curtis,Elliott,M,1967-12-12,58.0,stevenvargas@example.com,001838632060385050,Pennsylvania,Philadelphia,141,lower_middle,good,single,1,2022-12-02,36.0,premium
+CUST00154,Christine,Bird,F,1975-11-01,50.0,jwoodward@example.net,4108386571918,Texas,Houston,103,middle,very_good,divorced,4,2023-10-01,26.0,standard
+CUST00155,Leslie,Brown,F,1992-05-06,33.0,joelgreen@example.com,45597431329121,Arizona,Tucson,615,low,very_good,single,4,2022-06-05,42.0,standard
+CUST00156,Erik,Martinez,M,1971-08-25,54.0,shannonford@example.org,5247903521,Texas,Austin,524,low,fair,married,3,2025-05-14,7.0,premium
+CUST00157,Jose,Byrd,M,1964-12-20,61.0,anthonysullivan@example.com,2835171210,Pennsylvania,Philadelphia,176,upper_middle,good,single,1,2023-12-13,24.0,standard
+CUST00158,Christina,Morales,F,1993-12-19,32.0,aguilarjonathan@example.org,9132721510,Georgia,Atlanta,225,high,good,single,5,2024-11-02,13.0,standard
+CUST00159,Tammy,Hamilton,F,1996-07-24,29.0,ycrawford@example.net,625932447209993,California,San Jose,545,lower_middle,good,married,1,2024-09-30,15.0,standard
+CUST00160,Stephen,Mendoza,M,1953-03-27,72.0,patrick63@example.net,638406578759856,Arizona,Mesa,39,upper_middle,excellent,married,5,2025-07-25,5.0,standard
+CUST00161,Emma,Robinson,F,2008-03-22,,brian78@example.com,001493421334803965,Florida,Jacksonville,315,upper_middle,fair,married,2,2022-12-27,36.0,standard
+CUST00162,Leslie,Drake,F,1994-09-27,31.0,robin05@example.net,0012293378427,Pennsylvania,Erie,78,upper_middle,excellent,divorced,1,2024-08-10,16.0,standard
+CUST00163,Crystal,Robinson,F,1983-02-02,42.0,nsmith@example.org,3527500292,Pennsylvania,Allentown,100,,very_good,single,5,2023-10-23,26.0,high_value
+CUST00164,James,Mcmahon,M,1974-03-09,51.0,rogersmarcus@example.org,00166745289539264,Texas,Austin,237,middle,good,single,2,2024-07-12,17.0,budget
+CUST00165,Nicholas,Rush,M,1986-03-31,39.0,xrosales@example.net,4297593917,North Carolina,Greensboro,981,upper_middle,poor,single,3,2023-11-20,25.0,standard
+CUST00166,Blake,Reed,M,1969-01-03,56.0,daisymccarty@example.net,1957804331541006,North Carolina,Durham,223,high,good,single,2,2023-01-08,35.0,premium
+CUST00167,Stacey,Snyder,F,1973-01-13,52.0,amy17@example.net,143287104054115,New York,Albany,215,lower_middle,good,single,2,2023-06-14,30.0,budget
+CUST00168,Monique,Payne,F,1953-08-08,72.0,brooke97@example.net,5625962015,Illinois,Aurora,541,middle,excellent,single,3,2025-02-12,10.0,standard
+CUST00169,Michael,Bowen,M,1996-12-09,29.0,,8693872050,Ohio,Cleveland,391,low,very_good,single,1,2022-06-25,42.0,high_value
+CUST00170,Rodney,Weber,M,1979-12-14,46.0,collinclark@example.net,71781467741862,Arizona,Tempe,489,,poor,widowed,3,2025-02-11,10.0,standard
+CUST00171,Cody,Williams,M,1977-03-10,48.0,rbaker@example.net,2218158693,North Carolina,Greensboro,689,low,very_good,single,1,2024-07-06,17.0,premium
+CUST00172,Jason,Nichols,M,2006-04-04,19.0,parmstrong@example.com,41650898992172,Texas,Austin,257,,poor,married,1,2023-03-30,33.0,standard
+CUST00173,Beth,Henderson,F,1993-10-02,32.0,oharris@example.org,19452116868548,New York,Albany,923,upper_middle,good,married,2,2025-09-21,3.0,standard
+CUST00174,Lisa,Mills,F,1975-10-27,50.0,perryeddie@example.net,0016118914856,North Carolina,Durham,863,middle,fair,single,5,2024-05-21,19.0,premium
+CUST00175,Karla,Lynch,F,1949-10-25,76.0,joshuathomas@example.net,1660965307450544,Georgia,Athens,917,middle,fair,married,1,2023-07-09,29.0,standard
+CUST00176,Melinda,Compton,F,1962-10-11,63.0,,4693137367850,Illinois,Springfield,412,lower_middle,very_good,married,1,2022-09-05,39.0,budget
+CUST00177,Michael,Powell,M,2000-05-18,25.0,thompsonnancy@example.org,9308705345,Georgia,Atlanta,837,lower_middle,very_good,single,4,2025-01-02,11.0,budget
+CUST00178,Thomas,Maldonado,M,1963-09-24,62.0,tracy72@example.com,0018852524140,New York,Buffalo,218,lower_middle,very_good,single,2,2024-09-18,15.0,budget
+CUST00179,Sarah,Chan,F,1961-11-06,64.0,deborahbyrd@example.com,166860072290349,Pennsylvania,Allentown,560,upper_middle,very_good,married,3,2022-07-25,41.0,standard
+CUST00180,Steven,York,M,1978-07-02,47.0,jeffery48@example.net,39170858994417,Illinois,Springfield,367,lower_middle,good,divorced,1,2024-01-10,23.0,budget
+CUST00181,Martin,Hensley,M,1965-01-13,60.0,jacob83@example.org,15657207446660,Illinois,Chicago,957,lower_middle,poor,single,2,2024-12-29,12.0,standard
+CUST00182,Micheal,Parks,M,1990-09-14,35.0,qknox@example.com,542782417248251,Illinois,Chicago,297,high,very_good,single,2,2022-04-22,44.0,standard
+CUST00183,Natasha,Parker,F,2000-11-23,25.0,nathan94@example.com,3708999173,Florida,Jacksonville,699,middle,fair,married,3,2022-07-30,41.0,standard
+CUST00184,Edwin,Brown,M,2005-05-25,20.0,derrickgonzalez@example.com,0017722521752,Pennsylvania,Allentown,11,middle,good,divorced,1,2024-08-19,16.0,premium
+CUST00185,Jodi,Clark,F,1999-11-27,26.0,barbaramoore@example.org,2965666760,North Carolina,Durham,962,upper_middle,good,divorced,2,2023-01-13,35.0,premium
+CUST00186,Jake,Smith,M,1969-03-11,56.0,andrewsmith@example.net,6354421689,Illinois,Naperville,90,low,fair,married,2,2022-08-22,40.0,standard
+CUST00187,Rodney,Evans,M,1967-01-21,58.0,mluna@example.net,262457532603323,Arizona,Tempe,166,low,very_good,widowed,1,2022-06-01,42.0,standard
+CUST00188,Jacob,Santos,M,1949-10-22,76.0,qmcdowell@example.net,16099010016761,Florida,Orlando,924,lower_middle,poor,divorced,3,2025-02-26,10.0,budget
+CUST00189,Brittany,Neal,F,1990-02-27,35.0,turnerdorothy@example.net,549592618914117,Texas,Dallas,349,lower_middle,good,married,1,2022-08-31,40.0,premium
+CUST00190,Sandra,Dudley,F,1971-08-16,54.0,cphillips@example.net,33735300119721,Pennsylvania,Pittsburgh,340,low,fair,divorced,3,2024-12-06,12.0,premium
+CUST00191,Maria,Bryant,F,1967-05-30,58.0,steven12@example.org,65536110022557,North Carolina,Greensboro,493,middle,very_good,single,2,2023-09-01,27.0,premium
+CUST00192,Robin,White,F,1974-07-16,51.0,rrivers@example.com,0019764212021697,Illinois,Chicago,806,middle,good,single,4,2025-06-02,6.0,budget
+CUST00193,James,Howard,M,1949-03-24,76.0,timothyfreeman@example.com,3018450899358,New York,Buffalo,872,low,good,single,2,2023-06-26,30.0,standard
+CUST00194,Nicholas,Olson,M,1992-06-06,33.0,jhernandez@example.net,7025877217,Florida,Orlando,438,lower_middle,very_good,single,2,2022-12-22,36.0,standard
+CUST00195,Brenda,Schmidt,M,1962-06-03,63.0,ppowell@example.org,8798717751701,Florida,Miami,51,middle,excellent,married,1,2024-04-16,20.0,budget
+CUST00196,Kristin,Smith,F,1953-06-14,72.0,pamela83@example.net,1375350375899757,Pennsylvania,Erie,868,lower_middle,good,single,3,2023-08-20,28.0,standard
+CUST00197,Daniel,Peterson,M,2003-09-27,22.0,amy51@example.org,3728614933,New York,Albany,287,lower_middle,very_good,single,4,2023-08-03,28.0,budget
+CUST00198,Joyce,Harrington,F,1996-01-16,29.0,daniel60@example.net,1991477982708086,Texas,Dallas,911,middle,very_good,married,4,2023-06-26,30.0,budget
+CUST00199,Kenneth,Cross,M,1956-01-01,69.0,hughescaroline@example.com,666793465472269,Arizona,Phoenix,938,upper_middle,very_good,single,2,2025-01-20,11.0,standard
+CUST00200,Norman,Spencer,M,1962-01-21,63.0,jasonklein@example.net,8226885158799,Florida,Tampa,558,low,excellent,single,2,2022-10-19,38.0,high_value
+CUST00201,Robert,Mills,M,1948-12-26,77.0,qthomas@example.org,2427442043,California,San Diego,598,lower_middle,good,divorced,4,2023-09-22,27.0,premium
+CUST00202,Ashley,Parrish,F,1997-08-03,28.0,juliahoffman@example.org,540766658004397,North Carolina,Charlotte,994,middle,very_good,married,2,2024-08-17,16.0,budget
+CUST00203,Leah,Rodgers,F,1960-08-20,65.0,kellythompson@example.net,6224816064,Arizona,Mesa,215,lower_middle,excellent,divorced,4,2024-10-21,14.0,budget
+CUST00204,Lauren,Scott,F,1969-10-05,56.0,jmckinney@example.org,7593094798,North Carolina,Charlotte,932,high,fair,married,1,2025-05-09,7.0,premium
+CUST00205,Evan,Robinson,M,1959-10-12,66.0,hartmanerik@example.net,6615533555,Arizona,Mesa,991,upper_middle,good,divorced,5,2025-05-21,7.0,high_value
+CUST00206,Lisa,Wells,F,1985-06-19,40.0,wilsonmichael@example.org,179993056164840,California,Los Angeles,643,middle,excellent,married,4,2023-04-14,32.0,standard
+CUST00207,Andrew,Villanueva,M,1960-05-13,65.0,willie12@example.net,8013336138,Illinois,Chicago,983,low,good,single,1,2022-12-25,36.0,budget
+CUST00208,Melissa,Johnson,F,1996-01-18,29.0,benjamin10@example.org,2818934667665,Ohio,Toledo,887,upper_middle,good,married,2,2023-07-24,29.0,budget
+CUST00209,Bryan,Smith,M,1996-04-12,29.0,avilabrenda@example.net,9588144914,Pennsylvania,Erie,522,middle,very_good,single,5,2025-07-24,5.0,standard
+CUST00210,Samantha,Johnson,F,1957-11-26,68.0,derekmyers@example.net,82435088210099,Texas,San Antonio,404,middle,fair,single,1,2023-12-14,24.0,premium
+CUST00211,Christine,Figueroa,F,1996-08-31,29.0,jason82@example.org,9393431290,Georgia,Augusta,385,upper_middle,good,divorced,6,2025-10-04,2.0,premium
+CUST00212,Michael,King,M,1960-09-12,65.0,wlynn@example.org,1431749135775949,Florida,Tampa,419,lower_middle,very_good,single,3,2024-04-23,20.0,standard
+CUST00213,Tina,Jackson,F,1968-07-30,57.0,kristenjoseph@example.net,345625777547812,Illinois,Naperville,188,upper_middle,excellent,married,2,2025-01-31,11.0,standard
+CUST00214,Steven,Gonzalez,M,1997-03-08,28.0,lunapatricia@example.net,140979693084887,North Carolina,Charlotte,519,upper_middle,fair,single,2,2023-10-07,26.0,standard
+CUST00215,Courtney,Barton,F,1997-02-28,28.0,dennis88@example.org,45890392827229,Georgia,Atlanta,475,,fair,single,6,2024-04-07,20.0,budget
+CUST00216,Andrew,Juarez,M,1963-01-14,62.0,bakerjim@example.net,3856677005,Ohio,Toledo,977,middle,good,married,5,2024-04-26,20.0,budget
+CUST00217,Dennis,Stephens,M,1959-02-05,66.0,xvaldez@example.net,121844638655779,New York,Albany,581,upper_middle,poor,single,5,2025-06-29,6.0,premium
+CUST00218,Carol,Jones,F,1991-01-20,34.0,jason22@example.com,18132651777392,North Carolina,Charlotte,324,middle,very_good,single,1,2023-02-21,34.0,high_value
+CUST00219,Amanda,Berry,F,1958-03-25,67.0,crystalwilliams@example.net,2026428699,Ohio,Cleveland,117,high,very_good,married,1,2023-08-13,28.0,standard
+CUST00220,Claire,Obrien,F,1979-05-07,46.0,ajackson@example.net,3925984257,North Carolina,Charlotte,500,lower_middle,fair,single,2,2022-03-01,45.0,premium
+CUST00221,James,Rodriguez,M,1961-01-13,64.0,mserrano@example.org,9794908811,Florida,Tampa,795,low,excellent,divorced,6,2025-02-02,10.0,high_value
+CUST00222,Joshua,Smith,M,1999-12-30,26.0,xboyd@example.org,0016869376599162,Ohio,Toledo,309,lower_middle,good,married,1,2022-07-10,41.0,standard
+CUST00223,Thomas,Miller,M,1987-12-24,38.0,ascott@example.net,00140988180635651,Texas,San Antonio,859,upper_middle,fair,single,3,2022-08-29,40.0,standard
+CUST00224,Kevin,Green,M,1983-09-30,42.0,ncunningham@example.com,1763868872588744,North Carolina,Durham,969,middle,poor,divorced,1,2024-11-08,13.0,standard
+CUST00225,Brenda,Shields,F,1955-05-15,70.0,seanlyons@example.org,8382658902,Arizona,Tempe,124,upper_middle,excellent,divorced,3,2024-08-25,16.0,premium
+CUST00226,Rodney,Ruiz,M,1988-02-11,37.0,qdavis@example.org,9199066984902,North Carolina,Raleigh,19,middle,poor,single,2,2024-02-25,22.0,standard
+CUST00227,Dakota,Sandoval,M,2001-12-21,24.0,james98@example.net,0017398205302146,Pennsylvania,Pittsburgh,536,upper_middle,good,single,3,2022-05-23,43.0,budget
+CUST00228,Laurie,Holmes,F,1997-05-31,28.0,calhounandrea@example.net,8952543937,Arizona,Mesa,347,low,very_good,married,3,2024-11-05,13.0,standard
+CUST00229,Carrie,Hunter,F,1985-04-12,40.0,gordonmatthew@example.org,248994769735779,California,Sacramento,157,upper_middle,good,married,2,2023-09-04,27.0,standard
+CUST00230,Deanna,Reyes,F,2000-12-07,25.0,ericahall@example.com,958780434165182,Florida,Jacksonville,468,upper_middle,very_good,married,5,2025-01-08,11.0,premium
+CUST00231,Colleen,Berry,F,1959-09-15,66.0,victorgonzalez@example.net,3433333952,Georgia,Augusta,107,upper_middle,very_good,married,3,2025-02-04,10.0,standard
+CUST00232,Megan,Alvarado,F,1989-01-13,36.0,duranamber@example.org,45925794728463,North Carolina,Durham,694,upper_middle,fair,divorced,1,2023-01-22,35.0,premium
+CUST00233,Robert,Mendoza,M,1984-01-24,41.0,shawphillip@example.net,001727618750036915,Pennsylvania,Erie,250,upper_middle,fair,single,1,2023-04-24,32.0,premium
+CUST00234,Kimberly,Young,F,1979-05-05,46.0,michael76@example.org,855864729293143,California,Sacramento,261,upper_middle,very_good,married,2,2024-08-26,16.0,budget
+CUST00235,Brianna,Haley,F,1957-06-11,68.0,lshaffer@example.com,42828574489061,Arizona,Tucson,287,middle,excellent,married,3,2024-10-11,14.0,standard
+CUST00236,Robert,Woods,M,1990-02-16,35.0,colematthew@example.com,4886450615939,Florida,Tampa,470,middle,very_good,single,3,2022-07-25,41.0,premium
+CUST00237,Erika,Dixon,F,1999-12-27,26.0,ypreston@example.net,57272569961125,Texas,San Antonio,420,high,good,married,1,2022-02-01,46.0,high_value
+CUST00238,Matthew,Page,M,1988-06-17,37.0,cnelson@example.com,00149887622023413,Arizona,Tucson,140,high,very_good,single,4,2022-06-03,42.0,standard
+CUST00239,Anna,Zuniga,F,1979-06-20,46.0,,6499216433,Illinois,Aurora,826,low,good,single,1,2025-06-30,6.0,standard
+CUST00240,Beth,Rose,F,1958-11-16,67.0,johnsonmichael@example.com,87864872829979,Texas,Austin,460,upper_middle,excellent,divorced,1,2025-10-13,2.0,premium
+CUST00241,Karen,Perez,F,1953-05-11,72.0,aparker@example.com,2409082547,Georgia,Athens,995,upper_middle,poor,single,2,2025-01-13,11.0,standard
+CUST00242,John,Smith,M,1976-07-22,49.0,carla08@example.com,5686663266,Pennsylvania,Philadelphia,108,upper_middle,very_good,married,6,2023-04-26,32.0,standard
+CUST00243,Jennifer,Allen,F,1999-04-17,26.0,justin84@example.com,6129241797,New York,New York,251,middle,good,single,3,2024-06-07,18.0,premium
+CUST00244,Frank,Hernandez,M,1983-09-02,42.0,lopezcurtis@example.com,7708312073,Texas,San Antonio,413,lower_middle,poor,married,2,2022-12-07,36.0,standard
+CUST00245,Rachel,Jimenez,F,1972-07-16,53.0,cterry@example.com,5206461872,California,Los Angeles,505,high,fair,married,2,2023-10-27,26.0,high_value
+CUST00246,Ronald,Martinez,M,1999-07-16,26.0,paulproctor@example.org,00130367183764520,Illinois,Aurora,635,middle,good,single,2,2024-02-07,22.0,high_value
+CUST00247,Margaret,Gonzalez,F,2007-08-30,18.0,boyerjeff@example.org,5652024916,Florida,Orlando,60,high,fair,single,3,2024-12-23,12.0,budget
+CUST00248,Lauren,Vazquez,F,1994-02-10,31.0,nathandavis@example.org,71975005281273,Pennsylvania,Pittsburgh,580,lower_middle,excellent,married,1,2022-12-15,36.0,high_value
+CUST00249,Nicholas,Smith,M,1972-12-21,53.0,jennifer40@example.com,0019786487392855,Texas,San Antonio,789,upper_middle,very_good,married,4,2025-06-23,6.0,premium
+CUST00250,Thomas,Spencer,M,1951-12-14,74.0,shannonweiss@example.net,3708862095935,North Carolina,Raleigh,253,middle,fair,single,3,2023-04-21,32.0,high_value
+CUST00251,Kelly,Jimenez,F,1984-10-16,41.0,chloemorris@example.net,211881022031731,Illinois,Naperville,867,upper_middle,good,single,3,2023-06-07,30.0,budget
+CUST00252,John,Hanson,M,1987-06-09,38.0,brandon39@example.net,8037717058,North Carolina,Durham,933,middle,fair,married,3,2025-10-19,2.0,budget
+CUST00253,Anthony,Jensen,M,1983-04-07,42.0,navarromary@example.org,5814138633,Texas,San Antonio,736,lower_middle,very_good,single,1,2023-12-09,24.0,standard
+CUST00254,Nicole,Perry,F,1954-06-12,71.0,emily61@example.org,7867852897,Arizona,Mesa,726,low,good,married,2,2024-07-24,17.0,standard
+CUST00255,Wendy,Nguyen,F,1972-07-24,53.0,bduran@example.net,293698368457760,New York,Rochester,785,upper_middle,excellent,married,2,2024-09-16,15.0,budget
+CUST00256,Alan,Taylor,M,2007-11-08,18.0,adam33@example.com,2489889921,New York,Rochester,471,low,fair,widowed,2,2025-03-17,9.0,budget
+CUST00257,Brittney,Baker,F,2007-10-21,18.0,jesseshepherd@example.org,0013696315727,Pennsylvania,Allentown,53,middle,very_good,married,2,2023-08-28,28.0,budget
+CUST00258,Nicholas,Johnston,M,1952-08-09,73.0,weeksmatthew@example.com,713590604805892,Arizona,Mesa,205,middle,poor,single,1,2022-01-17,47.0,budget
+CUST00259,Anthony,Dennis,M,1974-01-01,51.0,kmullins@example.net,9362462251,Pennsylvania,Erie,723,middle,fair,married,4,2023-08-10,28.0,standard
+CUST00260,James,Miller,M,1981-05-31,44.0,iayala@example.org,68387693898331,Pennsylvania,Allentown,428,,fair,single,4,2023-03-25,33.0,standard
+CUST00261,Michael,Johnston,M,1954-12-03,71.0,whenderson@example.org,559704259792703,Pennsylvania,Allentown,209,low,excellent,single,4,2025-10-20,2.0,standard
+CUST00262,Peter,Farrell,M,1954-11-30,71.0,sanchezchristine@example.org,60591477053833,Texas,Houston,821,upper_middle,very_good,married,4,2023-09-25,27.0,standard
+CUST00263,Monica,Thomas,F,1994-10-25,31.0,bennettrebecca@example.net,9422043940,California,Sacramento,92,low,excellent,married,2,2022-09-27,39.0,premium
+CUST00264,James,Nelson,M,2005-04-01,20.0,michelle04@example.net,93628157981238,Illinois,Aurora,57,middle,good,married,1,2024-04-30,20.0,budget
+CUST00265,David,Moreno,M,1969-12-18,56.0,klong@example.org,6555438404608,New York,Buffalo,203,lower_middle,fair,divorced,6,2025-01-09,11.0,budget
+CUST00266,Gloria,Long,F,1956-08-09,69.0,blairabigail@example.net,14365392649578,Ohio,Cincinnati,860,,fair,married,2,2022-12-03,36.0,standard
+CUST00267,Brenda,Weaver,F,2001-09-17,24.0,michelleparker@example.net,226729251881252,North Carolina,Durham,547,middle,very_good,single,6,2023-11-25,25.0,high_value
+CUST00268,Tyrone,Turner,M,1998-01-02,27.0,edwin31@example.org,5095949993,North Carolina,Charlotte,905,,fair,married,1,2022-10-16,38.0,budget
+CUST00269,Alexander,Miller,M,2000-05-01,25.0,manderson@example.com,0012526677223306,Arizona,Mesa,546,lower_middle,good,divorced,4,2022-07-04,41.0,premium
+CUST00270,Courtney,Powers,F,1961-01-25,64.0,carlho@example.com,12753736609656,California,Sacramento,596,middle,good,single,1,2025-01-03,11.0,high_value
+CUST00271,Jesus,Rich,M,2006-12-31,19.0,aprilfoster@example.net,6866803476,North Carolina,Durham,609,upper_middle,good,married,2,2025-10-09,2.0,premium
+CUST00272,Carol,Phillips,F,1950-12-23,75.0,stevenlucas@example.org,00198152982665702,Pennsylvania,Erie,600,upper_middle,excellent,single,3,2025-07-31,5.0,standard
+CUST00273,Ann,Nguyen,F,1991-05-27,34.0,jennifermartinez@example.org,0012754186892686,Texas,Dallas,444,high,fair,married,4,2024-08-23,16.0,standard
+CUST00274,Keith,Keller,M,1957-06-24,68.0,mistywhite@example.net,5642474212,Pennsylvania,Allentown,821,low,very_good,divorced,1,2025-06-03,6.0,budget
+CUST00275,Preston,Smith,M,1981-02-16,44.0,,63359776719903,Texas,San Antonio,69,high,fair,divorced,2,2023-09-11,27.0,standard
+CUST00276,Cathy,Brown,F,1971-01-06,54.0,thomasantonio@example.net,14459101622499,Texas,Dallas,987,upper_middle,good,married,3,2022-04-03,44.0,standard
+CUST00277,Kent,Huynh,M,1953-08-08,72.0,marcus61@example.com,8145721458,Illinois,Naperville,917,lower_middle,good,divorced,3,2022-08-26,40.0,standard
+CUST00278,Daniel,Brown,M,1986-02-23,39.0,webbhaley@example.net,96995489952997,New York,Buffalo,240,lower_middle,very_good,single,2,2024-03-06,21.0,high_value
+CUST00279,Sophia,Hall,F,1967-01-13,58.0,aaronjohnson@example.net,5392660558,Georgia,Athens,844,lower_middle,poor,single,2,2025-04-17,8.0,standard
+CUST00280,Curtis,Campbell,M,2001-01-14,24.0,parkerwilliam@example.com,001901255699023557,Arizona,Phoenix,851,upper_middle,good,single,4,2024-09-29,15.0,standard
+CUST00281,Brandy,Moore,F,1978-08-11,47.0,steven60@example.net,29578803955124,Illinois,Chicago,496,lower_middle,fair,single,3,2024-01-29,23.0,premium
+CUST00282,Mark,Kirby,M,1986-02-13,39.0,hlopez@example.com,0016504461735743,North Carolina,Greensboro,152,middle,very_good,married,5,2023-04-29,32.0,standard
+CUST00283,Jacqueline,Johnson,F,1961-01-07,64.0,wallaceangel@example.com,923857845218230,Texas,Austin,940,lower_middle,fair,single,3,2025-01-20,11.0,budget
+CUST00284,Sharon,Wilson,F,1968-06-05,57.0,mcdanielbrooke@example.org,670718409435334,California,San Jose,583,high,poor,single,5,2023-07-20,29.0,standard
+CUST00285,Carla,Gibson,M,1957-12-25,68.0,,5384585424,Texas,San Antonio,98,lower_middle,good,single,6,2022-07-07,41.0,budget
+CUST00286,Eric,Mcclain,M,1984-01-20,41.0,bwilliams@example.com,1601760166299795,Pennsylvania,Philadelphia,264,high,poor,divorced,5,2022-04-14,44.0,standard
+CUST00287,Michelle,Lambert,F,1983-07-27,42.0,beltrankatelyn@example.com,0015215717477,New York,Buffalo,193,middle,good,married,1,2025-03-02,9.0,standard
+CUST00288,Scott,Jensen,M,1971-12-31,54.0,qwhite@example.com,477301715772459,Texas,Dallas,536,low,good,married,3,2025-04-15,8.0,budget
+CUST00289,Robert,Robles,M,1969-06-10,56.0,sparksamanda@example.com,0013637938276,New York,Albany,277,high,poor,married,5,2022-10-30,38.0,standard
+CUST00290,Robert,Garza,M,2000-08-21,25.0,vbradley@example.net,0013329197199758,Illinois,Springfield,235,lower_middle,very_good,married,3,2022-09-24,39.0,high_value
+CUST00291,Elizabeth,Sullivan,F,1987-12-23,38.0,jenningscandace@example.com,970513290227846,Florida,Miami,274,middle,very_good,divorced,1,2025-09-15,3.0,standard
+CUST00292,Michael,Stewart,M,1986-01-27,39.0,samantha65@example.org,0012092862405,Florida,Miami,926,high,very_good,married,3,2024-01-04,23.0,budget
+CUST00293,Justin,Irwin,M,1954-09-24,71.0,michelle36@example.net,0014659666683,Pennsylvania,Allentown,187,middle,very_good,single,6,2022-02-02,46.0,standard
+CUST00294,Cole,Cruz,M,1971-10-14,54.0,qmoore@example.org,4018027621,Illinois,Chicago,602,low,excellent,single,4,2022-09-17,39.0,premium
+CUST00295,Stephanie,Dominguez,F,1976-03-26,49.0,shawncoleman@example.com,75322690973846,Ohio,Columbus,54,middle,very_good,divorced,2,2022-05-11,43.0,standard
+CUST00296,Laura,Bush,F,1954-12-19,71.0,fnixon@example.org,00168427818913718,North Carolina,Durham,455,middle,very_good,married,2,2024-11-17,13.0,premium
+CUST00297,Joseph,Smith,M,1978-03-01,47.0,vberry@example.com,4442209494079,North Carolina,Raleigh,865,upper_middle,fair,married,2,2025-06-13,6.0,budget
+CUST00298,William,Lamb,M,1989-10-01,36.0,mitchellchristopher@example.net,3444294440,Ohio,Cincinnati,780,lower_middle,good,married,2,2024-07-27,17.0,standard
+CUST00299,Patrick,Hopkins,M,1972-06-05,53.0,josehaynes@example.com,8808512927,California,San Jose,316,lower_middle,good,single,3,2024-04-02,20.0,budget
+CUST00300,Mary,Barber,F,1958-08-25,67.0,beckywilkinson@example.org,184190276747836,Texas,San Antonio,349,middle,very_good,married,5,2024-06-27,18.0,standard
+CUST00301,Charles,Berg,M,1948-01-27,77.0,sara76@example.net,880918569454414,Texas,Austin,890,middle,good,single,2,2025-05-30,7.0,standard
+CUST00302,Paul,Navarro,M,1987-04-30,38.0,aprilbyrd@example.org,680501061817534,Texas,Dallas,49,middle,good,married,4,2023-07-18,29.0,standard
+CUST00303,Allison,Davis,F,1987-09-12,38.0,stephanielittle@example.net,6196269212,Arizona,Mesa,617,upper_middle,very_good,divorced,1,2024-07-18,17.0,budget
+CUST00304,Mary,Jones,F,1978-02-14,47.0,kayla54@example.org,001514806650442717,Texas,Houston,238,low,very_good,divorced,5,2025-09-02,3.0,budget
+CUST00305,Matthew,Rodriguez,M,1984-01-21,41.0,probinson@example.org,2412011947072,Arizona,Tempe,876,low,excellent,single,2,2023-04-13,32.0,budget
+CUST00306,Jeanette,Hernandez,F,1969-09-16,56.0,gandrews@example.net,001777766183067198,Georgia,Athens,898,lower_middle,good,single,3,2024-03-27,21.0,premium
+CUST00307,Elizabeth,Brown,F,1991-04-20,34.0,diazmelissa@example.com,6748328063,Texas,Austin,144,lower_middle,very_good,married,2,2024-05-24,19.0,standard
+CUST00308,Lydia,Howard,F,1953-01-15,72.0,imoss@example.org,9099376184,Illinois,Aurora,26,low,fair,married,3,2022-11-09,37.0,budget
+CUST00309,Amanda,Brown,F,2000-11-15,25.0,sullivanjason@example.net,1287582931027079,Texas,Houston,924,upper_middle,fair,married,6,2022-06-24,42.0,standard
+CUST00310,Matthew,Smith,M,1990-04-26,35.0,conwaylori@example.org,5928911179931,Arizona,Phoenix,447,,very_good,married,3,2024-02-03,22.0,budget
+CUST00311,Robert,Hendrix,M,1993-06-06,32.0,rnguyen@example.net,3256309251,Ohio,Columbus,190,high,good,married,1,2025-04-16,8.0,premium
+CUST00312,Nina,Jackson,F,1972-06-09,53.0,samuelfrost@example.org,2194620710,Texas,San Antonio,121,lower_middle,very_good,single,5,2023-12-26,24.0,premium
+CUST00313,Michelle,Wheeler,F,1966-07-29,59.0,ysteele@example.com,0014239248763290,California,Sacramento,807,lower_middle,fair,married,4,2025-05-14,7.0,standard
+CUST00314,Tiffany,Burton,F,2000-07-09,25.0,michael08@example.org,9185195883,Georgia,Atlanta,367,middle,very_good,single,2,2025-03-29,9.0,standard
+CUST00315,Anthony,Rodriguez,M,1957-06-02,68.0,kjimenez@example.net,9052436459,Florida,Jacksonville,141,middle,fair,married,1,2023-04-05,32.0,premium
+CUST00316,Patrick,Buckley,M,1959-03-27,66.0,,5373995635,Georgia,Augusta,432,low,poor,married,3,2022-08-24,40.0,standard
+CUST00317,Crystal,Young,F,1975-05-06,50.0,nicholaswalker@example.com,0018707623972,Pennsylvania,Pittsburgh,183,lower_middle,good,married,6,2024-05-28,19.0,standard
+CUST00318,Jimmy,Lee,M,1971-09-01,54.0,james20@example.net,0017045217762,Pennsylvania,Allentown,391,low,very_good,single,4,2022-03-01,45.0,standard
+CUST00319,Larry,Clarke,M,1990-09-06,35.0,belindatran@example.org,2688739774,Illinois,Aurora,969,upper_middle,excellent,single,4,2023-11-27,25.0,budget
+CUST00320,Shelia,Wright,F,1976-10-25,49.0,patriciavargas@example.org,0018069007806,California,San Diego,918,middle,fair,single,5,2022-10-21,38.0,budget
+CUST00321,Samantha,Chavez,F,1963-08-19,62.0,hansenalexander@example.net,232954310742799,Texas,Dallas,612,lower_middle,good,single,1,2025-07-20,5.0,standard
+CUST00322,Raymond,Sawyer,M,1974-11-07,51.0,kristywood@example.com,0015013658046498,Texas,Dallas,818,middle,poor,married,3,2024-02-10,22.0,budget
+CUST00323,Shirley,Fitzgerald,F,1950-12-30,75.0,pamela16@example.com,5903552818325,North Carolina,Durham,855,upper_middle,very_good,married,2,2022-11-19,37.0,standard
+CUST00324,Karen,Crosby,F,1986-09-28,39.0,karenhodges@example.com,3489640155778,Illinois,Aurora,935,middle,excellent,married,4,2025-03-08,9.0,standard
+CUST00325,Joseph,Bryan,M,1967-02-26,58.0,zoliver@example.net,0016133711624112,California,San Diego,918,middle,poor,married,1,2022-11-19,37.0,high_value
+CUST00326,Charles,Hernandez,M,1961-03-01,64.0,cartertara@example.net,2755670431,Texas,Austin,686,upper_middle,fair,married,2,2024-06-26,18.0,budget
+CUST00327,Maria,Jenkins,F,1970-08-05,55.0,todd88@example.com,4497242437540,North Carolina,Greensboro,377,upper_middle,good,married,5,2024-04-28,20.0,premium
+CUST00328,Joy,Jackson,F,1958-03-17,67.0,ian22@example.org,4105592745,New York,New York,742,lower_middle,good,single,5,2023-12-08,24.0,high_value
+CUST00329,Michelle,Wade,F,1970-08-31,55.0,nathanfernandez@example.org,4412067275,Texas,Austin,972,middle,very_good,married,1,2025-10-20,2.0,standard
+CUST00330,Kimberly,Romero,F,1991-04-24,34.0,thomas49@example.net,3976517028,Ohio,Cincinnati,37,upper_middle,fair,married,4,2022-04-04,44.0,premium
+CUST00331,James,Randall,M,1977-08-12,48.0,christopher09@example.net,9983343018,Arizona,Phoenix,675,low,good,single,1,2022-01-16,47.0,standard
+CUST00332,James,Henry,M,1988-04-23,37.0,kerrmichael@example.org,0013655650455478,Illinois,Springfield,959,high,good,single,2,2022-10-09,38.0,standard
+CUST00333,Stacy,Figueroa,F,1975-07-20,50.0,zroberts@example.net,862399123478519,Illinois,Aurora,13,middle,good,divorced,6,2022-09-03,39.0,standard
+CUST00334,Jason,Rocha,M,1975-06-22,50.0,angelapage@example.org,6269487049,North Carolina,Greensboro,738,upper_middle,fair,divorced,4,2022-12-26,36.0,budget
+CUST00335,Patrick,Walker,M,2001-02-08,24.0,moorekevin@example.net,177194627301471,Arizona,Tucson,746,middle,excellent,divorced,4,2024-10-21,14.0,premium
+CUST00336,Jessica,Scott,F,1993-12-10,32.0,hmccann@example.com,690742902572520,Texas,San Antonio,554,lower_middle,poor,single,3,2022-03-28,45.0,budget
+CUST00337,Makayla,Friedman,F,1950-07-31,75.0,kelly18@example.org,001721492855445189,California,San Jose,21,lower_middle,excellent,married,1,2022-06-09,42.0,premium
+CUST00338,Breanna,Campbell,F,2000-04-06,25.0,kjenkins@example.org,3288338988,Pennsylvania,Erie,608,upper_middle,excellent,married,4,2025-03-20,9.0,standard
+CUST00339,Sydney,Wilson,F,1956-03-12,69.0,mendozalarry@example.com,5794852401,Arizona,Mesa,914,lower_middle,good,single,2,2022-08-24,40.0,budget
+CUST00340,Brenda,Perez,F,1955-10-18,70.0,davidmiller@example.net,001311607603108907,California,Sacramento,61,low,poor,single,3,2022-12-18,36.0,high_value
+CUST00341,Andrea,Contreras,F,1998-08-12,27.0,pattonsamantha@example.org,0017327501249,Georgia,Atlanta,215,high,good,single,2,2024-06-13,18.0,standard
+CUST00342,Scott,Norman,M,1988-12-23,37.0,williamjones@example.net,001408933428013875,New York,Rochester,887,low,very_good,single,3,2025-04-21,8.0,standard
+CUST00343,Tina,White,F,1971-05-31,54.0,gcoleman@example.org,715917182754801,Ohio,Columbus,156,lower_middle,poor,married,1,2024-03-21,21.0,standard
+CUST00344,Janice,Bryant,F,1997-05-12,28.0,,346331752071678,Georgia,Savannah,192,high,poor,married,1,2023-11-14,25.0,high_value
+CUST00345,James,Neal,M,1954-03-10,71.0,calvinhester@example.com,6968136749,Texas,Houston,471,low,fair,single,3,2024-12-22,12.0,budget
+CUST00346,John,Morrison,M,1974-10-15,51.0,jdixon@example.com,2143773201,Georgia,Augusta,657,low,good,widowed,3,2025-08-14,4.0,premium
+CUST00347,Michael,Stanton,M,1973-04-21,52.0,eric99@example.org,001218277347784858,New York,Newyork,569,lower_middle,very_good,married,1,2022-10-27,38.0,standard
+CUST00348,Sheryl,Wilson,F,1977-11-23,48.0,melissa77@example.org,8289427624,New York,Buffalo,148,,good,single,2,2025-05-18,7.0,standard
+CUST00349,Keith,Henry,M,1984-12-13,41.0,kalvarez@example.net,7642796954,Texas,Dallas,41,upper_middle,very_good,married,2,2025-07-10,5.0,budget
+CUST00350,Leslie,Anderson,F,1972-03-14,53.0,lisa90@example.net,361365565033349,North Carolina,Greensboro,404,middle,poor,single,1,2025-10-26,2.0,premium
+CUST00351,Ashley,Jackson,F,1983-11-27,42.0,benjamin69@example.net,340579056965917,Georgia,Savannah,445,middle,fair,single,6,2024-06-19,18.0,budget
+CUST00352,Jonathan,Cain,M,1992-09-06,33.0,garrett45@example.com,8715834404,North Carolina,Greensboro,823,upper_middle,excellent,married,3,2025-07-17,5.0,budget
+CUST00353,Natalie,Davis,F,2004-09-17,21.0,vargasjoshua@example.net,876635148468536,Illinois,Chicago,824,middle,very_good,single,1,2023-12-22,24.0,standard
+CUST00354,Jose,Powers,M,1984-07-11,41.0,nicoleburton@example.net,2975374896,Illinois,Naperville,482,lower_middle,very_good,married,2,2024-07-14,17.0,standard
+CUST00355,Joel,Allen,M,1998-01-22,27.0,megan65@example.org,153624424936312,California,Sacramento,326,middle,very_good,divorced,4,2023-08-11,28.0,high_value
+CUST00356,Robert,Collins,M,1980-04-18,45.0,chenderson@example.org,9422044820,Texas,San Antonio,77,lower_middle,very_good,married,4,2024-08-05,16.0,standard
+CUST00357,Scott,Miller,M,1988-03-15,37.0,michelle65@example.net,1316523198189847,North Carolina,Raleigh,791,low,excellent,married,3,2023-10-21,26.0,standard
+CUST00358,Barbara,Roman,F,1969-09-03,56.0,,732312347649078,Ohio,Cleveland,419,high,very_good,married,2,2022-05-07,43.0,budget
+CUST00359,Kimberly,Wells,F,1964-01-11,61.0,,0017543090034864,Texas,Austin,706,lower_middle,very_good,married,1,2022-06-22,42.0,standard
+CUST00360,Kevin,Cole,M,1973-09-13,52.0,browningphillip@example.com,91384327560417,California,San Diego,441,low,very_good,single,1,2024-06-15,18.0,budget
+CUST00361,Michelle,Mcdowell,F,2003-01-31,22.0,hollowayholly@example.net,4569985700,Ohio,Cleveland,845,high,very_good,single,2,2024-01-16,23.0,standard
+CUST00362,Brandy,Morales,F,1990-01-08,35.0,lee11@example.org,6824965772,Illinois,Naperville,906,upper_middle,very_good,single,1,2024-04-17,20.0,budget
+CUST00363,Leslie,Murphy,F,1966-06-11,59.0,,29380089317342,Pennsylvania,Philadelphia,815,middle,very_good,single,1,2025-07-16,5.0,budget
+CUST00364,Jessica,Green,F,1953-04-29,72.0,george91@example.org,0018864771333447,Texas,Austin,570,high,good,married,2,2022-07-13,41.0,standard
+CUST00365,Selena,Greene,F,2003-05-06,22.0,jessica36@example.org,920444397359710,Illinois,Aurora,428,lower_middle,fair,married,3,2025-09-06,3.0,premium
+CUST00366,William,Sanders,M,1961-09-15,64.0,verickson@example.net,2112800537599,Georgia,Atlanta,337,,poor,divorced,2,2025-04-08,8.0,premium
+CUST00367,Jonathan,James,M,1974-02-15,51.0,david80@example.net,7428875721,Georgia,Augusta,190,high,good,married,4,2025-09-05,3.0,premium
+CUST00368,Debbie,Edwards,F,1955-12-20,70.0,rsavage@example.net,4649494856257,Florida,Miami,74,middle,fair,single,1,2023-09-27,27.0,high_value
+CUST00369,Chelsea,Brown,F,1959-09-24,66.0,harrisonfrank@example.com,317507587771215,Georgia,Savannah,377,middle,good,married,5,2025-10-04,2.0,standard
+CUST00370,Christopher,Jackson,M,1981-11-19,44.0,anna93@example.net,7892261371,Arizona,Mesa,377,lower_middle,fair,single,3,2022-02-07,46.0,premium
+CUST00371,Melanie,Becker,F,1974-02-02,51.0,brittany15@example.org,2179774905,Illinois,Springfield,430,lower_middle,very_good,divorced,5,2023-03-15,33.0,premium
+CUST00372,Theresa,Cooke,F,2001-07-03,24.0,jasonwilliams@example.net,35021896164236,North Carolina,Raleigh,277,lower_middle,very_good,married,4,2023-04-09,32.0,premium
+CUST00373,Christopher,Chan,M,1966-08-28,59.0,davidhenry@example.com,00164982515837767,Florida,Miami,123,upper_middle,very_good,single,6,2023-08-29,28.0,standard
+CUST00374,Peter,Shepherd,M,1989-01-14,36.0,ryansimmons@example.org,657432788147617,Ohio,Columbus,172,high,poor,single,4,2025-09-17,3.0,budget
+CUST00375,Melinda,Evans,F,1964-03-09,61.0,dphillips@example.net,6087186617,Pennsylvania,Pittsburgh,339,upper_middle,fair,married,4,2025-05-08,7.0,premium
+CUST00376,Lauren,Mack,F,1948-05-16,77.0,yangsteven@example.org,50146459779452,Florida,Orlando,107,middle,good,married,3,2023-01-06,35.0,standard
+CUST00377,Paul,Munoz,M,2006-07-31,19.0,hamiltonandrew@example.com,7028776974,North Carolina,Charlotte,401,upper_middle,excellent,married,1,2024-04-21,20.0,premium
+CUST00378,Anita,Taylor,F,1960-04-01,65.0,cabreraheather@example.org,6379236831,New York,Rochester,199,middle,poor,single,6,2025-06-04,6.0,premium
+CUST00379,Kara,Johnson,F,1958-07-27,67.0,joannewallace@example.com,80789334960501,North Carolina,Raleigh,654,low,good,married,3,2024-12-29,12.0,budget
+CUST00380,Omar,Larson,M,1984-12-26,41.0,benjamin67@example.net,0017973308069,Illinois,Naperville,356,upper_middle,very_good,single,4,2023-02-02,34.0,standard
+CUST00381,Stephanie,Butler,F,1979-06-23,46.0,simpsonsheila@example.com,7609243757383,Pennsylvania,Erie,176,middle,poor,married,4,2024-08-03,16.0,budget
+CUST00382,Sonya,Sharp,F,1973-10-30,52.0,rwhitaker@example.net,00195732934172232,Arizona,Tempe,550,lower_middle,excellent,single,1,2022-11-28,37.0,standard
+CUST00383,Tommy,Snyder,M,1963-03-28,62.0,angelakidd@example.com,3525280156193,Pennsylvania,Pittsburgh,642,lower_middle,excellent,widowed,2,2023-05-28,31.0,standard
+CUST00384,David,Peterson,M,1971-06-10,54.0,carrilloangela@example.org,0012893107711991,North Carolina,Durham,223,upper_middle,excellent,married,2,2025-02-09,10.0,standard
+CUST00385,Mark,Pitts,M,1971-11-16,54.0,jessicaerickson@example.net,71265521376037,Ohio,Columbus,666,upper_middle,poor,married,4,2023-08-07,28.0,standard
+CUST00386,Christopher,Adams,M,1995-12-08,30.0,qward@example.org,7862326667,Florida,Tampa,585,low,good,married,1,2024-07-09,17.0,standard
+CUST00387,Charles,Smith,M,2002-02-17,23.0,millerleroy@example.org,706202908466845,Arizona,Phoenix,371,middle,good,married,3,2023-03-31,33.0,standard
+CUST00388,Stephanie,Bishop,F,1957-04-05,68.0,ngriffin@example.net,14976563410856,Georgia,Atlanta,285,upper_middle,fair,married,1,2024-04-29,20.0,standard
+CUST00389,Brandon,Arnold,M,1982-09-28,43.0,katherine20@example.org,7946346810,Arizona,Mesa,826,low,good,married,4,2023-04-28,32.0,premium
+CUST00390,Katie,Martinez,F,1998-10-01,27.0,westashley@example.org,4538998935449,Texas,Austin,686,middle,good,single,2,2023-04-05,32.0,standard
+CUST00391,Omar,Garcia,M,1982-05-30,43.0,mackenzieward@example.org,5669110627,Georgia,Atlanta,107,low,fair,married,6,2025-08-24,4.0,premium
+CUST00392,Jaclyn,Fox,F,1987-04-18,38.0,lwiggins@example.com,136757622827728,Florida,Orlando,601,high,very_good,single,4,2022-03-20,45.0,standard
+CUST00393,Kara,Francis,F,1985-04-22,40.0,sandra19@example.com,7156940821,North Carolina,Raleigh,495,low,good,married,3,2024-08-18,16.0,standard
+CUST00394,Elizabeth,Tucker,F,2001-02-08,24.0,douglaslawrence@example.org,64392701851067,Pennsylvania,Philadelphia,447,middle,fair,single,1,2022-06-12,42.0,standard
+CUST00395,Richard,Alvarez,M,1996-04-06,29.0,kathleenwagner@example.com,001277925199663658,Illinois,Springfield,969,low,very_good,single,2,2022-11-03,37.0,standard
+CUST00396,Destiny,Davis,F,1958-07-15,67.0,armstronglaura@example.net,98128139890983,Texas,Austin,162,high,fair,single,4,2023-05-02,31.0,premium
+CUST00397,Mary,Schmidt,F,1948-07-22,77.0,kristin39@example.com,7898569070,Texas,Houston,241,lower_middle,very_good,married,1,2023-05-04,31.0,standard
+CUST00398,Jennifer,Heath,F,1968-11-11,57.0,hscott@example.org,8244224124,Pennsylvania,Erie,82,low,very_good,married,4,2022-05-09,43.0,standard
+CUST00399,Lucas,Nguyen,M,1949-02-11,76.0,evanscorey@example.org,854361033993788,North Carolina,Charlotte,357,upper_middle,fair,married,4,2025-07-18,5.0,budget
+CUST00400,Antonio,Marshall,M,1974-12-19,51.0,washingtonrick@example.org,8489913824,Florida,Tampa,114,middle,excellent,single,2,2024-05-29,19.0,budget
+CUST00401,Ryan,Mason,M,2000-07-16,25.0,nathanielgalloway@example.org,4682700794,Pennsylvania,Allentown,83,lower_middle,fair,divorced,2,2023-05-08,31.0,budget
+CUST00402,Taylor,Olson,F,1987-12-14,38.0,mary65@example.net,6983402891,Florida,Miami,523,upper_middle,good,married,2,2024-12-08,12.0,budget
+CUST00403,Melissa,Rivas,F,1996-08-09,29.0,natalie39@example.net,254974355379502,Texas,Houston,10,low,poor,divorced,3,2024-03-10,21.0,budget
+CUST00404,Stephanie,Chambers,F,1975-05-20,50.0,ifarmer@example.org,131890715695620,California,San Jose,490,middle,good,divorced,3,2024-02-04,22.0,budget
+CUST00405,Taylor,Wallace,F,1962-05-04,63.0,changerin@example.net,5312943375047,California,Sacramento,262,high,good,divorced,2,2022-05-19,43.0,budget
+CUST00406,Victoria,Little,F,1954-10-25,71.0,ashley72@example.net,4996921921,New York,New York,751,lower_middle,very_good,widowed,3,2025-04-06,8.0,standard
+CUST00407,Savannah,Ibarra,F,1996-11-12,29.0,james08@example.net,9879060566418,Florida,Miami,478,lower_middle,good,married,3,2023-12-23,24.0,high_value
+CUST00408,Kelly,Williams,F,1996-05-06,29.0,brandonhull@example.net,5505635190361,Florida,Jacksonville,220,lower_middle,fair,single,2,2024-09-07,15.0,budget
+CUST00409,Gary,Brown,M,1989-10-25,36.0,johnsonryan@example.org,0017545317350,Florida,Miami,100,upper_middle,good,married,5,2024-07-26,17.0,budget
+CUST00410,Reginald,Harvey,M,1999-04-06,26.0,garrettbeth@example.org,6068512070,Illinois,Springfield,91,upper_middle,poor,married,1,2022-03-31,45.0,standard
+CUST00411,Austin,Osborne,M,1950-10-26,75.0,melissa61@example.net,001263999076769915,California,Sacramento,682,middle,good,single,4,2023-09-28,27.0,high_value
+CUST00412,Erin,Lee,F,1954-04-03,71.0,larsoncarlos@example.org,0014285456797,Ohio,Toledo,185,middle,good,single,3,2023-06-03,30.0,standard
+CUST00413,Robert,Brown,M,1968-06-22,57.0,ppalmer@example.com,49822274954508,New York,Albany,316,low,good,married,1,2024-01-02,23.0,standard
+CUST00414,Jonathon,Conley,M,2005-09-13,20.0,hendersonjames@example.org,163185377959959,Georgia,Augusta,435,upper_middle,fair,single,2,2022-09-12,39.0,budget
+CUST00415,Carla,Gibson,F,2000-12-20,25.0,crawfordsamantha@example.net,5378933756,Arizona,Tempe,246,upper_middle,good,single,5,2024-06-19,18.0,premium
+CUST00416,Samantha,Smith,F,1947-12-09,78.0,howardangela@example.org,47379500334234,Georgia,Savannah,731,upper_middle,fair,married,4,2024-10-13,14.0,high_value
+CUST00417,Danielle,Gonzalez,F,1959-04-01,66.0,renee02@example.com,131533473552896,Georgia,Augusta,194,low,poor,married,3,2022-06-19,42.0,premium
+CUST00418,Sonya,Anderson,F,1960-03-03,65.0,amandabenson@example.com,12636099384253,Texas,San Antonio,170,middle,fair,married,2,2025-05-18,7.0,premium
+CUST00419,Samuel,Schmitt,M,2007-07-19,18.0,fclark@example.com,1991928685787255,Ohio,Cincinnati,625,upper_middle,excellent,single,2,2023-10-20,26.0,standard
+CUST00420,Derrick,Morales,M,2001-01-25,24.0,clarkpatricia@example.com,6633466925,Texas,Austin,181,upper_middle,good,married,2,2025-09-15,3.0,premium
+CUST00421,Nicole,Phillips,F,1982-07-28,43.0,jerry07@example.net,12564776657546,Illinois,Naperville,583,high,good,single,4,2025-05-19,7.0,standard
+CUST00422,Cynthia,Brewer,F,1971-09-14,54.0,phillipswarren@example.net,171463111508353,Florida,Jacksonville,401,lower_middle,very_good,divorced,6,2023-12-21,24.0,standard
+CUST00423,Natasha,Mack,F,2004-10-18,21.0,james92@example.net,00148480445669078,California,Sacramento,303,low,fair,single,3,2025-06-13,6.0,premium
+CUST00424,Crystal,Curry,F,1979-07-21,46.0,zacharyhartman@example.com,00177541536637780,Illinois,Chicago,761,lower_middle,good,married,5,2022-06-03,42.0,budget
+CUST00425,Shelly,Torres,F,1997-06-22,28.0,porterdonna@example.com,736866845909022,Georgia,Savannah,504,upper_middle,good,divorced,6,2022-03-05,45.0,standard
+CUST00426,Dan,Myers,M,1983-08-21,42.0,glopez@example.com,0019742121820,Pennsylvania,Erie,249,,very_good,single,2,2022-03-13,45.0,premium
+CUST00427,Cristian,Pruitt,M,1973-07-11,52.0,jamie48@example.org,8059802566212,Texas,Dallas,979,lower_middle,poor,married,4,2025-08-14,4.0,standard
+CUST00428,Andrea,Friedman,F,2006-03-06,19.0,davidharris@example.com,0012724994938743,Georgia,Athens,589,high,poor,married,4,2025-03-07,9.0,budget
+CUST00429,Austin,Ross,M,2002-03-22,23.0,aliciakent@example.com,8795014754692,Pennsylvania,Pittsburgh,240,upper_middle,good,married,2,2025-10-22,2.0,standard
+CUST00430,Stephanie,Quinn,F,1978-06-03,47.0,lbartlett@example.net,0013165032484,Georgia,Augusta,651,upper_middle,good,single,4,2024-06-28,18.0,standard
+CUST00431,Jason,Gill,M,1955-07-08,70.0,charles18@example.com,572843807017656,Pennsylvania,Pittsburgh,54,lower_middle,fair,married,1,2024-12-20,12.0,premium
+CUST00432,Alexandra,Wilson,F,1956-07-21,69.0,ellen77@example.com,4182372742,Arizona,Mesa,800,lower_middle,fair,single,4,2025-08-23,4.0,standard
+CUST00433,Ashlee,Phillips,F,1983-08-25,42.0,qjackson@example.org,1842675230837081,New York,New York,586,middle,very_good,single,2,2022-02-23,46.0,premium
+CUST00434,Anthony,Smith,M,1999-10-30,26.0,pwang@example.com,3315060053,North Carolina,Greensboro,131,high,very_good,single,2,2025-02-24,10.0,standard
+CUST00435,Robert,Rivas,M,1958-09-09,67.0,bradleyhunt@example.com,483293866133155,Illinois,Aurora,532,upper_middle,poor,single,1,2024-07-02,17.0,premium
+CUST00436,Matthew,Smith,M,1961-09-29,64.0,qrobinson@example.com,149560136497189,Pennsylvania,Allentown,129,upper_middle,fair,married,2,2024-10-02,14.0,standard
+CUST00437,Kyle,Jarvis,M,1994-08-26,31.0,xgregory@example.net,9528571509,Texas,Dallas,674,lower_middle,fair,single,3,2022-06-01,42.0,standard
+CUST00438,Margaret,Hall,F,1987-03-30,38.0,hallchristina@example.org,83653910257432,Florida,Jacksonville,846,high,excellent,married,3,2022-06-29,42.0,premium
+CUST00439,Amanda,Mclean,F,1987-12-19,38.0,vstevenson@example.org,2505864035533,Georgia,Atlanta,905,lower_middle,excellent,married,1,2025-01-31,11.0,standard
+CUST00440,Melissa,Walker,F,2006-08-27,19.0,lboyd@example.com,150157130232129,Illinois,Springfield,670,middle,good,divorced,2,2025-07-30,5.0,standard
+CUST00441,Blake,Hardy,M,1968-06-17,57.0,jennifersanchez@example.org,18344497347156,Georgia,Savannah,621,high,fair,single,4,2022-09-06,39.0,budget
+CUST00442,Jeremy,Wagner,M,1997-04-11,28.0,ywolf@example.com,4666149828,Florida,Orlando,503,high,good,divorced,5,2024-10-08,14.0,standard
+CUST00443,John,Chavez,M,1972-10-17,53.0,,83293008576665,Georgia,Augusta,408,upper_middle,very_good,single,4,2024-08-15,16.0,high_value
+CUST00444,Martin,Chapman,M,1975-01-31,50.0,riddledavid@example.net,8368458750,Pennsylvania,Philadelphia,969,lower_middle,very_good,single,1,2022-05-15,43.0,premium
+CUST00445,Danielle,Woods,F,2002-08-07,23.0,crystal02@example.com,18723439920116,Arizona,Tempe,684,upper_middle,good,single,1,2024-12-12,12.0,budget
+CUST00446,Susan,Liu,F,1958-07-20,67.0,tking@example.net,4696461195,Arizona,Phoenix,986,,good,married,2,2022-09-14,39.0,standard
+CUST00447,Christine,Goodman,F,1994-10-31,31.0,adam27@example.org,7164864622,Texas,San Antonio,927,upper_middle,poor,divorced,3,2024-08-12,16.0,premium
+CUST00448,Brandy,Tucker,F,1981-06-20,44.0,,4023346791,Florida,Orlando,389,middle,excellent,single,1,2022-09-22,39.0,budget
+CUST00449,Angelica,Martinez,F,1951-08-22,74.0,anthony37@example.com,1610904090138069,Ohio,Columbus,625,upper_middle,poor,married,4,2022-09-12,39.0,high_value
+CUST00450,Peter,Munoz,M,1970-03-03,55.0,evelyn55@example.org,2663905510762,Illinois,Springfield,700,middle,poor,married,1,2022-11-28,37.0,standard
+CUST00451,Diana,Lyons,F,2002-09-24,23.0,miguelmontgomery@example.net,98683050505739,New York,Albany,973,low,excellent,married,5,2024-11-28,13.0,premium
+CUST00452,Lisa,Miller,F,1976-05-20,49.0,shatfield@example.org,00166499328980271,Texas,Austin,225,middle,good,married,2,2023-02-07,34.0,standard
+CUST00453,Stephanie,Friedman,F,1980-01-29,45.0,johnjackson@example.net,0013114602564347,Florida,Tampa,705,upper_middle,good,divorced,3,2025-06-12,6.0,standard
+CUST00454,Mark,Vasquez,M,2001-05-27,24.0,monica99@example.org,135676863341411,Ohio,Cleveland,975,middle,good,married,2,2025-04-27,8.0,budget
+CUST00455,Kevin,Lopez,M,1955-03-02,70.0,,00150430983665528,Florida,Tampa,523,low,good,married,5,2025-02-28,10.0,standard
+CUST00456,Adam,Phelps,M,1968-10-06,57.0,lisaphillips@example.org,97259420954814,California,Los Angeles,653,middle,very_good,married,1,2022-04-04,44.0,standard
+CUST00457,Dorothy,Levy,F,1951-04-08,74.0,eric33@example.net,00170287642086567,New York,Rochester,517,lower_middle,good,married,1,2025-06-19,6.0,budget
+CUST00458,Benjamin,Acosta,M,1966-06-25,59.0,jacquelinekelley@example.org,9599047292,North Carolina,Durham,386,lower_middle,excellent,single,1,2025-08-07,4.0,standard
+CUST00459,Stephanie,Clark,F,2002-01-01,23.0,jillsmith@example.net,0019124662015,North Carolina,Raleigh,73,middle,good,single,1,2024-04-11,20.0,standard
+CUST00460,Autumn,Robertson,F,1970-04-20,55.0,obooker@example.net,83061367492617,North Carolina,Charlotte,833,low,fair,single,2,2022-05-03,43.0,budget
+CUST00461,Matthew,Richardson,M,1955-06-07,70.0,millertracy@example.net,630499974192676,North Carolina,Greensboro,135,upper_middle,good,married,5,2024-09-18,15.0,standard
+CUST00462,Erika,Reeves,F,2005-12-09,20.0,richardhaynes@example.com,5883718981,New York,Albany,241,middle,poor,married,2,2025-05-27,7.0,budget
+CUST00463,Scott,Neal,M,1947-08-18,78.0,hmcbride@example.org,3936218401,Georgia,Augusta,481,middle,excellent,married,6,2023-12-09,24.0,premium
+CUST00464,Tracy,Jackson,F,1992-01-20,33.0,wrightbrandon@example.net,38722975859883,Florida,Tampa,315,low,fair,single,2,2024-11-20,13.0,standard
+CUST00465,Andrew,Thomas,M,2005-07-10,20.0,susanguzman@example.org,0016548296184,Georgia,Savannah,856,high,very_good,married,4,2024-08-13,16.0,standard
+CUST00466,Steven,Ross,M,1952-12-06,73.0,erica28@example.org,4437598926,Illinois,Naperville,573,high,very_good,single,1,2023-05-23,31.0,standard
+CUST00467,James,Maynard,M,1964-02-09,61.0,nelsonamanda@example.net,5616515542,Texas,Houston,17,lower_middle,poor,married,1,2023-08-18,28.0,standard
+CUST00468,Annette,Petty,F,1962-05-22,63.0,ylynn@example.org,6846971859,Pennsylvania,Erie,801,middle,good,single,2,2023-05-24,31.0,budget
+CUST00469,Brett,Williams,M,1968-11-26,57.0,zwhite@example.net,1888696792408222,Georgia,Augusta,74,upper_middle,poor,single,5,2023-01-24,35.0,standard
+CUST00470,Thomas,Fowler,M,1972-06-15,53.0,erikabarnes@example.com,5756784468,North Carolina,Greensboro,838,middle,very_good,single,1,2024-10-18,14.0,standard
+CUST00471,Shannon,Meza,F,1974-12-05,51.0,megan11@example.net,2128901487,North Carolina,Charlotte,892,middle,excellent,married,4,2022-07-04,41.0,premium
+CUST00472,Katie,Cross,F,1979-11-27,46.0,rrobertson@example.net,0012169093068538,Ohio,Toledo,225,low,excellent,single,1,2023-05-09,31.0,standard
+CUST00473,Michael,Macias,M,1982-11-22,43.0,gregoryrichardson@example.org,650967625153814,Pennsylvania,Allentown,389,low,good,single,3,2022-04-10,44.0,standard
+CUST00474,Dennis,Smith,M,1990-03-20,35.0,trobinson@example.net,207797050975451,Illinois,Naperville,951,low,fair,married,4,2025-05-08,7.0,standard
+CUST00475,Charlotte,Gomez,F,1954-02-28,71.0,fvasquez@example.net,826417024376545,Illinois,Chicago,708,middle,very_good,married,3,2022-08-09,40.0,standard
+CUST00476,Robin,Rodriguez,F,1977-02-09,48.0,wmartin@example.net,505931340266502,Florida,Tampa,876,lower_middle,good,married,4,2024-01-20,23.0,standard
+CUST00477,Victoria,Wilson,F,1980-07-18,45.0,,268762110225803,Georgia,Atlanta,568,upper_middle,very_good,divorced,2,2024-03-31,21.0,standard
+CUST00478,William,Mclaughlin,M,1976-10-27,49.0,froberts@example.org,001963392823414363,Pennsylvania,Pittsburgh,924,middle,good,married,3,2024-01-13,23.0,premium
+CUST00479,Monica,Carr,F,1960-02-08,65.0,jeromeanderson@example.org,6325609310668,Texas,San Antonio,295,middle,fair,married,5,2024-10-29,14.0,budget
+CUST00480,Gabriella,Mendoza,F,1981-12-17,44.0,tschneider@example.org,7545563502000,Ohio,Cincinnati,378,lower_middle,fair,single,3,2025-06-30,6.0,standard
+CUST00481,John,Kerr,M,1954-02-14,71.0,flopez@example.com,541610825559895,Florida,Miami,280,,poor,single,3,2024-03-17,21.0,standard
+CUST00482,Lauren,Miller,F,1954-07-03,71.0,,0016339711895,Georgia,Augusta,269,middle,good,single,2,2022-10-23,38.0,high_value
+CUST00483,Joseph,Hernandez,M,1955-12-19,70.0,robertdawson@example.net,6574161768802,Pennsylvania,Erie,384,upper_middle,fair,married,2,2024-10-21,14.0,budget
+CUST00484,Angel,Knight,M,2001-04-28,24.0,,8816278686,California,Los Angeles,276,high,good,single,2,2022-10-08,38.0,budget
+CUST00485,Cathy,Moore,F,1962-02-01,63.0,suarezkrystal@example.com,684243448123083,North Carolina,Greensboro,843,lower_middle,poor,married,2,2022-11-02,37.0,standard
+CUST00486,Charles,Stephenson,M,1956-04-25,69.0,,6104595518,Georgia,Augusta,540,high,fair,divorced,5,2022-11-29,37.0,standard
+CUST00487,Stephanie,Phillips,F,1951-03-01,74.0,hollowayjeffrey@example.com,5409891649,Pennsylvania,Allentown,294,middle,very_good,widowed,6,2025-04-30,8.0,standard
+CUST00488,Erika,Harris,F,1990-02-14,35.0,omoore@example.net,00196542717272239,Ohio,Toledo,853,middle,good,single,1,2025-02-26,10.0,standard
+CUST00489,Diane,Collins,F,2007-07-05,18.0,lisamcdaniel@example.org,4212637618,North Carolina,Charlotte,795,middle,good,married,2,2024-01-25,23.0,premium
+CUST00490,Ariel,Cruz,F,1954-10-02,71.0,hinesdeanna@example.org,7313429001,Texas,San Antonio,270,lower_middle,fair,single,2,2025-04-10,8.0,budget
+CUST00491,Brenda,Malone,F,2007-12-29,18.0,,32380848100184,California,San Jose,190,lower_middle,excellent,married,3,2023-06-28,30.0,standard
+CUST00492,Aaron,Walker,M,1962-09-10,63.0,wcruz@example.net,73631721314519,California,San Jose,477,low,good,married,2,2022-12-16,36.0,standard
+CUST00493,Tammy,Gillespie,F,2008-03-17,,munozgregory@example.net,392262494514754,Florida,Orlando,199,high,excellent,married,3,2022-03-06,45.0,standard
+CUST00494,Richard,Thomas,M,1957-04-28,68.0,ygriffin@example.com,4198642152,New York,Newyork,467,lower_middle,good,single,3,2024-06-22,18.0,standard
+CUST00495,Emma,Coleman,F,1994-06-15,31.0,oguzman@example.com,5368687887,Arizona,Tucson,114,lower_middle,excellent,divorced,3,2024-04-25,20.0,premium
+CUST00496,Kevin,Fisher,M,1986-08-04,39.0,jacquelineyoung@example.org,7054872105,Arizona,Tempe,391,upper_middle,fair,married,4,2022-05-08,43.0,budget
+CUST00497,Joe,Conley,M,1984-10-17,41.0,osanchez@example.org,00142122606501917,Ohio,Cleveland,197,lower_middle,excellent,divorced,2,2025-02-22,10.0,budget
+CUST00498,Holly,Miller,F,1952-07-05,73.0,carrolllisa@example.org,001227228476570412,North Carolina,Greensboro,796,high,good,divorced,2,2023-10-05,26.0,standard
+CUST00499,Paul,Gordon,M,1948-01-03,77.0,rwall@example.com,3498843624,North Carolina,Durham,169,lower_middle,fair,married,2,2025-01-23,11.0,standard
+CUST00500,Natalie,Morales,F,1951-01-28,74.0,philipcarson@example.net,16173756620563,Illinois,Naperville,141,middle,good,divorced,2,2023-01-29,35.0,high_value
+CUST00501,Blake,Morrison,M,2004-11-16,21.0,anthony42@example.net,2135904383,Illinois,Aurora,357,upper_middle,very_good,married,1,2023-04-06,32.0,high_value
+CUST00502,Angela,Hudson,F,1950-04-27,75.0,uwilliams@example.org,80534683565215,Illinois,Springfield,663,low,very_good,married,5,2024-09-28,15.0,premium
+CUST00503,Rhonda,Hernandez,F,1987-03-23,38.0,cwoods@example.com,7279113322,North Carolina,Durham,176,low,excellent,married,3,2025-02-21,10.0,standard
+CUST00504,Gina,Ward,F,2005-07-06,20.0,twilliams@example.net,33399912971024,Illinois,Chicago,128,high,poor,married,4,2025-03-20,9.0,standard
+CUST00505,Jordan,Jackson,F,1967-05-20,58.0,carlosray@example.com,3129747472,Arizona,Mesa,56,upper_middle,fair,single,4,2022-10-27,38.0,standard
+CUST00506,Heidi,Mitchell,F,1975-02-06,50.0,scotthunt@example.net,351668740903802,California,Sacramento,497,lower_middle,fair,divorced,6,2022-06-11,42.0,budget
+CUST00507,Brooke,Ross,F,1952-03-25,73.0,paulford@example.org,8777871121663,North Carolina,Durham,89,upper_middle,very_good,single,4,2024-09-08,15.0,budget
+CUST00508,Evan,Davies,M,1980-05-10,45.0,jacquelinealvarez@example.com,2087272359096,New York,Albany,568,upper_middle,very_good,single,4,2025-02-25,10.0,premium
+CUST00509,Veronica,Lewis,F,1961-08-28,64.0,cisnerosgabriela@example.com,5216214614768,Florida,Miami,246,middle,very_good,married,1,2025-06-14,6.0,standard
+CUST00510,Ronald,Davis,M,1976-06-05,49.0,tabitha42@example.org,5673782659608,New York,New York,952,middle,poor,single,1,2025-10-03,2.0,standard
+CUST00511,Michael,Jensen,M,1969-04-18,56.0,alexis72@example.com,816448072791033,New York,New York,792,lower_middle,fair,married,1,2022-07-25,41.0,high_value
+CUST00512,Jamie,Bailey,F,1960-04-10,65.0,woodmichael@example.com,38147766558685,Georgia,Athens,606,high,good,single,2,2022-07-25,41.0,budget
+CUST00513,Jeffrey,Thompson,M,1987-10-01,38.0,amyjames@example.net,0019643911110961,California,San Diego,835,,very_good,single,2,2024-04-13,20.0,budget
+CUST00514,Jill,Perkins,F,1949-06-27,76.0,melissa33@example.com,8612371576,North Carolina,Raleigh,496,lower_middle,fair,single,5,2023-08-12,28.0,premium
+CUST00515,Rachael,Romero,F,1965-06-23,60.0,kyle63@example.org,800502589552963,Illinois,Chicago,812,middle,excellent,single,1,2022-07-03,41.0,standard
+CUST00516,Matthew,Poole,M,2001-10-18,24.0,oanderson@example.com,00182665826312819,Ohio,Columbus,729,middle,excellent,married,3,2022-12-25,36.0,standard
+CUST00517,Caitlin,Morris,F,1953-08-11,72.0,johnsonalexander@example.net,9097819602,Florida,Miami,249,low,excellent,married,3,2024-03-24,21.0,standard
+CUST00518,Cynthia,Hurst,F,1967-06-22,58.0,amandasanchez@example.com,001440641209117911,Florida,Tampa,348,middle,poor,married,4,2022-03-18,45.0,budget
+CUST00519,Steven,Davis,M,1980-11-24,45.0,roberta36@example.org,60621713665722,Illinois,Chicago,239,upper_middle,very_good,married,1,2023-11-18,25.0,standard
+CUST00520,Mary,Welch,F,2005-06-08,20.0,wilsonmatthew@example.com,29948028413908,North Carolina,Greensboro,288,upper_middle,fair,married,1,2022-10-02,38.0,standard
+CUST00521,Sharon,Wilson,F,1962-01-11,63.0,murphyjeffrey@example.net,0018248473158477,Illinois,Springfield,258,middle,poor,married,1,2022-08-19,40.0,standard
+CUST00522,Danielle,Gonzalez,F,2004-11-02,21.0,suzanne19@example.net,82387676945919,Florida,Jacksonville,266,middle,poor,single,1,2025-08-20,4.0,premium
+CUST00523,Latoya,Brooks,F,1990-04-27,35.0,colepamela@example.net,8964498560125,Florida,Miami,473,upper_middle,poor,single,2,2023-11-22,25.0,premium
+CUST00524,Danielle,Lewis,F,1972-07-22,53.0,dustin51@example.org,505337953816493,Pennsylvania,Pittsburgh,740,low,good,single,2,2022-12-26,36.0,premium
+CUST00525,Diana,Franklin,F,2007-05-19,18.0,berrydebbie@example.net,001965453307704611,Arizona,Mesa,793,upper_middle,excellent,married,2,2022-06-27,42.0,premium
+CUST00526,Erin,Reyes,F,1986-06-28,39.0,mitchelldawn@example.net,7742260880,Texas,Dallas,96,high,poor,married,2,2022-10-15,38.0,standard
+CUST00527,Julie,Gallegos,F,1975-07-06,50.0,joshua56@example.org,3577906477,Georgia,Savannah,815,middle,very_good,single,4,2022-01-14,47.0,budget
+CUST00528,Ashley,Walker,F,2003-06-09,22.0,taylorvictoria@example.net,00126362135800401,Arizona,Tucson,103,middle,excellent,married,4,2024-07-03,17.0,high_value
+CUST00529,Deborah,Watts,F,2001-02-19,24.0,knelson@example.org,0013715252967,Georgia,Augusta,762,lower_middle,fair,married,1,2025-04-07,8.0,standard
+CUST00530,John,Henry,M,1966-05-10,59.0,kendra73@example.org,2415583311703,Illinois,Aurora,618,lower_middle,excellent,married,2,2023-04-29,32.0,standard
+CUST00531,Robert,Lopez,M,1954-05-19,71.0,jason98@example.net,847528123567983,Texas,San Antonio,94,lower_middle,good,single,4,2023-09-21,27.0,budget
+CUST00532,Donald,Martin,M,1968-03-02,57.0,thomasnancy@example.net,9307724078,Arizona,Mesa,353,middle,very_good,divorced,3,2022-08-29,40.0,budget
+CUST00533,Bailey,Pierce,F,1971-05-21,54.0,zlewis@example.net,885407451066343,Georgia,Savannah,783,middle,excellent,single,3,2023-03-25,33.0,standard
+CUST00534,Donald,Lawson,M,1982-07-23,43.0,drodriguez@example.net,3133100943,North Carolina,Raleigh,366,lower_middle,fair,married,2,2024-07-20,17.0,premium
+CUST00535,Courtney,Oliver,F,1995-12-23,30.0,gmyers@example.org,00194763235494012,Arizona,Tempe,906,middle,good,married,5,2025-01-05,11.0,budget
+CUST00536,David,Edwards,M,1951-12-29,74.0,jacobyoder@example.org,2767502412,New York,New York,626,lower_middle,good,single,2,2024-12-12,12.0,budget
+CUST00537,Lauren,Freeman,F,1964-02-09,61.0,brodriguez@example.net,1643988221145775,Ohio,Cincinnati,337,lower_middle,very_good,single,2,2022-06-09,42.0,standard
+CUST00538,Jackson,Smith,M,1971-04-06,54.0,jennifer89@example.com,9482026325,California,San Diego,325,low,fair,single,2,2025-03-18,9.0,standard
+CUST00539,Kenneth,Dominguez,M,1976-07-29,49.0,jamie13@example.com,161468782455696,Florida,Tampa,254,middle,good,single,6,2024-12-01,12.0,standard
+CUST00540,Amanda,Meyer,F,1970-08-17,55.0,hamiltonspencer@example.com,91067272849824,Texas,Dallas,89,middle,very_good,single,4,2025-04-09,8.0,premium
+CUST00541,Rebecca,Smith,F,1950-01-19,75.0,justinwatkins@example.org,44036500425488,Texas,San Antonio,939,middle,excellent,single,4,2022-04-24,44.0,budget
+CUST00542,Debra,Ferrell,F,1960-08-26,65.0,frichards@example.com,6076536661,Florida,Jacksonville,787,upper_middle,fair,single,2,2024-07-24,17.0,budget
+CUST00543,Eric,Elliott,M,1993-06-19,32.0,linda23@example.com,9684344149,Ohio,Toledo,497,,good,single,1,2025-10-09,2.0,standard
+CUST00544,Rachel,Bass,F,1953-10-20,72.0,alishabenson@example.net,1457656766708061,California,San Jose,323,lower_middle,very_good,widowed,1,2023-06-06,30.0,premium
+CUST00545,Kevin,Watson,M,1989-07-08,36.0,brian62@example.com,1907787010415914,New York,New York,84,high,very_good,married,2,2022-04-03,44.0,standard
+CUST00546,Barbara,Richards,F,1982-01-10,43.0,mileszachary@example.net,00127243244079311,Georgia,Atlanta,796,lower_middle,poor,single,2,2025-01-13,11.0,budget
+CUST00547,Spencer,Meyer,M,1964-02-02,61.0,dalejohnson@example.net,9603146723849,Texas,San Antonio,571,upper_middle,good,single,5,2022-03-06,45.0,high_value
+CUST00548,Brianna,Smith,F,1956-11-27,69.0,georgeharmon@example.net,6778441975,Arizona,Tucson,510,upper_middle,excellent,married,1,2022-10-05,38.0,high_value
+CUST00549,Melissa,Rodriguez,F,1975-08-21,50.0,shernandez@example.com,2967094097,Georgia,Athens,187,lower_middle,fair,single,3,2024-07-07,17.0,budget
+CUST00550,Julie,Sharp,F,1966-02-09,59.0,holdenmichael@example.net,7589681225,Arizona,Phoenix,942,upper_middle,good,single,3,2025-10-30,2.0,premium
+CUST00551,Scott,Taylor,M,2000-09-06,25.0,sandra17@example.com,89239884259959,Georgia,Atlanta,63,middle,very_good,single,5,2023-01-01,35.0,standard
+CUST00552,Alyssa,Quinn,F,1963-01-13,62.0,ortegavictor@example.net,25333126610941,Ohio,Cleveland,583,lower_middle,good,divorced,1,2023-04-02,32.0,premium
+CUST00553,Phillip,Obrien,M,2004-06-22,21.0,mcleanmanuel@example.net,5624983347743,California,Sacramento,573,,poor,married,1,2024-08-06,16.0,standard
+CUST00554,Robin,Stokes,F,1960-05-08,65.0,perkinscrystal@example.net,3307205698,Ohio,Toledo,247,high,good,single,3,2023-04-16,32.0,standard
+CUST00555,Michael,Rosario,M,1996-10-28,29.0,nlee@example.net,38545982176619,North Carolina,Durham,682,low,fair,married,3,2022-11-14,37.0,standard
+CUST00556,Elizabeth,Wilson,F,1962-12-15,63.0,guzmanmark@example.org,64685124189389,New York,New York,815,middle,poor,single,1,2022-03-07,45.0,standard
+CUST00557,Amy,Terry,F,1954-10-23,71.0,qgiles@example.net,5057643502,Pennsylvania,Philadelphia,997,low,very_good,widowed,4,2023-05-08,31.0,premium
+CUST00558,Matthew,Johns,M,1963-04-20,62.0,kjones@example.net,0012053169918724,Texas,Houston,51,lower_middle,excellent,single,6,2025-05-01,7.0,high_value
+CUST00559,Jonathan,Perez,M,1971-02-06,54.0,ywoods@example.org,9002389608,North Carolina,Charlotte,512,upper_middle,excellent,married,2,2023-05-17,31.0,standard
+CUST00560,Ralph,Dominguez,M,1976-07-04,49.0,hdunn@example.com,5953535603,Arizona,Tempe,776,middle,poor,married,1,2023-04-25,32.0,high_value
+CUST00561,Adam,Gutierrez,M,1998-06-24,27.0,ritteralexis@example.net,7017027240,California,San Diego,794,upper_middle,excellent,divorced,3,2024-10-28,14.0,high_value
+CUST00562,Mary,Sanchez,F,1967-03-01,58.0,catherinemendoza@example.org,1511648375374584,New York,Albany,422,high,very_good,single,4,2025-03-28,9.0,standard
+CUST00563,Melissa,Gordon,F,1950-12-10,75.0,rachel97@example.com,7324834831,New York,Albany,52,lower_middle,very_good,married,3,2022-10-21,38.0,budget
+CUST00564,William,Hale,M,1991-06-29,34.0,bbenton@example.com,8449964104,Arizona,Mesa,29,,good,single,2,2023-07-18,29.0,budget
+CUST00565,Scott,Cruz,M,1950-04-15,75.0,jamielopez@example.com,6045085095,Ohio,Cleveland,997,high,fair,married,2,2025-07-06,5.0,budget
+CUST00566,Alyssa,Swanson,F,1989-07-24,36.0,yglenn@example.net,00140188648769984,Ohio,Toledo,617,,very_good,single,1,2022-04-07,44.0,standard
+CUST00567,Nichole,Middleton,F,1956-03-28,69.0,campbellfelicia@example.com,6387459609,Arizona,Mesa,357,middle,very_good,single,2,2024-05-02,19.0,standard
+CUST00568,Mary,Patton,F,2002-05-28,23.0,martinezashley@example.com,5278707070578,Florida,Tampa,81,high,excellent,single,2,2024-02-10,22.0,premium
+CUST00569,Kevin,Miller,M,1988-10-18,37.0,stephanie72@example.com,001944772322903102,Ohio,Toledo,60,middle,very_good,divorced,3,2023-05-09,31.0,high_value
+CUST00570,Juan,Perez,M,1995-11-22,30.0,theresa05@example.net,0015095351187181,Illinois,Springfield,432,lower_middle,very_good,single,2,2024-08-06,16.0,standard
+CUST00571,Kelly,Calderon,M,1993-08-10,32.0,bjones@example.com,6052955657,Ohio,Toledo,215,middle,fair,single,1,2024-05-03,19.0,premium
+CUST00572,Jacob,Carter,M,1957-06-23,68.0,rodriguezjason@example.com,889353690261139,Arizona,Tucson,696,middle,fair,single,1,2023-06-07,30.0,budget
+CUST00573,Robert,Lawson,M,1992-02-15,33.0,mstewart@example.net,33573537513765,Georgia,Atlanta,739,upper_middle,good,divorced,2,2024-07-10,17.0,standard
+CUST00574,Kathy,Melendez,F,1991-09-22,34.0,cjacobs@example.com,6926836929,Texas,Dallas,452,middle,good,married,2,2022-04-16,44.0,standard
+CUST00575,Emily,Miller,F,1975-12-01,50.0,barbarachen@example.org,3704216487,Arizona,Phoenix,49,high,excellent,divorced,4,2022-05-30,43.0,standard
+CUST00576,Roy,Johnson,M,1958-08-17,67.0,,252368341559991,Pennsylvania,Pittsburgh,973,middle,good,single,1,2024-09-08,15.0,standard
+CUST00577,Thomas,Dodson,M,1975-02-02,50.0,byang@example.com,001772929812099576,Georgia,Augusta,236,lower_middle,very_good,single,1,2022-02-01,46.0,budget
+CUST00578,Jordan,Chapman,M,1999-11-14,26.0,halltrevor@example.org,0017884986456,New York,New York,192,high,good,single,4,2024-09-07,15.0,premium
+CUST00579,Andrew,Landry,M,2007-04-24,18.0,russellramirez@example.net,315542144773244,Pennsylvania,Pittsburgh,878,lower_middle,very_good,married,1,2024-03-23,21.0,standard
+CUST00580,Donald,Davis,M,1984-11-03,41.0,anthonyorr@example.net,8309705349,Ohio,Cincinnati,687,,good,single,1,2023-08-03,28.0,standard
+CUST00581,Beth,Chavez,F,1954-09-22,71.0,wallaceryan@example.com,4247151315,North Carolina,Durham,366,low,very_good,single,3,2023-09-24,27.0,standard
+CUST00582,Jody,Moss,F,1992-12-31,32.0,mannleroy@example.org,618953800329633,Georgia,Athens,203,low,excellent,single,2,2024-08-12,16.0,standard
+CUST00583,John,Lopez,M,1981-01-25,44.0,david18@example.net,00183056178932064,North Carolina,Durham,840,lower_middle,poor,married,1,2023-02-21,34.0,high_value
+CUST00584,Hannah,Moreno,F,1959-07-09,66.0,mary47@example.com,176955874131467,Georgia,Athens,873,middle,very_good,married,2,2022-04-04,44.0,standard
+CUST00585,Jeffery,Thompson,M,1968-12-19,57.0,baileyraymond@example.org,001777696304483608,Florida,Miami,889,lower_middle,very_good,married,2,2023-06-19,30.0,budget
+CUST00586,Emily,Myers,F,1977-05-04,48.0,dross@example.com,73540476392831,Illinois,Springfield,797,high,very_good,widowed,2,2023-02-06,34.0,premium
+CUST00587,Kimberly,Clements,F,1948-09-13,77.0,tdavis@example.com,5816083583286,New York,Rochester,216,middle,very_good,single,4,2025-03-12,9.0,standard
+CUST00588,Thomas,Rivera,M,1961-12-09,64.0,shelbyjohnson@example.org,001681386702440330,North Carolina,Durham,500,,very_good,married,1,2023-06-12,30.0,high_value
+CUST00589,Mary,Anderson,F,1997-08-28,28.0,michelle11@example.net,00176080892196394,North Carolina,Greensboro,676,lower_middle,good,single,4,2022-12-11,36.0,premium
+CUST00590,Natalie,Turner,F,1978-06-30,47.0,,56486136847488,Florida,Orlando,27,low,good,married,5,2025-01-24,11.0,standard
+CUST00591,Wendy,Luna,F,1972-08-18,53.0,chavezbecky@example.org,43755791452118,Florida,Miami,647,upper_middle,very_good,married,5,2024-12-09,12.0,standard
+CUST00592,Kevin,Miller,M,1974-09-14,51.0,kmills@example.org,8742645205,Texas,Houston,356,upper_middle,very_good,divorced,4,2022-01-14,47.0,standard
+CUST00593,Melissa,Fischer,F,2001-05-06,24.0,ugardner@example.net,3578788116,Florida,Orlando,171,lower_middle,good,single,4,2022-05-20,43.0,high_value
+CUST00594,Peter,Martin,M,1998-03-06,27.0,martinsamuel@example.org,8672287286,California,San Diego,393,upper_middle,very_good,married,2,2024-11-01,13.0,high_value
+CUST00595,Autumn,Forbes,F,1996-04-04,29.0,alexandra95@example.net,152274839589477,Georgia,Atlanta,983,middle,fair,married,2,2025-06-19,6.0,premium
+CUST00596,Michelle,Phelps,F,1956-06-22,69.0,alicecalderon@example.org,362227104331875,North Carolina,Charlotte,824,low,very_good,single,6,2022-01-14,47.0,premium
+CUST00597,Julie,Moore,F,1971-02-11,54.0,,3464945964883,California,Los Angeles,139,middle,fair,married,3,2024-12-20,12.0,premium
+CUST00598,Monica,Ramirez,F,1965-02-27,60.0,martinezalexa@example.net,001365499949732033,Ohio,Cincinnati,192,high,poor,married,5,2022-02-05,46.0,premium
+CUST00599,Carmen,Baxter,F,1969-04-08,56.0,huangbrett@example.net,9677548138666,Florida,Miami,413,,very_good,married,1,2022-07-17,41.0,standard
+CUST00600,Ryan,Stewart,M,1952-08-02,73.0,stephaniedougherty@example.com,0012267877418652,New York,Buffalo,615,upper_middle,fair,single,5,2025-06-23,6.0,standard
+CUST00601,Patricia,Reed,F,1976-02-15,49.0,christinawalter@example.org,35270375830945,Georgia,Augusta,337,upper_middle,very_good,single,3,2024-03-23,21.0,standard
+CUST00602,Jonathan,Smith,M,1965-11-05,60.0,hollanddarlene@example.com,9444090797,Georgia,Athens,625,upper_middle,excellent,single,1,2024-07-29,17.0,standard
+CUST00603,Paul,Holland,M,1984-05-23,41.0,johnsonanthony@example.net,7223161070,New York,Albany,718,middle,good,single,3,2022-06-15,42.0,standard
+CUST00604,Donald,Phelps,M,1991-11-05,34.0,cookemily@example.com,0014296580660138,Texas,San Antonio,115,lower_middle,very_good,single,4,2024-02-16,22.0,budget
+CUST00605,Carrie,Williams,F,1988-09-04,37.0,haleyortiz@example.net,00130434851579197,Ohio,Toledo,123,lower_middle,good,married,1,2022-04-25,44.0,standard
+CUST00606,Clayton,Miller,M,1968-11-14,57.0,wangkristina@example.org,165741343240642,Florida,Miami,745,middle,excellent,married,3,2024-10-20,14.0,standard
+CUST00607,Emily,Perez,F,1960-01-28,65.0,nicole24@example.com,0012748175955872,Georgia,Atlanta,209,lower_middle,good,married,2,2024-12-17,12.0,budget
+CUST00608,Joshua,Clark,M,1995-01-18,30.0,zreed@example.net,23538841834374,New York,Buffalo,682,lower_middle,good,widowed,2,2025-03-06,9.0,budget
+CUST00609,Mary,Lopez,F,1956-10-12,69.0,xwillis@example.net,49075150267551,Illinois,Chicago,406,lower_middle,excellent,single,4,2022-06-02,42.0,standard
+CUST00610,Carla,Payne,F,1998-06-11,27.0,gonzaleschristina@example.net,0019668734595,Ohio,Columbus,398,upper_middle,good,single,2,2023-01-03,35.0,standard
+CUST00611,Amanda,Hickman,F,1963-03-18,62.0,fisherkim@example.net,79022824983922,California,San Diego,123,lower_middle,good,single,3,2025-04-17,8.0,standard
+CUST00612,Eric,Cannon,M,2001-10-22,24.0,stephen27@example.org,1723224412336132,Arizona,Phoenix,630,high,good,single,5,2023-09-05,27.0,budget
+CUST00613,Christopher,Garcia,M,1984-09-06,41.0,ehale@example.net,87331625265469,Pennsylvania,Pittsburgh,459,,poor,married,3,2025-03-06,9.0,standard
+CUST00614,Katherine,Yang,F,1987-03-04,38.0,walkercharlotte@example.org,5552809961327,Ohio,Cincinnati,281,lower_middle,poor,divorced,3,2024-02-26,22.0,standard
+CUST00615,Eric,Davis,M,1973-05-27,52.0,ronaldmitchell@example.com,1870246226817151,Texas,Austin,215,upper_middle,very_good,single,3,2022-04-20,44.0,standard
+CUST00616,Francis,Andrews,M,1973-05-25,52.0,psmith@example.net,76034641978575,Arizona,Tucson,239,upper_middle,excellent,single,5,2022-06-05,42.0,budget
+CUST00617,Veronica,Schmidt,F,1973-05-12,52.0,hernandezmatthew@example.net,0016432897607,Pennsylvania,Erie,164,upper_middle,excellent,single,4,2023-10-31,26.0,standard
+CUST00618,Sean,Stevens,M,1950-09-03,75.0,johnny54@example.org,6422456075,Illinois,Naperville,785,upper_middle,good,single,2,2024-10-01,14.0,standard
+CUST00619,Brian,Dennis,M,1983-06-02,42.0,fwright@example.net,5229764579,Georgia,Athens,58,middle,excellent,single,1,2024-06-03,18.0,premium
+CUST00620,Billy,Watson,M,1957-04-02,68.0,reyestina@example.org,546260241613944,Pennsylvania,Erie,495,upper_middle,excellent,single,2,2022-06-25,42.0,budget
+CUST00621,Laura,Lewis,F,1976-12-31,48.0,,1609962440630624,New York,New York,790,low,very_good,divorced,2,2022-06-18,42.0,standard
+CUST00622,Rachel,Reid,F,1953-11-16,72.0,jeffreyfletcher@example.org,8949979695,Florida,Jacksonville,735,middle,very_good,single,3,2025-07-22,5.0,standard
+CUST00623,Adam,Peterson,M,1970-11-01,55.0,,9827646091,Arizona,Mesa,113,middle,fair,married,1,2024-01-09,23.0,budget
+CUST00624,Daniel,Mercer,M,1972-05-22,53.0,kelly57@example.net,6029992959660,Texas,Houston,312,upper_middle,very_good,single,1,2023-09-24,27.0,budget
+CUST00625,Jaime,Medina,F,1973-01-06,52.0,davisjeffery@example.org,0018426268653,Georgia,Augusta,423,lower_middle,fair,single,4,2022-07-29,41.0,standard
+CUST00626,Randy,Mccoy,M,1992-06-19,33.0,wayne86@example.org,47734722640857,Texas,Dallas,507,middle,very_good,single,4,2024-06-01,18.0,high_value
+CUST00627,Lauren,Barnes,F,1975-09-24,50.0,blopez@example.net,2297981996,Ohio,Toledo,804,upper_middle,very_good,divorced,1,2022-07-31,41.0,standard
+CUST00628,David,Hudson,M,1979-05-19,46.0,craneandrew@example.net,146868327532735,Texas,Austin,89,middle,very_good,married,1,2025-02-09,10.0,standard
+CUST00629,Steven,Clark,M,1978-08-25,47.0,msanchez@example.com,9273819523,Pennsylvania,Allentown,14,middle,excellent,married,2,2024-02-28,22.0,standard
+CUST00630,Paul,Fleming,M,1974-12-01,51.0,eatkins@example.com,7818980770460,Illinois,Naperville,944,lower_middle,excellent,married,2,2024-03-05,21.0,premium
+CUST00631,Timothy,Soto,M,1977-03-18,48.0,gcobb@example.org,3917256523734,Ohio,Cleveland,846,middle,fair,married,2,2025-03-17,9.0,standard
+CUST00632,Michael,Ellis,M,1995-07-09,30.0,wgoodwin@example.com,247557494902284,Arizona,Tucson,491,middle,excellent,single,2,2022-10-12,38.0,premium
+CUST00633,Kristy,Reeves,F,1968-02-19,57.0,ashleytorres@example.net,6424229464303,Illinois,Aurora,770,middle,poor,single,1,2024-10-06,14.0,standard
+CUST00634,Adam,Diaz,M,1981-11-16,44.0,kwoods@example.com,192988585672872,Texas,Dallas,23,middle,excellent,single,2,2024-06-09,18.0,premium
+CUST00635,Mary,Brown,F,1962-07-26,63.0,,001313757790833506,Arizona,Mesa,670,middle,fair,single,1,2024-09-18,15.0,budget
+CUST00636,Austin,Tran,M,1983-08-28,42.0,wallerbrian@example.net,333542337209484,Georgia,Augusta,966,lower_middle,very_good,divorced,3,2023-05-21,31.0,premium
+CUST00637,Sandra,Brown,F,1956-04-14,69.0,bruce33@example.net,001997571805137171,Pennsylvania,Pittsburgh,135,low,good,single,2,2024-07-26,17.0,budget
+CUST00638,Joshua,Lewis,M,1980-06-03,45.0,ashley96@example.org,00177399970469472,Florida,Tampa,678,middle,good,single,4,2022-01-14,47.0,premium
+CUST00639,Diane,Brewer,F,1965-03-30,60.0,matthewbyrd@example.net,87162705877221,Georgia,Athens,128,lower_middle,excellent,divorced,2,2023-11-06,25.0,standard
+CUST00640,Tammy,Ramos,F,1990-09-03,35.0,jamesrodriguez@example.org,5484458714,Georgia,Athens,429,middle,excellent,divorced,2,2025-08-26,4.0,budget
+CUST00641,Christopher,Miranda,M,2000-09-27,25.0,melissabishop@example.org,787796434745245,Illinois,Aurora,594,middle,good,single,3,2025-05-20,7.0,premium
+CUST00642,Eric,Elliott,M,1999-03-02,26.0,zsmith@example.org,852774033445056,North Carolina,Durham,736,upper_middle,very_good,married,3,2022-12-30,36.0,standard
+CUST00643,Kristin,Gonzalez,F,1961-11-23,64.0,ggates@example.org,5256797067,Georgia,Augusta,800,lower_middle,very_good,single,1,2025-07-20,5.0,standard
+CUST00644,Laurie,Brown,F,1951-01-31,74.0,joshua57@example.com,6725156229,Pennsylvania,Pittsburgh,741,low,fair,single,4,2023-10-30,26.0,premium
+CUST00645,Anita,Sanchez,F,1986-03-29,39.0,angela40@example.org,001615657325737553,Illinois,Naperville,796,middle,fair,single,1,2024-01-18,23.0,budget
+CUST00646,Paul,Johnson,M,1955-05-18,70.0,zsimmons@example.com,7809850960,Pennsylvania,Pittsburgh,375,high,fair,single,1,2025-04-27,8.0,budget
+CUST00647,Kenneth,Walters,M,1997-03-30,28.0,cunninghamterri@example.org,8286197931,Ohio,Columbus,615,middle,good,single,2,2024-08-03,16.0,budget
+CUST00648,Jerry,Gilmore,M,1997-07-20,28.0,debrajones@example.net,0012578860694,North Carolina,Durham,29,,fair,divorced,3,2022-05-22,43.0,standard
+CUST00649,Alexa,Morris,F,1957-07-04,68.0,melissa95@example.net,2392592323421,North Carolina,Raleigh,171,middle,good,married,4,2025-07-21,5.0,standard
+CUST00650,Kimberly,Blevins,F,1969-07-20,56.0,sarah33@example.com,3648335027,New York,Albany,38,lower_middle,good,single,3,2025-09-10,3.0,premium
+CUST00651,Jeremy,Manning,M,1997-08-13,28.0,omargriffin@example.com,3364911289,Arizona,Tempe,996,middle,fair,married,2,2022-06-01,42.0,budget
+CUST00652,Christine,Shepard,F,1997-08-31,28.0,kara56@example.org,2182574817,Pennsylvania,Erie,503,low,very_good,single,5,2025-04-07,8.0,standard
+CUST00653,Regina,Ross,F,2005-08-14,20.0,,243416704502329,Ohio,Toledo,684,lower_middle,good,single,4,2025-01-18,11.0,budget
+CUST00654,Christopher,Neal,M,1999-02-20,26.0,brownleah@example.net,1445296262282251,Georgia,Atlanta,657,low,good,married,3,2022-08-12,40.0,standard
+CUST00655,Damon,Powell,M,1972-08-29,53.0,christy00@example.com,4704260869,Georgia,Savannah,136,lower_middle,poor,married,4,2025-08-18,4.0,standard
+CUST00656,Adrian,Prince,M,1953-07-14,72.0,,7687729047742,Pennsylvania,Erie,809,upper_middle,very_good,married,4,2023-11-11,25.0,standard
+CUST00657,Mary,Davis,F,1980-10-19,45.0,davidrobertson@example.org,6114649133,Texas,Houston,961,middle,fair,divorced,2,2022-07-21,41.0,premium
+CUST00658,Mary,Murphy,F,1978-09-18,47.0,kathleen25@example.com,4298060320203,New York,Buffalo,427,low,good,married,1,2024-07-01,17.0,premium
+CUST00659,Alexandra,Castillo,F,2005-08-18,20.0,jacob96@example.com,7797487148,Arizona,Tempe,249,low,excellent,single,6,2025-10-23,2.0,standard
+CUST00660,David,Roman,M,1980-06-06,45.0,qalvarado@example.com,001684415608213711,Georgia,Atlanta,460,low,very_good,single,4,2024-09-15,15.0,standard
+CUST00661,Eric,Graham,M,1952-11-29,73.0,raymondpugh@example.net,2237035892,Illinois,Naperville,712,middle,excellent,married,1,2022-06-25,42.0,standard
+CUST00662,David,Valentine,M,1983-05-23,42.0,nicholasgarcia@example.org,189392896340646,Florida,Tampa,618,lower_middle,good,single,2,2023-10-01,26.0,standard
+CUST00663,Erica,Griffith,F,1967-09-06,58.0,jonesjeanette@example.net,43989106227236,North Carolina,Raleigh,517,upper_middle,very_good,married,1,2024-12-03,12.0,budget
+CUST00664,Leslie,Wright,F,1971-02-10,54.0,perezstacy@example.org,31992372450184,Georgia,Athens,309,middle,good,single,4,2022-07-19,41.0,premium
+CUST00665,Mary,Evans,F,1955-10-06,70.0,whernandez@example.net,340364176927438,North Carolina,Durham,964,middle,poor,married,4,2022-05-18,43.0,standard
+CUST00666,Lindsey,George,F,1971-12-09,54.0,mollyortega@example.net,360914448564510,California,Los Angeles,323,upper_middle,very_good,married,3,2022-02-16,46.0,budget
+CUST00667,Laurie,Walker,F,1976-10-13,49.0,dalton78@example.net,0013693860919,Texas,Dallas,158,middle,very_good,single,5,2023-05-15,31.0,budget
+CUST00668,Vincent,Allen,M,1986-09-29,39.0,tochoa@example.net,2575798066,Ohio,Cleveland,748,upper_middle,excellent,married,3,2023-11-09,25.0,standard
+CUST00669,Catherine,Mccoy,F,1969-08-26,56.0,,00147455553470574,North Carolina,Raleigh,737,upper_middle,good,married,2,2024-04-09,20.0,budget
+CUST00670,Randy,Kelley,M,1969-03-03,56.0,xmullins@example.org,91545983541165,Florida,Jacksonville,996,upper_middle,fair,single,2,2024-03-21,21.0,standard
+CUST00671,James,Baker,M,1995-05-28,30.0,,4228501394884,Pennsylvania,Pittsburgh,815,lower_middle,good,divorced,1,2024-07-09,17.0,standard
+CUST00672,Melissa,Gonzalez,F,1953-06-05,72.0,jphelps@example.net,285562614991537,Arizona,Phoenix,723,low,very_good,single,3,2023-03-16,33.0,premium
+CUST00673,Christopher,Haney,M,1949-01-22,76.0,,9379320430,Illinois,Chicago,548,upper_middle,fair,married,5,2025-03-28,9.0,standard
+CUST00674,Justin,Murillo,M,1960-05-07,65.0,hlopez@example.net,39644546553585,Ohio,Cleveland,426,middle,good,single,3,2024-01-20,23.0,budget
+CUST00675,Shannon,Andersen,F,1964-01-25,61.0,colinlowery@example.net,0012789519358374,New York,Rochester,816,lower_middle,good,single,4,2022-08-22,40.0,standard
+CUST00676,Jessica,Garza,F,1951-09-01,74.0,andrewwest@example.net,6572215149,North Carolina,Durham,940,upper_middle,very_good,single,3,2025-05-07,7.0,budget
+CUST00677,Linda,Jordan,F,1999-04-13,26.0,valerielewis@example.com,28475398628950,Pennsylvania,Erie,774,lower_middle,good,single,1,2025-04-17,8.0,standard
+CUST00678,Bryan,Madden,M,1989-01-14,36.0,morenojessica@example.net,3393220715,Georgia,Augusta,533,upper_middle,fair,married,3,2024-07-26,17.0,budget
+CUST00679,Kenneth,Rush,M,1973-08-19,52.0,ejames@example.org,521745264712463,Illinois,Chicago,853,lower_middle,excellent,divorced,5,2025-10-08,2.0,standard
+CUST00680,Mark,Morgan,M,1998-06-05,27.0,warrenandrew@example.net,2807512080,Georgia,Atlanta,509,high,very_good,married,3,2023-05-04,31.0,budget
+CUST00681,Elizabeth,Marsh,F,1985-12-03,40.0,michele23@example.net,19724835129592,Texas,Dallas,669,low,poor,widowed,4,2024-02-04,22.0,standard
+CUST00682,Charles,Fuentes,M,1949-05-01,76.0,mcconnellpamela@example.org,74195298217392,Ohio,Toledo,868,upper_middle,very_good,widowed,1,2024-05-06,19.0,budget
+CUST00683,Joshua,Price,M,1977-09-30,48.0,barnettcameron@example.org,3237736050791,Pennsylvania,Erie,696,middle,fair,single,4,2024-05-16,19.0,standard
+CUST00684,Justin,Park,M,1982-10-07,43.0,psherman@example.org,95237346666170,North Carolina,Raleigh,426,middle,good,married,1,2025-02-10,10.0,budget
+CUST00685,Justin,Lynch,M,1968-01-31,57.0,,001208203149982508,North Carolina,Durham,402,upper_middle,very_good,married,4,2022-10-15,38.0,budget
+CUST00686,James,Bell,M,1983-11-11,42.0,colongabrielle@example.com,00138852850317235,Georgia,Athens,654,middle,good,married,3,2025-06-22,6.0,premium
+CUST00687,Daniel,Bowman,M,1948-04-29,77.0,weeksjamie@example.net,8402352635,Georgia,Atlanta,209,middle,excellent,married,4,2024-09-19,15.0,standard
+CUST00688,Charles,Sanchez,M,1992-10-04,33.0,nicole69@example.net,124384606664374,New York,Rochester,59,middle,fair,married,5,2025-02-24,10.0,high_value
+CUST00689,Melissa,Cole,F,1992-05-19,33.0,chadwilson@example.org,61238524648449,Arizona,Tempe,161,lower_middle,good,single,6,2024-05-01,19.0,high_value
+CUST00690,Jennifer,Blackwell,F,1961-01-07,64.0,peterstyler@example.org,707971130621136,North Carolina,Raleigh,972,middle,very_good,married,1,2022-06-19,42.0,standard
+CUST00691,Charles,Harper,M,1950-01-22,75.0,kaylahardy@example.org,0012028542573,New York,Albany,503,middle,very_good,married,5,2022-03-08,45.0,standard
+CUST00692,Brittany,Carter,F,1951-08-07,74.0,jacklee@example.net,00177027139848228,New York,Albany,150,lower_middle,good,married,3,2022-12-11,36.0,standard
+CUST00693,Melinda,Ortiz,F,1983-08-16,42.0,montgomerygeoffrey@example.com,3025130609069,Pennsylvania,Erie,828,lower_middle,fair,married,1,2025-01-30,11.0,standard
+CUST00694,Andrew,Gardner,M,1948-08-11,77.0,ppineda@example.com,79657379457727,Pennsylvania,Philadelphia,194,upper_middle,good,married,1,2023-07-03,29.0,premium
+CUST00695,Donna,Simon,F,1973-09-13,52.0,nicole50@example.com,82097683625366,Ohio,Columbus,966,low,very_good,married,4,2024-06-22,18.0,standard
+CUST00696,Jesse,Farley,M,1978-10-22,47.0,matthew62@example.net,533833939578654,Arizona,Phoenix,190,upper_middle,excellent,married,2,2025-08-31,4.0,standard
+CUST00697,John,Daniels,M,1978-01-17,47.0,rebecca96@example.org,9352826862,Illinois,Chicago,914,lower_middle,good,single,3,2024-07-10,17.0,high_value
+CUST00698,Christine,Bradley,F,1958-12-29,67.0,tonya92@example.net,29332657327599,Georgia,Atlanta,90,middle,good,single,2,2024-06-18,18.0,budget
+CUST00699,Brady,Smith,M,2005-12-10,20.0,riverachristopher@example.com,9239415959,New York,Buffalo,448,low,good,divorced,3,2025-04-19,8.0,premium
+CUST00700,Michele,Roberts,F,1954-03-04,71.0,rachelhernandez@example.com,5893628874,Pennsylvania,Erie,875,lower_middle,excellent,divorced,4,2022-12-06,36.0,budget
+CUST00701,Tony,Blankenship,M,1953-11-14,72.0,taylorparker@example.com,72079579927079,New York,Buffalo,116,lower_middle,very_good,widowed,5,2022-05-02,43.0,budget
+CUST00702,Stacey,Jones,F,1956-06-13,69.0,erica21@example.net,8544159709,Ohio,Cincinnati,483,middle,excellent,married,1,2025-05-07,7.0,premium
+CUST00703,Samuel,Lee,M,1966-05-03,59.0,burnsrebecca@example.org,123444765047158,Georgia,Augusta,823,lower_middle,poor,widowed,4,2023-08-16,28.0,premium
+CUST00704,Alexandra,Berry,F,1967-11-12,58.0,egonzalez@example.com,50496558665254,Ohio,Columbus,374,high,poor,single,1,2022-10-05,38.0,budget
+CUST00705,Debra,Gentry,F,1992-12-24,33.0,trujillorobin@example.net,4025131251,California,Sacramento,119,lower_middle,good,single,1,2025-09-05,3.0,budget
+CUST00706,Scott,Smith,M,1948-03-07,77.0,molly91@example.org,0013754191023,Florida,Orlando,125,low,excellent,married,2,2022-10-27,38.0,high_value
+CUST00707,Michelle,Davis,F,1976-09-23,49.0,jasonlove@example.com,283373792749072,New York,Rochester,235,,very_good,single,1,2024-09-29,15.0,standard
+CUST00708,William,Baker,M,2007-01-10,18.0,hollywarner@example.org,8256326949,Pennsylvania,Allentown,291,low,fair,single,1,2025-07-09,5.0,standard
+CUST00709,Jessica,Summers,F,1997-04-24,28.0,alyssapena@example.net,9422101750961,Arizona,Tempe,980,lower_middle,very_good,single,5,2022-06-04,42.0,standard
+CUST00710,Michael,Flores,M,1999-10-04,26.0,,5574575747583,Arizona,Mesa,60,lower_middle,poor,married,3,2024-01-26,23.0,standard
+CUST00711,Melissa,Ortiz,F,2007-02-23,18.0,ynguyen@example.com,8777226602562,North Carolina,Durham,23,upper_middle,fair,married,1,2025-04-06,8.0,standard
+CUST00712,Jeffrey,Roth,M,1959-01-09,66.0,brittanywhite@example.org,8674245307,Texas,San Antonio,402,middle,fair,married,2,2025-07-24,5.0,budget
+CUST00713,Sandra,Nash,F,1966-02-28,59.0,jameslawson@example.com,962570511579423,Texas,San Antonio,550,lower_middle,very_good,single,2,2023-03-23,33.0,standard
+CUST00714,Katherine,Frye,F,1990-03-29,35.0,matthewcollins@example.net,291992845525971,New York,Rochester,489,upper_middle,good,married,5,2023-07-04,29.0,premium
+CUST00715,Jennifer,Clark,F,1969-06-18,56.0,reneeorr@example.net,54855953259399,Illinois,Aurora,645,lower_middle,good,married,5,2025-01-25,11.0,high_value
+CUST00716,Justin,Zamora,M,1968-08-06,57.0,cruzeddie@example.com,5876794176,Pennsylvania,Erie,938,middle,fair,married,2,2023-12-05,24.0,premium
+CUST00717,Charles,Abbott,M,1951-04-13,74.0,owright@example.org,359678245759833,California,Losangeles,966,middle,very_good,single,2,2025-07-06,5.0,premium
+CUST00718,Amy,Dyer,F,1982-11-21,43.0,john66@example.net,3447324006,California,Los Angeles,614,lower_middle,good,married,1,2022-11-20,37.0,budget
+CUST00719,Patty,Kaiser,F,1977-08-30,48.0,mpeters@example.com,001251347439742925,North Carolina,Charlotte,73,high,fair,married,2,2024-05-26,19.0,standard
+CUST00720,Sean,Tran,M,1972-05-13,53.0,lesliele@example.net,7652625904,Florida,Tampa,675,middle,fair,married,3,2022-11-22,37.0,standard
+CUST00721,Amy,Love,F,1956-03-28,69.0,ebrown@example.org,3188231555,Texas,Austin,455,low,good,single,1,2023-05-28,31.0,standard
+CUST00722,Paul,Vasquez,M,1984-05-11,41.0,warrendarlene@example.com,0012282137214330,Georgia,Savannah,847,lower_middle,very_good,single,6,2022-04-17,44.0,high_value
+CUST00723,Sarah,Perez,F,1950-02-24,75.0,robinsonjesse@example.org,9852566084,Illinois,Springfield,882,middle,fair,single,2,2024-05-29,19.0,premium
+CUST00724,Miguel,Perry,M,1951-11-22,74.0,gonzalezbarry@example.org,0018705519582,Texas,Houston,204,,good,married,1,2023-03-14,33.0,premium
+CUST00725,Kimberly,Herman,F,1997-11-29,28.0,joseph58@example.com,3396453546,Texas,Dallas,596,upper_middle,fair,single,2,2025-04-30,8.0,premium
+CUST00726,Allen,Morrison,M,1991-08-05,34.0,hharris@example.org,61353943945703,Ohio,Toledo,674,lower_middle,poor,divorced,3,2022-01-20,47.0,premium
+CUST00727,Alexander,Smith,M,2003-09-20,22.0,michelleclark@example.net,35726927789431,Georgia,Atlanta,45,upper_middle,fair,married,1,2024-05-14,19.0,standard
+CUST00728,Manuel,Vincent,M,1965-12-05,60.0,turnerpatrick@example.net,6108533651,North Carolina,Charlotte,861,middle,excellent,single,1,2023-04-14,32.0,standard
+CUST00729,Alison,Townsend,F,1955-06-09,70.0,donald73@example.org,120792011379844,Texas,Houston,87,lower_middle,excellent,married,4,2022-07-31,41.0,standard
+CUST00730,Monique,Hernandez,F,1951-09-13,74.0,bgregory@example.org,66726209014473,Georgia,Augusta,884,lower_middle,good,single,6,2022-10-08,38.0,standard
+CUST00731,Denise,Wiggins,F,1963-03-31,62.0,ppatrick@example.org,0017689730451,Florida,Orlando,624,upper_middle,good,married,1,2022-05-21,43.0,budget
+CUST00732,Joshua,Brooks,M,1972-07-13,53.0,malikfowler@example.com,8967575427,Pennsylvania,Pittsburgh,570,lower_middle,good,married,5,2024-06-20,18.0,standard
+CUST00733,Angelica,King,F,1956-08-19,69.0,sandy77@example.net,1320858295829236,New York,Buffalo,151,middle,good,single,3,2024-04-23,20.0,budget
+CUST00734,Wanda,Stephens,F,1982-08-15,43.0,johnstonjonathan@example.net,1723857155868639,New York,New York,906,middle,very_good,single,2,2022-07-25,41.0,budget
+CUST00735,Paul,Rodriguez,M,1990-11-06,35.0,smoore@example.org,0013085172143643,Texas,San Antonio,35,lower_middle,poor,married,3,2023-12-21,24.0,budget
+CUST00736,Alexis,Phillips,F,1961-05-11,64.0,mariabecker@example.org,5716656094565,Georgia,Savannah,566,lower_middle,fair,single,2,2023-05-23,31.0,premium
+CUST00737,Lisa,Gillespie,F,1990-06-29,35.0,sheltontiffany@example.com,850247681699570,Texas,Dallas,643,upper_middle,fair,married,3,2025-02-07,10.0,budget
+CUST00738,Olivia,Miller,F,1964-06-04,61.0,millerjennifer@example.net,151786539705487,California,Sacramento,129,,excellent,single,1,2023-02-25,34.0,budget
+CUST00739,Joseph,Bryan,M,2005-12-21,20.0,wallssean@example.net,3749968049,Arizona,Mesa,232,upper_middle,good,married,2,2025-08-16,4.0,budget
+CUST00740,Steven,Carter,M,1958-05-05,67.0,robertsmark@example.org,1521737730626042,New York,Rochester,900,low,excellent,married,2,2024-03-01,21.0,high_value
+CUST00741,Kevin,Snyder,M,1995-11-04,30.0,hstokes@example.org,8222990775,New York,Rochester,933,middle,very_good,single,5,2025-07-30,5.0,premium
+CUST00742,Joseph,Benson,M,1990-06-19,35.0,barnesarthur@example.com,5614114576,Ohio,Columbus,163,upper_middle,very_good,single,6,2024-01-10,23.0,standard
+CUST00743,Allison,Miller,F,1959-12-23,66.0,seanbarajas@example.com,2475129618,Florida,Jacksonville,270,low,very_good,married,6,2025-03-10,9.0,standard
+CUST00744,Brittany,Anderson,F,1995-01-01,30.0,dsmith@example.net,7185498042,Georgia,Savannah,634,lower_middle,good,single,2,2024-08-22,16.0,standard
+CUST00745,Robert,Lopez,M,1979-07-29,46.0,gmendoza@example.org,48851228217819,California,Los Angeles,826,lower_middle,very_good,divorced,2,2022-01-29,47.0,budget
+CUST00746,Nicole,Franco,F,1971-11-18,54.0,mariarussell@example.com,5564035679,New York,New York,633,high,poor,single,3,2022-05-04,43.0,budget
+CUST00747,Lisa,Tyler,F,2007-09-29,18.0,wlucas@example.net,2398847169,Ohio,Cincinnati,91,lower_middle,excellent,married,2,2025-07-11,5.0,standard
+CUST00748,Kristina,Bush,F,2000-02-22,25.0,kendrawilliams@example.com,44795489547876,Arizona,Tempe,446,middle,very_good,married,3,2022-06-18,42.0,premium
+CUST00749,Brandon,Burns,M,1970-07-26,55.0,kingjoseph@example.com,89863553935435,Illinois,Chicago,350,high,very_good,married,1,2023-09-27,27.0,budget
+CUST00750,Kyle,Santiago,M,1960-01-31,65.0,leahbarker@example.org,1758485379821433,Ohio,Cleveland,853,lower_middle,very_good,single,5,2022-11-15,37.0,standard
+CUST00751,Rhonda,Brooks,F,1973-12-01,52.0,klove@example.com,8522491416,Arizona,Phoenix,92,high,excellent,single,2,2023-09-28,27.0,standard
+CUST00752,Chelsea,Villa,F,1980-12-14,45.0,jdonovan@example.net,8898634067917,New York,New York,415,lower_middle,fair,single,4,2023-05-16,31.0,standard
+CUST00753,Bryan,White,M,1971-11-09,54.0,williamschad@example.org,2842216309,Arizona,Phoenix,151,low,very_good,married,2,2024-07-17,17.0,standard
+CUST00754,George,Weber,M,1966-02-16,59.0,,14948853208953,Illinois,Springfield,271,lower_middle,good,married,1,2022-09-02,39.0,budget
+CUST00755,Joshua,Smith,M,1958-03-07,67.0,duncanchristina@example.com,31123633792234,Florida,Miami,317,middle,excellent,single,3,2022-12-02,36.0,premium
+CUST00756,Megan,Graham,F,2005-11-06,20.0,ogriffin@example.org,6675726960,Georgia,Augusta,887,high,very_good,married,5,2022-12-08,36.0,standard
+CUST00757,Katherine,Clarke,F,1982-12-02,43.0,marc78@example.net,77973521962633,Florida,Tampa,535,middle,good,single,4,2022-08-30,40.0,premium
+CUST00758,Donald,Espinoza,M,1962-12-23,63.0,eburke@example.org,1993817069556076,Georgia,Athens,122,low,good,married,6,2023-07-12,29.0,budget
+CUST00759,Jeffrey,Bailey,M,1965-07-31,60.0,rhonda47@example.org,7392898306,Illinois,Chicago,304,lower_middle,poor,married,1,2024-10-13,14.0,premium
+CUST00760,Ann,Moon,F,1953-07-21,72.0,wrightalicia@example.com,3245264236428,Ohio,Cincinnati,125,middle,good,single,3,2022-04-24,44.0,budget
+CUST00761,Lisa,Armstrong,F,2000-07-22,25.0,keithharrison@example.com,4303391114,Pennsylvania,Pittsburgh,611,lower_middle,excellent,married,2,2024-01-24,23.0,high_value
+CUST00762,Juan,Wood,M,1959-06-11,66.0,amandalopez@example.org,424580880622072,Illinois,Chicago,803,high,good,single,1,2025-03-21,9.0,budget
+CUST00763,Ruben,Berry,M,1966-04-09,59.0,lsanchez@example.net,6329901620,New York,New York,698,upper_middle,good,single,2,2022-04-01,44.0,standard
+CUST00764,Robert,Byrd,M,1974-02-23,51.0,doneal@example.net,359796486287203,New York,New York,396,middle,good,married,2,2024-08-24,16.0,premium
+CUST00765,Ashley,Strong,F,1973-04-19,52.0,bevans@example.com,23053627924632,Arizona,Tucson,580,lower_middle,good,married,1,2023-01-02,35.0,standard
+CUST00766,David,Ross,M,1995-10-11,30.0,nwatson@example.com,7609321450,Ohio,Toledo,511,low,good,married,1,2023-04-05,32.0,premium
+CUST00767,Stacy,Wiggins,F,1952-07-31,73.0,michael88@example.com,2713553482,New York,Rochester,196,middle,very_good,married,2,2023-10-18,26.0,standard
+CUST00768,Natasha,Hoffman,F,1951-05-05,74.0,hickscrystal@example.com,6767597595,Texas,Austin,71,lower_middle,excellent,single,3,2022-09-02,39.0,high_value
+CUST00769,Robert,Richards,M,2007-05-23,18.0,bblake@example.net,6894812657,Florida,Orlando,191,middle,poor,married,1,2024-11-22,13.0,standard
+CUST00770,Philip,Gonzalez,M,1989-03-30,36.0,ohill@example.org,4408236936,Arizona,Phoenix,722,,excellent,married,1,2024-08-10,16.0,premium
+CUST00771,Laura,Mooney,F,1961-08-06,64.0,ritterfrank@example.org,7719372711759,Illinois,Aurora,343,middle,fair,married,3,2022-06-26,42.0,high_value
+CUST00772,Laura,Kelley,F,2002-09-07,23.0,crystal58@example.org,1998849330674584,California,Sacramento,72,low,good,married,4,2023-02-15,34.0,standard
+CUST00773,Tiffany,Evans,F,2006-01-01,19.0,daniel28@example.org,8378218856,Pennsylvania,Allentown,747,upper_middle,very_good,single,1,2025-06-29,6.0,standard
+CUST00774,Gary,Miller,M,1958-04-27,67.0,qfry@example.org,001550966626705514,North Carolina,Durham,649,lower_middle,good,married,1,2025-04-26,8.0,standard
+CUST00775,Tanya,Sanders,F,1961-10-30,64.0,pjordan@example.com,3923529596,New York,Buffalo,112,middle,fair,single,1,2022-11-05,37.0,premium
+CUST00776,Bradley,Mclaughlin,M,1957-06-23,68.0,fvasquez@example.net,122040720245591,Arizona,Phoenix,411,middle,fair,divorced,1,2023-04-23,32.0,standard
+CUST00777,Erin,Williams,F,1986-12-06,39.0,mcneilchristina@example.org,3676149498,California,Sacramento,186,middle,very_good,divorced,5,2022-01-03,47.0,budget
+CUST00778,Ana,Obrien,F,1964-12-15,61.0,dawngraves@example.org,69384065277584,Illinois,Chicago,552,high,excellent,married,2,2023-02-25,34.0,standard
+CUST00779,Robert,Young,M,2004-11-29,21.0,elizabeth33@example.com,9204109121,Arizona,Tempe,200,upper_middle,good,married,4,2022-05-03,43.0,standard
+CUST00780,Nathan,Campbell,M,1969-11-28,56.0,beth76@example.com,8895437052,Illinois,Chicago,457,upper_middle,fair,married,4,2022-03-31,45.0,standard
+CUST00781,Austin,Johnson,M,2005-04-26,20.0,perry77@example.net,35792565920246,Ohio,Toledo,443,,good,divorced,4,2024-02-02,22.0,standard
+CUST00782,Brittany,Henson,F,1963-08-07,62.0,mkrueger@example.net,2603055955,Texas,Houston,637,middle,good,single,2,2024-11-01,13.0,standard
+CUST00783,Raymond,Costa,M,1960-12-28,65.0,dylanbecker@example.net,00168498689993607,Arizona,Phoenix,63,low,fair,single,6,2025-04-27,8.0,high_value
+CUST00784,Duane,Smith,M,1987-05-15,38.0,wellsnatalie@example.com,16938593744039,Arizona,Tucson,352,middle,very_good,single,4,2023-04-30,32.0,standard
+CUST00785,April,Perez,F,1962-05-11,63.0,aallen@example.com,2149886084,Illinois,Aurora,765,high,good,married,6,2024-03-15,21.0,standard
+CUST00786,Cindy,Stanley,F,1966-11-01,59.0,wyattsara@example.com,5529830615,Georgia,Athens,32,low,good,married,1,2023-07-11,29.0,standard
+CUST00787,Brett,Velazquez,M,1997-01-04,28.0,gary44@example.com,3633251448,Texas,Dallas,208,high,fair,married,2,2022-10-06,38.0,budget
+CUST00788,Shane,Farrell,M,1947-06-29,78.0,camerontownsend@example.com,3179518878,Florida,Miami,880,middle,good,single,2,2022-12-03,36.0,budget
+CUST00789,Lisa,Floyd,F,1971-07-05,54.0,gomezpaul@example.org,4405911225,North Carolina,Durham,632,upper_middle,excellent,single,1,2024-04-12,20.0,standard
+CUST00790,William,Todd,M,1971-03-06,54.0,petersonpaul@example.com,3865323979,Ohio,Cincinnati,866,low,very_good,married,1,2023-03-02,33.0,budget
+CUST00791,Taylor,Norman,F,1985-03-14,40.0,phughes@example.com,7007730950,Illinois,Naperville,549,low,very_good,widowed,1,2023-06-27,30.0,budget
+CUST00792,Paul,Smith,M,1968-09-17,57.0,gmiller@example.net,581692778851905,Texas,Dallas,708,upper_middle,excellent,single,1,2023-09-16,27.0,budget
+CUST00793,Rodney,Carter,M,2005-09-12,20.0,brownkevin@example.org,0016466245618517,New York,Albany,538,middle,good,single,1,2022-10-31,38.0,standard
+CUST00794,Alexander,Zavala,M,1969-07-27,56.0,jenniferkane@example.net,15913511455129,New York,Albany,308,upper_middle,good,single,2,2024-03-22,21.0,standard
+CUST00795,Anthony,Collins,M,1999-01-10,26.0,cainana@example.net,0016842841604615,Illinois,Aurora,184,high,good,single,2,2022-12-23,36.0,premium
+CUST00796,Benjamin,Rush,M,1987-04-20,38.0,rodriguezthomas@example.com,4683142983152,Arizona,Tempe,831,high,good,married,2,2025-02-12,10.0,budget
+CUST00797,Robert,Ruiz,M,1996-11-09,29.0,garybernard@example.net,836508493783063,Texas,San Antonio,696,upper_middle,very_good,single,4,2022-07-28,41.0,budget
+CUST00798,Edward,Taylor,M,1987-06-20,38.0,sbartlett@example.com,8915649701,Texas,Houston,983,high,poor,married,5,2022-05-07,43.0,standard
+CUST00799,David,Anderson,M,1959-10-24,66.0,coffeyjohn@example.net,3332016234,Florida,Orlando,859,low,fair,married,2,2024-03-31,21.0,budget
+CUST00800,Christine,Rodriguez,F,1994-08-23,31.0,gutierrezmatthew@example.com,9215556684,Texas,Austin,837,middle,good,single,1,2022-06-03,42.0,standard
+CUST00801,Charles,Price,M,1960-01-22,65.0,tracyavery@example.com,6405672007,Texas,Dallas,546,middle,very_good,married,1,2025-08-15,4.0,budget
+CUST00802,Ashley,Mitchell,F,1966-07-22,59.0,gregory07@example.net,9978543734,Florida,Miami,358,lower_middle,good,single,1,2023-11-11,25.0,standard
+CUST00803,Christopher,Walker,M,1956-05-07,69.0,normandeanna@example.com,3886214584,California,San Jose,867,low,good,married,3,2022-04-14,44.0,budget
+CUST00804,Jose,Collins,M,1974-09-27,51.0,brownsusan@example.org,9442389982,Pennsylvania,Erie,200,lower_middle,excellent,divorced,1,2024-03-19,21.0,standard
+CUST00805,Tina,Murphy,F,1994-03-13,31.0,abradley@example.com,8217464493,California,San Jose,130,middle,fair,married,3,2025-10-31,2.0,premium
+CUST00806,Jamie,Weber,F,2007-11-06,18.0,markhodge@example.com,53885736801192,Florida,Tampa,62,upper_middle,good,single,2,2023-03-16,33.0,premium
+CUST00807,Daniel,Gutierrez,M,1997-07-12,28.0,garciaveronica@example.net,3236335104096,Illinois,Aurora,847,,fair,single,1,2024-07-02,17.0,high_value
+CUST00808,Kevin,Cole,M,1961-06-29,64.0,petersonjoel@example.org,4492830748,California,San Diego,646,high,excellent,married,3,2025-08-18,4.0,standard
+CUST00809,Ruth,Robinson,F,1975-04-16,50.0,craig89@example.org,0012403655782,North Carolina,Greensboro,827,upper_middle,good,married,2,2025-02-01,10.0,standard
+CUST00810,Laura,Contreras,F,1960-05-14,65.0,lynnyoung@example.org,00122333324707392,California,Los Angeles,956,middle,good,married,1,2023-07-27,29.0,premium
+CUST00811,Susan,Harris,F,1989-12-10,36.0,mary62@example.net,4278602508,Florida,Jacksonville,147,high,very_good,married,4,2023-02-13,34.0,standard
+CUST00812,Bradley,Moore,M,1952-03-31,73.0,roberthamilton@example.net,4485889957,Ohio,Columbus,593,low,very_good,single,6,2024-02-23,22.0,premium
+CUST00813,Jessica,Carr,F,2001-05-06,24.0,qramirez@example.net,3034646871,North Carolina,Greensboro,75,lower_middle,fair,married,5,2023-12-06,24.0,standard
+CUST00814,Anthony,Smith,F,2005-08-06,20.0,castroralph@example.net,0012203828323,Arizona,Mesa,321,low,fair,widowed,4,2023-01-04,35.0,standard
+CUST00815,Joshua,Miller,M,1982-12-30,43.0,greenmartin@example.org,4069732318,Georgia,Savannah,98,lower_middle,very_good,married,3,2022-03-02,45.0,standard
+CUST00816,Jennifer,Schultz,F,1952-09-20,73.0,steven45@example.org,3003001529,California,San Jose,906,middle,good,single,1,2024-12-20,12.0,premium
+CUST00817,Cheryl,Benton,F,1953-12-14,72.0,ibowers@example.net,6094025561844,Pennsylvania,Pittsburgh,116,upper_middle,fair,married,1,2022-11-23,37.0,premium
+CUST00818,Joshua,Hernandez,M,1992-09-24,33.0,hmitchell@example.org,2248890567,New York,Buffalo,617,low,fair,married,1,2023-06-30,30.0,premium
+CUST00819,Alexander,Greene,M,1947-06-16,78.0,nina65@example.net,615584826691362,New York,Rochester,426,upper_middle,good,married,2,2023-12-28,24.0,high_value
+CUST00820,Jacob,Williams,M,1968-05-15,57.0,,9077063369,Florida,Orlando,27,middle,poor,single,1,2025-04-28,8.0,standard
+CUST00821,Patricia,Osborne,F,2005-07-11,20.0,davidbrown@example.org,6644818804,Georgia,Atlanta,722,middle,good,married,2,2023-12-22,24.0,budget
+CUST00822,Travis,Jimenez,M,1964-03-18,61.0,nicholasgallagher@example.net,161684321269428,Pennsylvania,Pittsburgh,395,middle,excellent,single,3,2024-10-05,14.0,premium
+CUST00823,Caitlin,Sanchez,F,1975-11-01,50.0,michealhardy@example.net,631244170646255,Florida,Jacksonville,249,middle,good,single,3,2022-03-19,45.0,budget
+CUST00824,Jamie,Perez,M,1993-04-01,32.0,matthew24@example.org,00120157646448988,California,San Diego,962,lower_middle,excellent,single,4,2025-05-17,7.0,budget
+CUST00825,Brian,Allen,M,1994-09-22,31.0,mariahill@example.net,5795050404,California,San Jose,288,lower_middle,good,married,4,2022-01-02,47.0,premium
+CUST00826,Christine,Hubbard,F,1971-06-06,54.0,mariascott@example.com,0013162321119787,Pennsylvania,Pittsburgh,799,,very_good,divorced,1,2022-09-25,39.0,standard
+CUST00827,Vanessa,Allen,F,1953-06-27,72.0,travistaylor@example.net,830260119875617,Florida,Tampa,18,lower_middle,fair,married,3,2022-05-02,43.0,standard
+CUST00828,Thomas,Clark,M,1949-01-27,76.0,willismatthew@example.com,9829980365,Florida,Orlando,350,low,very_good,single,3,2022-08-16,40.0,standard
+CUST00829,Monica,Morrow,F,1987-10-30,38.0,hornerebecca@example.org,13366595201491,Texas,Austin,147,lower_middle,fair,single,5,2025-09-18,3.0,premium
+CUST00830,Kimberly,Perez,F,1974-04-13,51.0,,4633223998,Pennsylvania,Philadelphia,319,middle,fair,single,4,2023-11-21,25.0,premium
+CUST00831,Jocelyn,Rogers,F,1975-09-24,50.0,,00184288860505376,Georgia,Savannah,979,low,poor,married,2,2022-11-19,37.0,standard
+CUST00832,Amber,Steele,F,1955-03-12,70.0,ronaldbradford@example.org,2088356691,North Carolina,Durham,206,,good,divorced,3,2022-12-23,36.0,high_value
+CUST00833,Melinda,Jones,F,1997-12-22,28.0,corythompson@example.org,9558068826917,New York,Buffalo,740,middle,poor,married,3,2024-02-14,22.0,standard
+CUST00834,Maria,Thomas,F,1961-08-12,64.0,kelly01@example.org,88028735437882,Illinois,Springfield,282,middle,fair,single,1,2022-12-30,36.0,standard
+CUST00835,David,Brooks,M,1996-07-10,29.0,brownelizabeth@example.com,0014092085991449,Pennsylvania,Erie,941,lower_middle,excellent,married,5,2025-03-08,9.0,standard
+CUST00836,Zachary,Braun,M,1986-12-07,39.0,richardharper@example.net,16694964899718,Florida,Tampa,706,high,good,married,2,2025-06-06,6.0,standard
+CUST00837,Richard,Riley,M,1990-08-07,35.0,dylancunningham@example.com,4845993231,Pennsylvania,Philadelphia,390,middle,very_good,married,1,2024-10-13,14.0,standard
+CUST00838,Richard,Parsons,M,1976-07-08,49.0,delliott@example.com,15086726176072,Georgia,Atlanta,741,middle,fair,married,4,2023-05-03,31.0,standard
+CUST00839,Terri,Ramsey,F,1982-08-26,43.0,markbates@example.com,183872804056129,Georgia,Savannah,44,upper_middle,excellent,married,3,2025-07-26,5.0,premium
+CUST00840,Joshua,Sweeney,M,1957-04-14,68.0,wgarza@example.net,1926841869656130,Georgia,Athens,133,lower_middle,poor,single,3,2022-01-24,47.0,standard
+CUST00841,Megan,Jennings,F,1957-03-07,68.0,lindsayedwards@example.com,001214434682394840,New York,Buffalo,632,upper_middle,fair,single,1,2022-05-19,43.0,high_value
+CUST00842,Sandra,Nash,F,1992-09-14,33.0,yburke@example.org,7162831139,Illinois,Chicago,67,middle,good,married,1,2022-01-03,47.0,budget
+CUST00843,Tony,Brooks,M,1951-01-28,74.0,christopher91@example.net,607662839762053,Arizona,Tempe,27,low,good,married,3,2024-05-09,19.0,budget
+CUST00844,Steven,Alexander,M,1988-01-07,37.0,peter07@example.org,00126642925081776,Arizona,Tempe,746,upper_middle,poor,married,2,2024-02-15,22.0,standard
+CUST00845,Melissa,Guzman,F,1999-08-09,26.0,andrew88@example.com,7334373125,Ohio,Toledo,270,lower_middle,very_good,divorced,3,2022-07-27,41.0,premium
+CUST00846,Haley,Woodward,F,1954-08-31,71.0,fstephens@example.com,3325119206,Pennsylvania,Pittsburgh,988,upper_middle,good,married,1,2022-11-30,37.0,standard
+CUST00847,Jennifer,Bryan,F,1992-10-31,33.0,david78@example.net,2614337184449,Texas,Houston,763,upper_middle,good,single,1,2023-08-27,28.0,premium
+CUST00848,Frank,Thomas,M,1974-03-09,51.0,william16@example.com,90347341678127,Georgia,Augusta,249,lower_middle,poor,married,2,2022-08-03,40.0,premium
+CUST00849,Benjamin,Flowers,M,1990-10-02,35.0,humphreypatricia@example.net,7219348629,Georgia,Savannah,963,upper_middle,good,married,2,2024-02-08,22.0,standard
+CUST00850,Michael,Kim,M,1998-11-03,27.0,odelacruz@example.net,5189285605,Texas,Houston,973,high,fair,single,6,2023-11-24,25.0,standard
+CUST00851,Allison,Floyd,F,1987-04-28,38.0,,40637368205068,California,San Jose,868,middle,poor,single,1,2025-08-31,4.0,standard
+CUST00852,Ryan,White,M,1990-01-30,35.0,mark21@example.com,1350458714692182,Pennsylvania,Erie,434,middle,excellent,married,2,2022-11-18,37.0,standard
+CUST00853,Keith,Novak,M,1998-08-22,27.0,,7362998480220,Texas,Austin,798,low,excellent,single,3,2023-02-25,34.0,standard
+CUST00854,Michael,Hall,M,2004-07-19,21.0,mproctor@example.net,0013486424959881,Arizona,Mesa,459,middle,very_good,single,5,2025-09-14,3.0,premium
+CUST00855,Jodi,Gardner,F,1978-06-04,47.0,dominguezscott@example.com,4382676738,Illinois,Springfield,811,middle,excellent,single,3,2022-07-16,41.0,standard
+CUST00856,Jesse,James,M,1952-07-28,73.0,ballelizabeth@example.com,49877682996872,Arizona,Tempe,681,middle,good,single,2,2022-11-11,37.0,budget
+CUST00857,Kenneth,Snyder,M,1998-04-15,27.0,gibbsamanda@example.net,906223504056695,Georgia,Atlanta,45,lower_middle,very_good,single,3,2024-05-25,19.0,budget
+CUST00858,Michael,Jackson,M,1984-02-18,41.0,kimberlycooper@example.com,6424867963259,Illinois,Naperville,841,middle,excellent,married,4,2023-02-13,34.0,standard
+CUST00859,David,Lynn,M,1993-10-12,32.0,kristine33@example.net,0017159624152,California,San Diego,238,middle,poor,married,2,2022-12-16,36.0,premium
+CUST00860,Suzanne,Cooper,F,1958-09-04,67.0,richardlawrence@example.net,8587951381,Texas,San Antonio,484,lower_middle,fair,single,3,2022-08-25,40.0,standard
+CUST00861,Allison,Brewer,F,1982-07-31,43.0,stephanie85@example.org,13573443034918,Arizona,Tempe,635,low,excellent,married,4,2024-09-28,15.0,standard
+CUST00862,Linda,Martin,F,1960-10-25,65.0,brandi40@example.org,3365415471553,Texas,San Antonio,960,low,good,married,4,2023-01-14,35.0,premium
+CUST00863,Carrie,Harvey,F,1961-11-10,64.0,halvarez@example.org,3676500942,Arizona,Mesa,119,lower_middle,excellent,single,6,2023-01-18,35.0,premium
+CUST00864,Amanda,Gomez,F,1978-05-04,47.0,hgilbert@example.net,0016877809270,California,Sacramento,175,lower_middle,very_good,single,2,2024-06-19,18.0,standard
+CUST00865,Cynthia,Palmer,F,1985-03-23,40.0,richard25@example.net,001466905986787442,Illinois,Springfield,930,middle,excellent,married,4,2023-07-05,29.0,standard
+CUST00866,George,Rogers,M,1997-09-04,28.0,amber59@example.com,7592428249116,Florida,Miami,183,high,poor,widowed,4,2022-06-25,42.0,budget
+CUST00867,Tara,Smith,F,1949-12-12,76.0,moorekurt@example.net,3935132155,Ohio,Toledo,12,lower_middle,fair,married,2,2025-04-22,8.0,standard
+CUST00868,Fred,Castillo,M,1982-10-10,43.0,cynthiasimmons@example.net,8149448896,Ohio,Columbus,193,low,good,divorced,1,2024-03-03,21.0,standard
+CUST00869,Kathryn,Jefferson,F,1962-05-18,63.0,ocole@example.com,00154642025825431,Ohio,Toledo,932,middle,poor,married,3,2025-03-18,9.0,premium
+CUST00870,Joshua,Velasquez,M,1997-06-03,28.0,jamesbrown@example.org,18206491060183,North Carolina,Durham,646,lower_middle,very_good,married,3,2022-06-11,42.0,premium
+CUST00871,Caitlin,Robbins,F,1978-10-14,47.0,andrew27@example.com,417822577545847,California,San Diego,207,upper_middle,good,single,3,2022-09-04,39.0,high_value
+CUST00872,Shari,Mcmahon,F,1969-05-30,56.0,christinedixon@example.net,00147638316082717,Florida,Orlando,604,middle,fair,married,1,2023-03-10,33.0,standard
+CUST00873,Michael,Gonzalez,M,2000-11-01,25.0,sararios@example.org,8524229993,Florida,Miami,137,low,good,married,1,2024-05-17,19.0,standard
+CUST00874,Nicholas,Lloyd,M,1991-12-28,34.0,bowmanjoel@example.net,7326553983,Arizona,Tucson,354,middle,poor,married,1,2025-07-08,5.0,budget
+CUST00875,Jason,Burns,M,1991-02-17,34.0,fmclaughlin@example.org,9643309544,Pennsylvania,Allentown,241,lower_middle,good,single,2,2023-10-17,26.0,standard
+CUST00876,Steven,Munoz,M,2004-12-19,21.0,,9127053978713,Texas,San Antonio,186,middle,good,married,2,2025-02-13,10.0,budget
+CUST00877,Lauren,Grant,F,1982-07-31,43.0,davidjohnson@example.net,001912956083200487,Ohio,Cincinnati,462,low,poor,married,5,2023-07-20,29.0,standard
+CUST00878,Melinda,Steele,F,1996-05-26,29.0,elizabeth52@example.org,178630030443619,California,San Jose,608,middle,excellent,single,1,2022-08-19,40.0,budget
+CUST00879,Andrea,Conley,F,1958-05-11,67.0,monicaduncan@example.org,5299295014,Florida,Orlando,368,lower_middle,good,married,5,2025-03-06,9.0,budget
+CUST00880,Matthew,Moss,M,1960-05-22,65.0,salazarjames@example.org,0013674139719,Texas,Houston,526,upper_middle,good,single,1,2023-08-09,28.0,budget
+CUST00881,Amber,Hernandez,F,1957-08-05,68.0,clarkdavid@example.net,0018763720191116,Arizona,Mesa,174,low,good,single,6,2024-02-24,22.0,standard
+CUST00882,Susan,Williams,F,1989-04-15,36.0,griffinjennifer@example.net,00178753393049366,Pennsylvania,Erie,707,upper_middle,excellent,single,3,2022-03-18,45.0,standard
+CUST00883,Adam,White,M,1991-07-17,34.0,,7112408682,Illinois,Naperville,760,low,poor,married,2,2022-10-22,38.0,standard
+CUST00884,Mary,Hendrix,F,1957-06-25,68.0,nicholas09@example.org,0019552610399529,California,San Jose,132,middle,good,single,1,2023-11-10,25.0,standard
+CUST00885,Darryl,Chavez,M,1956-12-02,69.0,james58@example.com,4562423041,California,San Jose,189,low,excellent,married,2,2023-07-05,29.0,premium
+CUST00886,Sharon,Sandoval,F,1976-01-06,49.0,coxfernando@example.org,3748029907,California,Sacramento,563,middle,fair,single,4,2023-09-13,27.0,budget
+CUST00887,Shannon,Johnson,F,1962-10-17,63.0,davidcampbell@example.net,5552420340,Illinois,Naperville,168,upper_middle,good,married,1,2022-07-21,41.0,high_value
+CUST00888,Alan,Cox,M,1974-11-11,51.0,xelliott@example.net,8564491579554,Florida,Tampa,327,lower_middle,good,married,2,2024-06-26,18.0,high_value
+CUST00889,Danielle,Skinner,F,1956-07-30,69.0,steven01@example.org,5013810306,Illinois,Naperville,593,upper_middle,very_good,single,2,2025-05-23,7.0,standard
+CUST00890,James,Hines,M,1953-05-22,72.0,hmartin@example.org,2083157129,New York,Rochester,454,high,fair,married,4,2023-03-09,33.0,standard
+CUST00891,Michele,Ford,F,1960-07-26,65.0,ortizcristian@example.org,8354104584743,North Carolina,Durham,154,middle,good,married,5,2022-04-26,44.0,premium
+CUST00892,Michael,Johnson,M,1985-09-21,40.0,iwhite@example.net,1557566947031805,Texas,Austin,800,,very_good,single,3,2024-11-03,13.0,standard
+CUST00893,Jennifer,Carson,F,1977-03-04,48.0,mary66@example.org,2592183270,Florida,Miami,353,middle,good,widowed,3,2022-12-22,36.0,budget
+CUST00894,Jamie,Coleman,M,1968-05-27,57.0,courtney01@example.org,6795771400,New York,New York,717,middle,fair,single,5,2023-05-26,31.0,high_value
+CUST00895,Randy,Arnold,M,2003-02-07,22.0,audrey53@example.net,0019158204998094,North Carolina,Charlotte,799,high,excellent,single,3,2024-01-09,23.0,standard
+CUST00896,Joseph,Vasquez,M,1962-06-27,63.0,gonzalezbrittany@example.net,3664984166,Illinois,Aurora,288,middle,good,single,3,2024-08-08,16.0,standard
+CUST00897,Karina,Cisneros,F,1980-04-09,45.0,pduncan@example.org,3569238994,Texas,Houston,24,lower_middle,good,married,1,2023-05-11,31.0,standard
+CUST00898,Andrea,Carson,F,1965-03-28,60.0,nicolecharles@example.net,3033708782,North Carolina,Greensboro,543,upper_middle,poor,single,3,2022-12-30,36.0,premium
+CUST00899,Amy,Moore,F,1992-07-17,33.0,mccoydonna@example.com,9814359989,Pennsylvania,Allentown,151,lower_middle,very_good,married,4,2023-12-07,24.0,premium
+CUST00900,Bradley,Wallace,M,1948-10-16,77.0,sarah80@example.org,7645482217,Illinois,Chicago,753,middle,good,single,2,2023-08-07,28.0,standard
+CUST00901,William,Compton,M,1972-09-13,53.0,irandolph@example.org,3044806757,Arizona,Phoenix,252,middle,good,single,2,2022-11-30,37.0,budget
+CUST00902,James,Miller,M,1987-10-20,38.0,pdavis@example.net,4289794296,New York,Buffalo,956,lower_middle,very_good,single,5,2025-10-19,2.0,standard
+CUST00903,Paul,Lane,M,1992-11-16,33.0,dbeck@example.com,3957314196,Illinois,Naperville,564,lower_middle,good,single,3,2024-11-17,13.0,standard
+CUST00904,Andrew,Lam,M,1990-12-23,35.0,gregorymitchell@example.net,8834565179,California,San Jose,388,middle,good,divorced,1,2022-09-28,39.0,budget
+CUST00905,Mark,Dyer,M,1975-12-16,50.0,,4493604784,Pennsylvania,Philadelphia,586,upper_middle,good,divorced,4,2023-04-04,32.0,standard
+CUST00906,Alexandra,Hoffman,F,1954-03-22,71.0,wthomas@example.net,001536248820893486,Pennsylvania,Allentown,576,middle,very_good,divorced,1,2025-08-09,4.0,standard
+CUST00907,Brenda,Green,F,1979-11-24,46.0,vickimullins@example.com,15917609114131,Arizona,Tempe,871,lower_middle,fair,single,3,2023-12-16,24.0,standard
+CUST00908,Nicole,Greene,F,2002-09-19,23.0,yolandamarks@example.net,313837605230458,Illinois,Springfield,440,middle,good,married,1,2024-08-13,16.0,budget
+CUST00909,Penny,Graves,F,1958-07-14,67.0,rebecca44@example.com,6416916503,Ohio,Toledo,42,lower_middle,good,single,2,2025-04-12,8.0,standard
+CUST00910,Richard,Butler,M,2004-10-10,21.0,harrisonjoy@example.net,2828498980,California,Sacramento,610,upper_middle,poor,married,4,2025-02-23,10.0,standard
+CUST00911,Sandra,Thomas,F,1965-09-28,60.0,,5598266486,Illinois,Chicago,917,high,poor,single,2,2024-09-13,15.0,premium
+CUST00912,Luke,Alexander,M,1981-09-30,44.0,sbradley@example.org,759545011929207,Georgia,Augusta,918,middle,very_good,married,6,2025-08-04,4.0,high_value
+CUST00913,Tanya,Small,F,1950-04-17,75.0,daniel71@example.com,1603798863653621,Illinois,Aurora,493,upper_middle,good,divorced,1,2025-09-05,3.0,budget
+CUST00914,Linda,Gray,F,1947-10-15,78.0,johnsondiana@example.net,82488942046648,New York,Buffalo,657,high,fair,single,4,2024-11-25,13.0,budget
+CUST00915,Jason,Murphy,M,1976-12-02,49.0,evan45@example.com,2778580974533,California,San Jose,176,middle,very_good,single,4,2025-09-14,3.0,premium
+CUST00916,Dana,Casey,F,1964-10-29,61.0,yliu@example.org,122625401659953,Florida,Miami,915,lower_middle,good,single,3,2025-09-04,3.0,high_value
+CUST00917,Tara,Coleman,F,2005-06-27,20.0,davidhernandez@example.org,001376477462591601,Illinois,Aurora,373,high,good,married,3,2024-05-07,19.0,premium
+CUST00918,Michelle,Garcia,F,1972-08-12,53.0,amanda86@example.org,9804179867,Arizona,Phoenix,261,high,good,single,4,2025-04-09,8.0,standard
+CUST00919,Shannon,Thompson,M,1987-10-16,38.0,scott04@example.com,2645261212,Georgia,Savannah,698,,fair,married,2,2024-12-30,12.0,standard
+CUST00920,Danielle,Moss,F,2007-06-16,18.0,bpeterson@example.com,0014966807852548,Georgia,Augusta,172,middle,very_good,single,2,2022-12-15,36.0,standard
+CUST00921,Caleb,Grant,M,1998-05-20,27.0,wesleyjohns@example.com,001340406445475231,Illinois,Chicago,258,lower_middle,very_good,divorced,4,2024-08-22,16.0,standard
+CUST00922,Christian,Marquez,M,1977-09-18,48.0,kayla97@example.net,15178763342720,Illinois,Springfield,902,high,very_good,single,2,2025-10-24,2.0,high_value
+CUST00923,Carolyn,Jones,F,1979-07-28,46.0,,14636045306935,Texas,Dallas,823,lower_middle,poor,married,2,2023-12-29,24.0,budget
+CUST00924,Steven,Rivera,M,1962-11-19,63.0,alexander18@example.org,0016676784816524,Illinois,Naperville,883,lower_middle,very_good,divorced,4,2023-11-10,25.0,standard
+CUST00925,Tina,Green,F,1976-05-10,49.0,petersenjason@example.net,3174993781053,Illinois,Aurora,708,,very_good,single,5,2024-08-07,16.0,standard
+CUST00926,Jesus,Shaw,M,1992-04-01,33.0,morgan69@example.net,0017699882904,North Carolina,Charlotte,763,upper_middle,good,married,2,2025-07-23,5.0,standard
+CUST00927,Michael,Monroe,M,1954-05-22,71.0,mary24@example.com,4015986424,North Carolina,Raleigh,734,low,good,married,1,2024-10-21,14.0,premium
+CUST00928,Matthew,Vargas,M,1958-05-04,67.0,johnsparks@example.org,2875062932,Arizona,Mesa,224,high,good,married,4,2024-04-26,20.0,premium
+CUST00929,Charles,Williams,M,1955-03-24,70.0,lopezgregory@example.org,2189676610,Florida,Orlando,941,high,good,divorced,4,2023-02-15,34.0,budget
+CUST00930,Jasmine,Smith,F,1952-12-15,73.0,jaime61@example.com,2389453198,Arizona,Tempe,367,upper_middle,very_good,single,1,2022-10-21,38.0,premium
+CUST00931,Jennifer,Potter,F,2005-07-13,20.0,jamesparker@example.net,810903076205459,Florida,Miami,102,low,very_good,married,2,2024-09-25,15.0,premium
+CUST00932,Erin,Leach,F,1950-05-27,75.0,qreynolds@example.com,741310654113407,Florida,Tampa,527,lower_middle,very_good,married,4,2025-07-23,5.0,budget
+CUST00933,Lucas,Nielsen,M,1987-07-08,38.0,kelsey70@example.net,18058836683482,California,San Jose,213,,good,married,4,2023-07-15,29.0,premium
+CUST00934,James,Stevens,M,1948-04-25,77.0,ambergrant@example.net,149177879150596,Florida,Orlando,599,upper_middle,fair,married,3,2024-09-29,15.0,standard
+CUST00935,Ryan,Hudson,M,1972-12-03,53.0,steelejoel@example.org,8262578982,Florida,Jacksonville,401,lower_middle,excellent,married,2,2025-07-21,5.0,budget
+CUST00936,Vanessa,Tran,F,1947-08-31,78.0,sarah17@example.com,485317774127469,Arizona,Tempe,131,upper_middle,poor,divorced,3,2024-09-04,15.0,standard
+CUST00937,Kimberly,Robles,F,1991-02-27,34.0,juanfranklin@example.net,92624222975891,California,Los Angeles,931,lower_middle,fair,divorced,4,2024-12-29,12.0,standard
+CUST00938,Stephen,Gentry,M,1965-04-03,60.0,joseph21@example.net,4457705682092,Georgia,Atlanta,656,middle,fair,single,6,2023-10-22,26.0,standard
+CUST00939,Ronald,Page,M,1948-06-29,77.0,brownreginald@example.net,764607232472828,California,Los Angeles,11,lower_middle,good,single,2,2025-07-07,5.0,standard
+CUST00940,Anthony,Washington,M,1991-08-19,34.0,eugenegreen@example.com,9123616850,New York,Albany,82,upper_middle,good,married,6,2023-10-02,26.0,budget
+CUST00941,Richard,Hahn,M,1990-12-02,35.0,davisautumn@example.org,19272115261053,Texas,San Antonio,751,lower_middle,poor,married,2,2024-10-27,14.0,standard
+CUST00942,Brandy,Williams,F,1978-09-24,47.0,,7076418948,Florida,Miami,302,middle,very_good,single,3,2022-04-04,44.0,premium
+CUST00943,Rita,Thomas,F,1985-11-18,40.0,jgutierrez@example.net,8653294471,Illinois,Naperville,823,middle,good,single,2,2024-12-01,12.0,premium
+CUST00944,Rebecca,Robertson,F,1956-11-16,69.0,,8315045025,Arizona,Tucson,902,lower_middle,good,widowed,5,2023-12-03,24.0,standard
+CUST00945,Catherine,Mcdonald,F,1967-06-18,58.0,tarabowers@example.net,8742835268064,Georgia,Savannah,981,lower_middle,poor,single,1,2022-12-04,36.0,standard
+CUST00946,Jessica,Lee,F,1984-07-21,41.0,veronicadavies@example.com,6838842536,California,San Diego,185,low,excellent,married,1,2023-04-05,32.0,premium
+CUST00947,Joshua,Rivera,M,1950-11-17,75.0,rvelasquez@example.net,8654795515,New York,New York,275,low,poor,married,2,2025-04-22,8.0,high_value
+CUST00948,Justin,Daniel,M,1947-12-05,78.0,fernandezmathew@example.com,3073409131,Texas,Austin,611,low,good,single,3,2025-08-25,4.0,standard
+CUST00949,Richard,Pugh,M,1953-09-18,72.0,thomaslinda@example.net,3604220695354,Arizona,Mesa,5,upper_middle,fair,single,1,2024-12-31,12.0,high_value
+CUST00950,Steven,Estrada,M,1959-09-01,66.0,ysantana@example.net,7006260151532,Pennsylvania,Philadelphia,581,low,fair,single,4,2025-09-17,3.0,standard
+CUST00951,Mark,Williamson,M,1949-06-11,76.0,fcampbell@example.org,001273227980595031,California,Los Angeles,519,lower_middle,good,married,5,2022-08-26,40.0,standard
+CUST00952,Donna,Byrd,F,1961-12-24,64.0,kendra03@example.net,0012106452036,North Carolina,Greensboro,89,upper_middle,poor,married,6,2022-09-11,39.0,standard
+CUST00953,Andrea,Evans,F,1989-01-03,36.0,mosesveronica@example.com,17928855359520,North Carolina,Raleigh,97,middle,excellent,married,3,2023-02-25,34.0,budget
+CUST00954,Andrew,Russell,M,1980-05-25,45.0,schneiderraymond@example.com,5019867740,Illinois,Naperville,661,high,very_good,single,2,2025-09-17,3.0,premium
+CUST00955,Derek,Frazier,M,1996-01-13,29.0,eileenhudson@example.com,29553006776255,Ohio,Cincinnati,215,low,good,single,2,2025-06-29,6.0,premium
+CUST00956,Mark,Poole,M,1952-03-23,73.0,ylewis@example.com,4264241784290,Arizona,Phoenix,291,upper_middle,poor,single,1,2024-11-13,13.0,budget
+CUST00957,Richard,Parker,M,2005-07-08,20.0,jonesjo@example.org,0018066053088,Illinois,Chicago,323,low,fair,married,2,2022-08-06,40.0,standard
+CUST00958,Alexis,Tanner,F,1955-03-16,70.0,cruzscott@example.org,14043575988759,New York,Buffalo,229,middle,excellent,divorced,2,2023-06-23,30.0,standard
+CUST00959,Kevin,Watkins,M,1976-02-01,49.0,,420227558214770,Georgia,Athens,588,low,excellent,single,2,2023-08-28,28.0,standard
+CUST00960,Brian,Owen,M,2004-07-21,21.0,jeremiahwalton@example.org,3369219215,California,San Jose,952,lower_middle,fair,married,3,2023-03-02,33.0,budget
+CUST00961,April,Diaz,F,1953-09-10,72.0,hrodriguez@example.net,338855881959772,Georgia,Savannah,733,low,poor,divorced,4,2022-01-06,47.0,budget
+CUST00962,Jose,Fletcher,M,1998-05-01,27.0,sally78@example.net,16317869289728,Texas,Houston,412,middle,poor,divorced,4,2025-03-21,9.0,budget
+CUST00963,Sharon,Sandoval,F,1982-03-28,43.0,garywebster@example.org,5024839482,Florida,Miami,873,,very_good,single,4,2024-11-13,13.0,standard
+CUST00964,Tony,Brown,M,1953-04-20,72.0,joshua43@example.net,2814165993,Texas,Austin,969,high,excellent,married,1,2025-08-12,4.0,premium
+CUST00965,Mark,Smith,M,1949-09-21,76.0,tiffanyhill@example.net,0015232227752135,North Carolina,Durham,176,lower_middle,good,single,3,2023-06-25,30.0,standard
+CUST00966,Kathy,Butler,F,2007-07-31,18.0,,1505493777569198,California,Los Angeles,98,lower_middle,very_good,single,2,2022-12-24,36.0,standard
+CUST00967,Michael,Pearson,M,1987-12-22,38.0,perrynicole@example.net,00161754690298310,Illinois,Aurora,977,upper_middle,very_good,married,3,2025-10-18,2.0,budget
+CUST00968,Kimberly,Hill,F,1989-06-18,36.0,jmyers@example.net,8317670805,Arizona,Phoenix,552,low,good,single,2,2022-07-14,41.0,budget
+CUST00969,Ryan,Solomon,M,1978-08-08,47.0,reyesjackie@example.org,6986655049,California,San Diego,398,high,excellent,single,1,2025-09-20,3.0,budget
+CUST00970,Matthew,Alexander,M,1976-08-17,49.0,rpetty@example.com,15334965049627,Georgia,Augusta,226,middle,excellent,single,1,2024-06-15,18.0,premium
+CUST00971,Janice,Hamilton,F,2004-01-08,21.0,davistanya@example.com,2629585421,Texas,Austin,783,high,good,married,3,2023-12-03,24.0,standard
+CUST00972,Trevor,Williamson,M,1997-08-13,28.0,phernandez@example.net,91949643385324,Texas,San Antonio,484,lower_middle,fair,divorced,5,2024-03-30,21.0,premium
+CUST00973,Mary,Diaz,F,1963-04-26,62.0,johnavery@example.org,0019318158760545,Illinois,Naperville,909,middle,very_good,single,2,2024-09-06,15.0,standard
+CUST00974,Kristy,Adams,F,1969-10-11,56.0,tmorales@example.net,8533536597466,Florida,Miami,569,middle,good,single,4,2022-09-29,39.0,standard
+CUST00975,Daniel,Ramirez,M,1952-08-24,73.0,matthewwood@example.net,0014097594815269,Florida,Miami,491,middle,fair,single,2,2024-05-02,19.0,budget
+CUST00976,Laura,Sanders,F,2004-09-18,21.0,pwhite@example.org,2426359142614,Pennsylvania,Erie,857,middle,good,married,4,2023-01-07,35.0,standard
+CUST00977,Kimberly,Gonzalez,F,2001-03-16,24.0,shelleyvelasquez@example.com,001354930796373100,Georgia,Atlanta,700,lower_middle,good,married,1,2022-09-25,39.0,budget
+CUST00978,Samantha,Gillespie,F,1956-12-07,69.0,millerjessica@example.com,8849523542,North Carolina,Charlotte,345,upper_middle,good,married,3,2024-04-22,20.0,budget
+CUST00979,Debra,Frazier,F,2007-11-07,18.0,fwilliams@example.org,182088652377729,California,Los Angeles,898,lower_middle,poor,married,2,2023-06-20,30.0,budget
+CUST00980,Erica,Lopez,F,1979-02-11,46.0,rodriguezrhonda@example.net,2522781055,California,San Diego,38,low,fair,single,5,2025-10-03,2.0,budget
+CUST00981,Tammie,Webb,F,1993-09-14,32.0,jessicajones@example.org,373916094391368,Ohio,Columbus,220,,good,single,5,2024-06-05,18.0,standard
+CUST00982,Terry,Gonzalez,M,1960-09-30,65.0,wdean@example.net,5867209297,North Carolina,Durham,172,lower_middle,excellent,single,3,2025-09-21,3.0,premium
+CUST00983,Michelle,Burch,F,1971-03-28,54.0,reneehernandez@example.org,157379389920457,Florida,Miami,300,upper_middle,good,married,1,2022-01-24,47.0,budget
+CUST00984,Carl,Henderson,M,1953-03-12,72.0,,3874082697,Ohio,Toledo,267,high,good,single,2,2024-10-12,14.0,premium
+CUST00985,James,Garcia,M,1980-09-14,45.0,moorecory@example.net,6388821764,Texas,San Antonio,632,high,very_good,married,1,2023-10-19,26.0,premium
+CUST00986,Curtis,Ramos,M,1965-02-20,60.0,dustinpetty@example.org,0014224280194425,Georgia,Augusta,239,lower_middle,good,single,5,2022-04-14,44.0,premium
+CUST00987,Nicholas,Gomez,M,1951-02-26,74.0,nwhite@example.com,2506637311,Ohio,Toledo,525,middle,good,divorced,2,2024-04-05,20.0,standard
+CUST00988,Michael,Vasquez,M,1954-05-19,71.0,adamcaldwell@example.org,8414852013,Texas,San Antonio,530,lower_middle,excellent,married,4,2024-06-28,18.0,premium
+CUST00989,Mary,Hicks,F,1966-10-14,59.0,uperez@example.com,1356715470554912,Texas,San Antonio,118,lower_middle,good,married,4,2024-07-04,17.0,standard
+CUST00990,Jessica,Le,F,1952-03-02,73.0,knightsamantha@example.com,964709196939578,Texas,San Antonio,247,high,very_good,married,4,2025-08-31,4.0,premium
+CUST00991,Antonio,Lara,M,2002-06-20,23.0,andrewjackson@example.org,1801897121241393,Texas,San Antonio,611,middle,poor,single,2,2024-04-24,20.0,standard
+CUST00992,Joseph,Holland,M,1974-11-22,51.0,knightalexandra@example.org,4269773192,Ohio,Columbus,859,upper_middle,good,married,4,2022-07-06,41.0,budget
+CUST00993,Jean,Duran,F,1978-08-05,47.0,heather88@example.net,78665339431916,Ohio,Cleveland,251,middle,fair,single,2,2025-09-02,3.0,premium
+CUST00994,Amanda,Hunt,F,1996-08-09,29.0,hunter12@example.org,6196150576,Georgia,Augusta,742,,excellent,married,2,2022-04-22,44.0,high_value
+CUST00995,Mark,Marsh,M,1966-08-07,59.0,dsmith@example.org,9688764486,North Carolina,Durham,395,middle,excellent,married,2,2025-02-21,10.0,premium
+CUST00996,Laura,Watkins,F,1968-04-29,57.0,barnesjames@example.com,804650063553730,Georgia,Athens,745,middle,fair,single,1,2022-08-22,40.0,budget
+CUST00997,Jeffery,Lopez,M,1978-11-13,47.0,omiller@example.net,145279635305970,New York,New York,463,high,fair,married,3,2023-12-01,24.0,premium
+CUST00998,Ashley,Rice,F,1978-10-01,47.0,,7158948989,Illinois,Aurora,462,lower_middle,very_good,married,4,2022-08-06,40.0,premium
+CUST00999,Thomas,Gutierrez,M,1976-11-03,49.0,kennethrivera@example.com,53464149169993,Florida,Jacksonville,366,high,good,single,1,2022-10-15,38.0,standard
+CUST01000,Laura,Mitchell,F,1986-05-22,39.0,natalie40@example.net,001682323095862973,Texas,Austin,331,high,fair,single,3,2025-06-05,6.0,premium
+CUST01001,Christopher,Coffey,M,2008-02-12,,sanderson@example.org,6708754853,New York,New York,490,middle,good,divorced,5,2024-03-15,21.0,standard
+CUST01002,George,Mcbride,M,1956-03-29,69.0,benjaminsmith@example.com,4967461293900,North Carolina,Raleigh,144,low,very_good,married,2,2023-11-24,25.0,budget
+CUST01003,Chad,Wilson,M,1997-03-15,28.0,zcook@example.com,596335957086199,Arizona,Phoenix,347,lower_middle,very_good,married,1,2025-07-20,5.0,standard
+CUST01004,Michael,Tran,M,1960-02-20,65.0,,4135885034,North Carolina,Greensboro,538,lower_middle,poor,single,4,2025-09-10,3.0,standard
+CUST01005,Christopher,Lambert,M,1956-07-02,69.0,hodgejames@example.com,82426310437968,North Carolina,Charlotte,47,middle,good,divorced,5,2024-12-22,12.0,premium
+CUST01006,Juan,Valenzuela,M,1991-07-29,34.0,jennifer29@example.com,69052177417430,Ohio,Toledo,422,middle,fair,single,1,2025-04-13,8.0,premium
+CUST01007,Amy,Perez,F,2001-04-17,24.0,stacey22@example.net,14465652752332,Ohio,Cleveland,17,lower_middle,good,married,1,2025-03-30,9.0,standard
+CUST01008,Chad,Taylor,M,1974-07-28,51.0,lewisnatalie@example.org,8339467711,Florida,Miami,483,middle,very_good,divorced,5,2024-03-04,21.0,premium
+CUST01009,Tasha,Smith,F,2005-07-05,20.0,ethomas@example.net,15556302453012,Ohio,Toledo,644,upper_middle,good,single,3,2024-05-07,19.0,standard
+CUST01010,Christopher,Johnson,M,1965-09-12,60.0,brandonfernandez@example.com,2907172224,Illinois,Naperville,81,middle,good,married,2,2023-12-04,24.0,standard
+CUST01011,Jessica,Johns,F,1975-05-30,50.0,,001717575461992406,North Carolina,Raleigh,708,lower_middle,very_good,single,2,2022-10-10,38.0,budget
+CUST01012,Shelia,Alexander,F,2000-12-06,25.0,vfuller@example.net,8226590956,Pennsylvania,Allentown,939,middle,good,single,2,2025-01-26,11.0,standard
+CUST01013,Steven,Munoz,F,1997-08-03,28.0,staceywashington@example.net,2793121211,Ohio,Cleveland,700,high,excellent,married,4,2023-02-16,34.0,standard
+CUST01014,Jimmy,Palmer,M,1963-04-22,62.0,toni86@example.net,13016707403925,Pennsylvania,Allentown,915,low,good,single,1,2023-12-09,24.0,high_value
+CUST01015,Henry,George,M,1997-04-18,28.0,snydergerald@example.org,46433387220542,Florida,Tampa,497,middle,very_good,married,6,2022-08-25,40.0,budget
+CUST01016,Casey,Shelton,F,1993-11-20,32.0,brittany63@example.org,00190873344470488,Ohio,Toledo,20,middle,very_good,single,2,2025-04-08,8.0,standard
+CUST01017,Denise,Smith,F,1958-07-30,67.0,daltonchristina@example.com,001585419537749266,Ohio,Cincinnati,788,low,fair,married,1,2024-05-15,19.0,budget
+CUST01018,Patrick,Gutierrez,M,1965-07-03,60.0,shaunjimenez@example.com,7253920616,Ohio,Columbus,190,middle,very_good,single,1,2022-02-21,46.0,standard
+CUST01019,Rhonda,Anderson,F,1991-10-12,34.0,ashley22@example.net,51185630295596,Florida,Miami,325,low,poor,married,1,2025-10-04,2.0,budget
+CUST01020,Joel,Cortez,M,1957-10-03,68.0,njackson@example.net,32056615498085,New York,Albany,273,middle,very_good,single,1,2022-11-26,37.0,standard
+CUST01021,Misty,Walker,F,1983-11-24,42.0,williamsaudrey@example.org,0013217122121548,Illinois,Springfield,710,middle,good,married,2,2022-05-08,43.0,standard
+CUST01022,Brittany,Graham,F,1975-08-27,50.0,tesparza@example.org,8916854880,New York,New York,405,low,good,single,6,2024-01-05,23.0,premium
+CUST01023,Nicole,Hood,F,1993-02-10,32.0,williamspaul@example.net,377887358566464,Texas,Dallas,954,high,excellent,married,2,2025-08-18,4.0,premium
+CUST01024,Beverly,Phillips,F,1959-07-15,66.0,bishopjennifer@example.com,6214320410,New York,Albany,806,middle,good,married,2,2025-09-22,3.0,premium
+CUST01025,David,Robinson,M,1954-12-09,71.0,jessica89@example.net,6173972699,Arizona,Tempe,859,lower_middle,excellent,single,5,2024-05-03,19.0,standard
+CUST01026,Candace,Hale,F,1954-10-24,71.0,brownnancy@example.com,502300053285386,Ohio,Columbus,10,middle,good,single,4,2022-01-27,47.0,standard
+CUST01027,Erica,Williams,F,2002-05-12,23.0,,2052826929,New York,Rochester,596,middle,good,single,6,2023-04-07,32.0,budget
+CUST01028,Jennifer,Terry,F,1958-06-05,67.0,pavila@example.org,8833896337,Pennsylvania,Pittsburgh,667,middle,good,single,5,2023-02-01,34.0,standard
+CUST01029,Gabrielle,Wilson,F,1990-03-19,35.0,dthompson@example.org,4685410132,North Carolina,Raleigh,300,middle,fair,married,2,2025-10-30,2.0,premium
+CUST01030,Mitchell,Hernandez,M,1993-01-24,32.0,michaellopez@example.net,18187750677610,Florida,Orlando,767,upper_middle,very_good,divorced,1,2024-11-18,13.0,standard
+CUST01031,Christopher,Walters,M,1983-11-22,42.0,chaselisa@example.org,001819527976178159,Arizona,Phoenix,714,lower_middle,fair,divorced,3,2024-05-27,19.0,premium
+CUST01032,Melissa,Bell,F,1981-02-12,44.0,jessicasmith@example.net,00142676568629591,Ohio,Cincinnati,592,lower_middle,fair,married,1,2022-09-24,39.0,standard
+CUST01033,Dan,Jensen,M,1987-08-19,38.0,matthewwalker@example.com,1860874299074729,Pennsylvania,Allentown,778,middle,poor,single,1,2022-01-12,47.0,standard
+CUST01034,Virginia,Torres,F,1999-04-16,26.0,,7806897474,North Carolina,Raleigh,536,high,fair,single,4,2022-03-23,45.0,budget
+CUST01035,Donald,Mckay,M,1960-06-08,65.0,daniel73@example.com,2856369881649,Georgia,Atlanta,385,middle,good,single,2,2025-07-04,5.0,budget
+CUST01036,Emily,Sparks,F,1958-08-10,67.0,uliu@example.org,6022627066,North Carolina,Durham,28,upper_middle,excellent,single,5,2022-05-30,43.0,standard
+CUST01037,Sara,White,F,1983-08-25,42.0,michael13@example.org,5899830574,Ohio,Cleveland,348,middle,very_good,single,4,2023-01-12,35.0,high_value
+CUST01038,Roy,Paul,M,1954-06-24,71.0,robert30@example.org,7505003056619,Ohio,Cleveland,27,high,very_good,single,2,2024-05-01,19.0,high_value
+CUST01039,Susan,Clements,F,1973-08-17,52.0,colton49@example.org,9844679087018,Texas,Austin,548,lower_middle,very_good,married,1,2023-03-30,33.0,high_value
+CUST01040,Shawn,Lara,M,1949-05-23,76.0,welchjames@example.com,0018109344442990,Georgia,Augusta,364,upper_middle,very_good,single,2,2024-01-09,23.0,standard
+CUST01041,Mary,Blevins,F,1985-04-12,40.0,xcardenas@example.org,70682215599672,New York,Rochester,238,lower_middle,excellent,married,6,2025-02-23,10.0,premium
+CUST01042,Clinton,Wyatt,M,1955-10-07,70.0,riverajason@example.net,174750474764845,Texas,Austin,792,middle,very_good,married,1,2024-07-01,17.0,premium
+CUST01043,Jeffrey,Jackson,M,2004-12-23,21.0,amandaedwards@example.com,2242553129,Pennsylvania,Pittsburgh,976,high,fair,single,2,2022-03-23,45.0,premium
+CUST01044,Danielle,Anderson,F,1959-11-05,66.0,ariascarlos@example.net,001773727726488395,Arizona,Phoenix,731,middle,good,married,1,2024-03-01,21.0,budget
+CUST01045,Erika,White,F,1992-10-05,33.0,george52@example.net,216218575917105,Ohio,Cincinnati,481,lower_middle,good,single,2,2022-02-20,46.0,standard
+CUST01046,Elizabeth,Davis,F,1977-10-07,48.0,eparker@example.org,001653952478417159,Ohio,Toledo,266,low,good,divorced,3,2024-09-23,15.0,budget
+CUST01047,David,Boone,M,1988-04-20,37.0,benjaminhall@example.net,3035318361,Illinois,Springfield,319,middle,good,married,2,2023-10-19,26.0,standard
+CUST01048,Roger,Boyd,M,1988-02-26,37.0,ronaldjohnson@example.com,882481527873048,Texas,Dallas,419,low,very_good,married,2,2025-01-06,11.0,budget
+CUST01049,Michael,Edwards,M,1955-08-01,70.0,aholt@example.com,1535637801891567,Texas,Dallas,370,high,good,married,4,2025-10-04,2.0,premium
+CUST01050,Sean,Crawford,M,1997-04-19,28.0,yramos@example.org,0016698143362,Arizona,Phoenix,829,middle,very_good,divorced,2,2023-02-26,34.0,standard
+CUST01051,Rebecca,Green,F,1970-07-02,55.0,lynchbarbara@example.org,0015017089857390,Texas,Dallas,219,middle,excellent,married,5,2022-02-18,46.0,budget
+CUST01052,Anna,Miller,F,1987-09-20,38.0,salvarado@example.com,9467488499,Georgia,Atlanta,579,middle,poor,married,5,2022-06-29,42.0,standard
+CUST01053,Christopher,Bartlett,M,1972-07-04,53.0,tmurphy@example.net,9823819022179,California,San Diego,185,lower_middle,very_good,married,6,2023-05-31,31.0,budget
+CUST01054,Edwin,Fernandez,M,1990-10-08,35.0,,398344514367286,Pennsylvania,Pittsburgh,243,middle,good,married,2,2023-06-14,30.0,premium
+CUST01055,Molly,Little,F,1961-07-20,64.0,karen81@example.org,0012392781459,Arizona,Tempe,972,lower_middle,fair,single,2,2025-07-14,5.0,premium
+CUST01056,Rebecca,Douglas,F,2006-03-25,19.0,marthagriffin@example.net,5557286693,Arizona,Mesa,122,lower_middle,fair,single,2,2022-02-04,46.0,high_value
+CUST01057,Lori,Sandoval,F,1997-12-05,28.0,webstersteven@example.net,5533260119,Texas,Houston,18,high,good,single,2,2025-08-06,4.0,premium
+CUST01058,David,Mathews,M,1955-10-26,70.0,,3132609085818,Pennsylvania,Philadelphia,376,upper_middle,excellent,single,4,2022-05-29,43.0,budget
+CUST01059,Erin,Suarez,F,1967-08-21,58.0,jenniferclark@example.org,587536627135896,Ohio,Columbus,467,lower_middle,fair,single,4,2023-08-17,28.0,budget
+CUST01060,Dana,Montgomery,F,1995-03-12,30.0,simsamy@example.com,5549731566,Pennsylvania,Philadelphia,749,low,good,married,1,2023-07-31,29.0,standard
+CUST01061,Charlene,Reed,F,2006-12-17,19.0,garciakelly@example.com,1890828377270289,Arizona,Tempe,542,,poor,married,2,2025-09-15,3.0,premium
+CUST01062,Aaron,Sloan,M,1967-05-04,58.0,adrianagray@example.com,6168101975358,North Carolina,Raleigh,353,middle,good,single,5,2024-12-28,12.0,premium
+CUST01063,Andrew,Brooks,M,1955-09-25,70.0,lopezann@example.org,8734042763,Florida,Jacksonville,672,lower_middle,very_good,divorced,2,2025-01-22,11.0,high_value
+CUST01064,Shelia,Baker,F,1964-11-25,61.0,shawn89@example.org,0019538096906,Florida,Tampa,345,middle,fair,divorced,3,2025-10-19,2.0,budget
+CUST01065,Melissa,Valencia,F,1992-02-17,33.0,hudsonglen@example.net,001949387455135872,California,San Diego,599,lower_middle,fair,single,1,2022-09-10,39.0,high_value
+CUST01066,Derek,Gonzalez,M,1990-12-10,35.0,jshaffer@example.org,3649034398,California,San Jose,274,middle,poor,single,2,2025-01-05,11.0,standard
+CUST01067,Joshua,Ramos,M,1998-02-16,27.0,suzanne33@example.org,74757041309091,Illinois,Springfield,676,lower_middle,good,single,6,2023-12-06,24.0,standard
+CUST01068,Roger,Marks,M,1948-11-04,77.0,amyfoster@example.com,9204412319057,Arizona,Tucson,14,high,good,married,1,2022-11-26,37.0,premium
+CUST01069,Derrick,Ramirez,M,1948-08-09,77.0,zimmermantroy@example.net,0019416932453810,New York,Albany,134,upper_middle,excellent,single,6,2023-02-02,34.0,budget
+CUST01070,Troy,Mclean,M,1957-01-29,68.0,amy70@example.net,00198762649632251,Florida,Miami,193,middle,poor,single,3,2025-01-29,11.0,standard
+CUST01071,Charlene,Smith,F,2003-11-28,22.0,geraldgarcia@example.net,19002346861630,Ohio,Columbus,200,upper_middle,excellent,single,3,2023-08-19,28.0,standard
+CUST01072,Joshua,West,M,1991-09-09,34.0,,7955366219,Illinois,Chicago,541,middle,fair,widowed,2,2023-02-09,34.0,premium
+CUST01073,Tina,Silva,F,1947-12-11,78.0,steven95@example.org,9175325900,Georgia,Augusta,811,middle,fair,married,2,2022-09-20,39.0,standard
+CUST01074,Joel,Lopez,M,2000-04-03,25.0,penageorge@example.org,8389690871,Texas,Austin,191,high,very_good,single,1,2025-06-22,6.0,premium
+CUST01075,Cody,Johnson,M,2003-04-25,22.0,leslie46@example.org,21942817074436,New York,Albany,300,middle,good,married,2,2024-09-22,15.0,premium
+CUST01076,Olivia,Carter,F,2000-10-15,25.0,isaiahthomas@example.net,60295239412094,Georgia,Augusta,626,upper_middle,good,single,1,2025-04-11,8.0,premium
+CUST01077,Stephen,Bennett,M,1948-10-20,77.0,emilyfisher@example.net,2514327617948,Pennsylvania,Allentown,359,lower_middle,good,single,3,2023-10-10,26.0,budget
+CUST01078,Tiffany,Wilcox,F,1971-09-14,54.0,daniel02@example.org,8916589126,Florida,Miami,965,middle,good,divorced,5,2023-10-04,26.0,standard
+CUST01079,Lawrence,Herrera,M,1975-05-31,50.0,timothy68@example.net,523976008844740,New York,Rochester,866,low,good,divorced,4,2023-07-21,29.0,standard
+CUST01080,Kristin,Davis,F,1985-09-07,40.0,armstrongtravis@example.net,0015218640069,Florida,Tampa,801,middle,poor,married,5,2024-09-09,15.0,standard
+CUST01081,Charles,Abbott,F,2003-12-29,22.0,kristenpetty@example.com,3485647082,North Carolina,Durham,757,lower_middle,excellent,divorced,2,2023-09-18,27.0,budget
+CUST01082,Tracie,Ortiz,F,1965-12-07,60.0,tlopez@example.org,2125372055,Ohio,Columbus,290,high,excellent,married,3,2022-12-26,36.0,standard
+CUST01083,Aaron,Smith,M,1984-08-05,41.0,swright@example.net,0013673391900889,Illinois,Springfield,335,upper_middle,fair,married,1,2025-01-08,11.0,budget
+CUST01084,Bryan,Yates,M,1948-11-03,77.0,cruzkaren@example.net,9322737989,Illinois,Chicago,513,middle,good,single,2,2022-06-04,42.0,standard
+CUST01085,Adam,Pope,M,1970-03-10,55.0,amy18@example.com,84633000998433,Ohio,Columbus,131,lower_middle,good,widowed,2,2025-04-06,8.0,standard
+CUST01086,Miranda,Sanchez,F,1977-08-05,48.0,noblealexandra@example.org,619285458294203,Pennsylvania,Pittsburgh,94,middle,excellent,single,4,2022-03-17,45.0,standard
+CUST01087,Heidi,Nguyen,F,1963-07-17,62.0,robert07@example.com,39929449466720,Ohio,Toledo,726,middle,poor,married,3,2025-09-01,3.0,budget
+CUST01088,Chad,Ibarra,M,1996-04-30,29.0,,2824238794,Georgia,Athens,517,upper_middle,fair,married,4,2023-04-03,32.0,budget
+CUST01089,Brenda,Schmidt,F,1981-05-06,44.0,crawfordhaley@example.org,6353364235700,Florida,Jacksonville,214,middle,fair,single,1,2024-10-23,14.0,high_value
+CUST01090,Manuel,Riddle,M,1985-05-17,40.0,andrearivera@example.net,8613255904,Arizona,Mesa,46,lower_middle,good,married,1,2024-10-25,14.0,standard
+CUST01091,Antonio,Guzman,M,1962-03-04,63.0,bakerricky@example.org,3284382710,New York,Buffalo,267,lower_middle,fair,single,4,2024-11-18,13.0,standard
+CUST01092,William,Martinez,M,1997-04-13,28.0,fjones@example.org,5486507665,North Carolina,Raleigh,414,lower_middle,good,single,5,2023-01-02,35.0,high_value
+CUST01093,James,Williams,M,2006-10-31,19.0,diana27@example.com,2467019153,North Carolina,Durham,659,upper_middle,fair,single,2,2022-03-24,45.0,standard
+CUST01094,Nathan,Lindsey,M,1961-03-19,64.0,travis24@example.org,9864176822512,North Carolina,Raleigh,521,middle,very_good,divorced,2,2022-05-09,43.0,premium
+CUST01095,Jody,Smith,F,1973-12-09,52.0,ypadilla@example.com,0016626241976878,Georgia,Savannah,625,upper_middle,good,single,1,2022-03-29,45.0,premium
+CUST01096,John,Miller,M,1958-02-16,67.0,fowlermichael@example.org,618248974223543,Ohio,Cincinnati,407,middle,good,married,2,2024-03-05,21.0,premium
+CUST01097,Molly,Koch,F,1998-07-27,27.0,hkelley@example.org,4562495254,North Carolina,Charlotte,528,upper_middle,good,married,3,2022-03-23,45.0,premium
+CUST01098,Mary,Hill,F,1966-07-12,59.0,mirandacraig@example.net,15736881827306,Texas,Austin,300,high,fair,married,5,2023-06-24,30.0,standard
+CUST01099,George,Willis,M,1966-10-30,59.0,jenniferrice@example.com,0013683066405,Arizona,Tempe,62,lower_middle,very_good,married,2,2024-01-19,23.0,standard
+CUST01100,Christopher,Martin,M,2007-01-09,18.0,larry41@example.net,8302160498,Ohio,Cincinnati,319,lower_middle,good,divorced,3,2024-02-10,22.0,standard
