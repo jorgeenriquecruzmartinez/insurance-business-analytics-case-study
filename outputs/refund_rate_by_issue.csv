@@ -1,0 +1,9 @@
+issue_type,refund_rate
+discount_dispute,0.19444444444444445
+policy_change_request,0.17973856209150327
+app_login_issue,0.17391304347826086
+account_update_request,0.14878892733564014
+billing_issue,0.14426229508196722
+mileage_sync_issue,0.12121212121212122
+payment_failure,0.1178343949044586
+claim_status_question,0.11498257839721254

@@ -1,0 +1,9 @@
+issue_type,escalation_rate
+billing_issue,0.17049180327868851
+mileage_sync_issue,0.1606060606060606
+app_login_issue,0.1505016722408027
+claim_status_question,0.14634146341463414
+discount_dispute,0.14583333333333334
+account_update_request,0.13494809688581316
+policy_change_request,0.13071895424836602
+payment_failure,0.11464968152866242
