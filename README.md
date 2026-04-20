@@ -284,8 +284,13 @@ The project could be extended into:
 - risk segmentation models
 - claim likelihood modeling
 - discount scenario analysis
-- interactive dashboards in Power BI, Tableau, or Streamlit
 
+## Project Structure
+
+- `notebooks/` — synthetic data generation, targeted cleaning, and KPI analysis
+- `data_processed/` — cleaned analytical tables used for reporting
+- `outputs/` — exported KPI summary tables
+- `dashboard/` — Power BI dashboard screenshots
 ---
 
 ## Final Note
