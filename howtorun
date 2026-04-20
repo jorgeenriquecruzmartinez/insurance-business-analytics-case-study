@@ -1,0 +1,13 @@
+## How to Run
+
+1. Open the notebooks in order:
+   - `01_generate_synthetic_insurance_environment.ipynb`
+   - `02_data_quality_review_and_cleaning.ipynb`
+   - `03_business_kpi_analysis.ipynb`
+
+2. Run the notebooks sequentially to:
+   - generate the synthetic raw environment
+   - clean and validate the data
+   - produce KPI tables and analytical outputs
+
+3. Use the processed outputs for dashboarding in Power BI/Looker/Cognos.
